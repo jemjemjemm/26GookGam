@@ -204,6 +204,31 @@
   .month-group[open] .when-open { display: inline; }
   .month-group[open] .when-closed { display: none; }
   .month-group .table-wrap { border: 0; border-top: 1px solid #d5dce7; border-radius: 0; }
+
+  /* Fit both schedule tables to phone screens without hiding content. */
+  @media (max-width: 600px) {
+    main { padding: 14px 8px 40px; }
+    table { min-width: 0; table-layout: fixed; }
+    thead th, tbody td { padding: 10px 4px; font-size: 12px; line-height: 1.5; }
+    thead th:nth-child(1) { width: 65px; }
+    thead th:nth-child(2) { width: 44px; }
+    thead th:nth-child(4) { width: 46px; }
+    #panel-done thead th:nth-child(5) { width: 48px; }
+    td.col-time { white-space: normal; overflow-wrap: anywhere; }
+    tbody td:nth-child(3), tbody td:nth-child(4) {
+      white-space: normal;
+      overflow-wrap: anywhere;
+      word-break: normal;
+    }
+    td.col-report { min-width: 0; }
+    .col-report .report-btn {
+      width: 100%;
+      min-height: 40px;
+      padding: 6px 2px;
+      white-space: nowrap;
+    }
+    .month-group summary { padding: 12px 10px; }
+  }
 </style>
 </head>
 <body>
@@ -234,9 +259,15 @@
         <tbody>
           <tr>
             <td class="col-date">9/17(목)</td>
+            <td class="col-time">11:00</td>
+            <td>산자중기위 전체회의</td>
+            <td>김윤정</td>
+          </tr>
+          <tr>
+            <td class="col-date">9/17(목)</td>
             <td class="col-time">14:00</td>
             <td>수석보좌관회의</td>
-            <td>김윤정</td>
+            <td>정혜원</td>
           </tr>
           
           <tr>

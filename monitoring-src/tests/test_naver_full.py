@@ -16,6 +16,15 @@ class NaverFullTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as t,patch.dict(os.environ,{},clear=True):
             r=collect(Path(t)/'a.db',fetch=lambda req:(_ for _ in ()).throw(AssertionError('network')),now=NOW,config=CFG)
             self.assertEqual(r['status'],'not_configured')
+            self.assertEqual(r['missing_credentials'],['NAVER_CLIENT_ID','NAVER_CLIENT_SECRET'])
+    def test_auth_error_reports_status_without_credentials(self):
+        from urllib.error import HTTPError
+        def fail(req):raise HTTPError(req.full_url,401,'Unauthorized',None,None)
+        with tempfile.TemporaryDirectory() as t,patch.dict(os.environ,{'NAVER_CLIENT_ID':'private-id','NAVER_CLIENT_SECRET':'private-secret'}):
+            r=collect(Path(t)/'a.db',fail,NOW,CFG)
+            self.assertEqual(r['queries'][0]['error_code'],'HTTP_401')
+            self.assertEqual(r['status'],'failed')
+            self.assertNotIn('private-secret',str(r))
     def test_overlapping_pages_end_and_duplicates(self):
         starts=[]
         def fetch(req):

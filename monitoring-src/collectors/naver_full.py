@@ -19,7 +19,10 @@ def collect(path,fetch=fetch_json,now=None,config=None):
             'scope':'네이버 검색에 색인되고 지정 검색어와 일치하는 기사. 미색인 기사·검색어 밖 기사는 포함 보장 불가.'}
     with connect(path) as db:
         db.execute('INSERT OR IGNORE INTO sources(id,channel,name,access_mode,expected_minutes,status,rights_note) VALUES(?,?,?,?,?,?,?)',('naver-search','media','네이버 뉴스 API','api',15,'not_configured','제목·매체·원문 링크만 관측. 요약은 본문으로 간주하지 않음.'))
-    if not all(creds):return result
+    if not all(creds):
+        result['missing_credentials']=[name for name,value in zip(['NAVER_CLIENT_ID','NAVER_CLIENT_SECRET'],creds) if not value]
+        with connect(path) as db:db.execute("UPDATE sources SET status='not_configured' WHERE id='naver-search'")
+        return result
     for query in queries:
         q={'query':query,'reported_total':None,'scanned':0,'unique_urls':0,'in_scope':0,'new':0,'pages':0,'status':'running','oldest':None}
         seen=set();relevant=set()
@@ -47,7 +50,7 @@ def collect(path,fetch=fetch_json,now=None,config=None):
             q['unique_urls']=len(seen);q['in_scope']=len(relevant)
             if q['status']=='running':q['status']='api_limit'
         except Exception as exc:
-            q['status']='failed';q['error_code']=type(exc).__name__;result['failed']+=1
+            q['status']='failed';q['error_code']=f'HTTP_{exc.code}' if hasattr(exc,'code') else type(exc).__name__;result['failed']+=1
         result['added']+=q['new'];result['queries'].append(q)
         with connect(path) as db:db.execute('UPDATE collection_runs SET finished_at=?,status=?,items=?,error_code=? WHERE id=?',(stamp,q['status'],q['new'],q.get('error_code'),run))
     good=sum(q['status'] in ['scope_boundary_reached','results_end_reached'] for q in result['queries'])

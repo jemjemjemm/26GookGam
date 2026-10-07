@@ -3,7 +3,7 @@ window.RADAR_PAGES={cache:null};
 window.radarPagesAPI=async function(path){
  const params=new URL(path,'https://local.invalid');
  let data=window.RADAR_PAGES.cache;
- if(!data||params.pathname==='/api/snapshot'){
+ if(!data||params.pathname==='/api/snapshot'||params.pathname==='/api/readiness'||params.pathname==='/api/reports'){
    try{const res=await fetch('./data.json?t='+Date.now(),{cache:'no-store'});if(!res.ok)throw Error('수집 자료 조회 실패');data=await res.json();window.RADAR_PAGES.cache=data;}
    catch(e){if(!data)throw e;}
  }
@@ -17,7 +17,7 @@ window.radarPagesAPI=async function(path){
  const s=JSON.parse(JSON.stringify(data.snapshots[key]));
  if(!s)throw Error('지원하지 않는 시간창');
  s.documents=s.documents.map(id=>data.documents[id]);
- s.mode='live';const q=(params.searchParams.get('q')||'').toLocaleLowerCase();
+ s.mode='live';if(data.collection.status==='failed'||data.collection.status==='partial'){s.alerts.unshift({rule:'COLLECTION_STALE',severity:'quality',text:'일부 또는 전체 뉴스 수집 실패. 이전 기사 목록을 유지합니다.',logic:'최근 RSS 수집 실행의 실패 건수가 1건 이상.',evidence:[]});}const q=(params.searchParams.get('q')||'').toLocaleLowerCase();
  if(q){s.documents=s.documents.filter(r=>(r.title+' '+r.body).toLocaleLowerCase().includes(q));s.metrics.published=s.documents.filter(r=>r.channel==='media').length;s.metrics.stories=0;s.metrics.public_sample=0;s.metrics.negative=null;s.metrics.risk=null;s.metrics.eligible=0;s.metrics.pending=s.documents.length;s.frames={};s.narratives=[];s.trend=[];s.shift={score:null,delta_pp:null,reason:'검색 표본 분석 대기'};Object.values(s.companies).forEach(x=>{x.score=null;x.mentions=0;x.negative_share=null;});s.logic.exposure_short='검색 결과는 제목 자료만 포함. 본문·승인 분석이 없어 노출 지수 보류.';s.logic.risk_short='검색 결과의 본문·온라인 승인 표본이 없어 위험 지수 보류.';s.logic.shift='제목 검색 결과의 승인 독립 기사가 없어 프레임 변화 판단 보류.';s.logic.negative='승인된 온라인 표본이 없어 부정 비율 판단 보류.';}
  if(stale){s.metrics.risk=null;s.metrics.risk_reason='최신 수집 시각이 45분 이상 경과';s.metrics.coverage=0;s.sources.forEach(x=>x.fresh=false);s.logic.risk_short+=' 최신 수집 45분 초과로 판단 보류.';s.alerts.unshift({rule:'COLLECTION_STALE',severity:'quality',text:'수집·배포 지연. 화면의 기준 시각과 GitHub Actions 실행 결과를 확인하세요.',logic:'페이지 실행 시각−마지막 데이터 생성 시각>45분.',evidence:[]});}
  $('cutoff').value=new Date(Date.parse(at)+9*3600000).toISOString().slice(0,16);$('cutoff').disabled=true;$('dataset').value='live';$('dataset').disabled=true;

@@ -11,6 +11,7 @@ from urllib.request import Request,build_opener,HTTPRedirectHandler
 from bs4 import BeautifulSoup
 
 PENDING='본문 미 확인 판단 보류'
+NEUTRAL_BASIS='확인한 본문에서 SK에너지에 대한 추가적인 비판·피해 논리나 방어·완화 논리가 확인되지 않아 중립으로 판단합니다. 본문의 혐의·예상 과징금 수치만으로 부정 분류하지 않습니다.'
 SELECTORS=['#dic_area','#articleBodyContents','#articleBody','#article_body','#textBody','#newsct_article','#article_content','.story-news','.article-body','.article_body','.article-body-content','[itemprop="articleBody"]','.article-view-content','article']
 
 def safe_url(url):
@@ -47,7 +48,7 @@ def extract(raw):
     for script in soup.select('script[type="application/ld+json"]'):
         try:structured(json.loads(script.string or script.get_text()))
         except (ValueError,TypeError):pass
-    for node in soup.select('script,style,nav,header,footer,aside,form,.related-news,.advertisement'):node.decompose()
+    for node in soup.select('script,style,nav,header,footer,aside,form,h1,.related-news,.advertisement'):node.decompose()
     for selector in SELECTORS:
         for node in soup.select(selector):candidates.append((node.get_text('\n',strip=True),selector))
     for text,method in candidates:
@@ -71,7 +72,7 @@ def judge_body(text):
     if negative:
         return '부정',f'본문에서 ‘{negative[0]}’라는 추가 비판·피해 논리가 SK에너지·정유업계와 연결됩니다.'+(' 방어·반론도 있으나 비판 신호를 우선한 규칙 판정입니다.' if positive else ' 단순 심의·과징금 추정 보도와 구분한 규칙 판정입니다.')
     if positive:return '긍정',f'본문에서 ‘{positive[0]}’라는 방어·완화 논리가 함께 전달됩니다. 대응 논리 노출의 상대적 효과이며 주장 진위·무혐의 확정 판단이 아닙니다.'
-    return '중립','확인한 본문은 심의 절차·혐의·당국 발표를 전달하며 별도의 비판 또는 방어 단서가 확인되지 않았습니다. 과징금 추정액만으로 부정 분류하지 않습니다.'
+    return '중립',NEUTRAL_BASIS
 
 def read(row,at,fetch=fetch_html):
     result={'confirmed':False,'label':PENDING,'basis':PENDING,'checked_at':at,'version':2}
@@ -85,6 +86,8 @@ def read(row,at,fetch=fetch_html):
 def collect(rows,cache_file,now,fetch=fetch_html):
     cache_file.parent.mkdir(parents=True,exist_ok=True)
     cached=json.loads(cache_file.read_text(encoding='utf-8')) if cache_file.exists() else {}
+    for observation in cached.values():
+        if observation.get('confirmed') and observation.get('label')=='중립':observation['basis']=NEUTRAL_BASIS+' 본문 추출 내용 기준 자동 규칙 판정.'
     pending=[]
     for row in rows:
         old=cached.get(row['url'])

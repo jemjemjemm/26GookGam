@@ -28,6 +28,7 @@ jobs:
         run: |
           python -m unittest discover -s tests -q
           node tests/headline-observation.cjs
+          node tests/sk-impact.cjs
       - name: Collect public titles and build read API
         working-directory: monitoring-src
         env:

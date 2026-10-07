@@ -12,6 +12,20 @@ CFG={'since':'2026-10-07T00:00:00+09:00','queries':['test'],'request_budget':200
 def item(i,date='Wed, 07 Oct 2026 02:00:00 GMT'):
     return {'originallink':f'https://example.com/article/{i}','link':f'https://example.com/article/{i}','title':f'<b>title</b> {i}','description':'not full article','pubDate':date}
 class NaverFullTests(unittest.TestCase):
+    def test_hub_credentials_switch_endpoint_after_legacy_401(self):
+        from urllib.error import HTTPError
+        calls=[]
+        def fetch(req):
+            calls.append(req)
+            if 'openapi.naver.com' in req.full_url:raise HTTPError(req.full_url,401,'Unauthorized',None,None)
+            self.assertEqual(req.get_header('X-ncp-apigw-api-key-id'),'test')
+            self.assertEqual(req.get_header('X-ncp-apigw-api-key'),'test')
+            return {'total':1,'items':[item(1)]}
+        with tempfile.TemporaryDirectory() as t,patch.dict(os.environ,{'NAVER_CLIENT_ID':' test ','NAVER_CLIENT_SECRET':'test'}):
+            r=collect(Path(t)/'a.db',fetch,NOW,CFG)
+            self.assertEqual(r['status'],'ok');self.assertEqual(r['added'],1)
+            self.assertEqual(r['endpoint'],'api_hub');self.assertEqual(r['requests'],2)
+            self.assertIn('/search/v1/news?',calls[1].full_url)
     def test_missing_keys_never_calls(self):
         with tempfile.TemporaryDirectory() as t,patch.dict(os.environ,{},clear=True):
             r=collect(Path(t)/'a.db',fetch=lambda req:(_ for _ in ()).throw(AssertionError('network')),now=NOW,config=CFG)

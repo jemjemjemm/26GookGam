@@ -14,7 +14,7 @@ def collect(path,fetch=fetch_json,now=None,config=None):
     now=now or datetime.now(KST);stamp=now.isoformat()
     cfg=config or json.loads((ROOT/'config/collection.json').read_text(encoding='utf-8'))
     since=datetime.fromisoformat(cfg['since']);queries=cfg['queries'];budget=cfg.get('request_budget',200)
-    creds=[os.environ.get('NAVER_CLIENT_ID'),os.environ.get('NAVER_CLIENT_SECRET')]
+    creds=[(os.environ.get(name) or '').strip() for name in ['NAVER_CLIENT_ID','NAVER_CLIENT_SECRET']]
     result={'status':'not_configured','provider':'naver','since':since.isoformat(),'added':0,'requests':0,'failed':0,'queries':[],
             'scope':'네이버 검색에 색인되고 지정 검색어와 일치하는 기사. 미색인 기사·검색어 밖 기사는 포함 보장 불가.'}
     with connect(path) as db:
@@ -23,6 +23,17 @@ def collect(path,fetch=fetch_json,now=None,config=None):
         result['missing_credentials']=[name for name,value in zip(['NAVER_CLIENT_ID','NAVER_CLIENT_SECRET'],creds) if not value]
         with connect(path) as db:db.execute("UPDATE sources SET status='not_configured' WHERE id='naver-search'")
         return result
+    endpoint='developers';fallback_tried=False
+    def request_page(query,start,mode):
+        params={'query':query,'sort':'date','display':100,'start':start}
+        if mode=='api_hub':
+            url='https://naverapihub.apigw.ntruss.com/search/v1/news';params['format']='json'
+            headers={'X-NCP-APIGW-API-KEY-ID':creds[0],'X-NCP-APIGW-API-KEY':creds[1]}
+        else:
+            url='https://openapi.naver.com/v1/search/news.json'
+            headers={'X-Naver-Client-Id':creds[0],'X-Naver-Client-Secret':creds[1]}
+        result['requests']+=1
+        return fetch(Request(url+'?'+urlencode(params),headers=headers))
     for query in queries:
         q={'query':query,'reported_total':None,'scanned':0,'unique_urls':0,'in_scope':0,'new':0,'pages':0,'status':'running','oldest':None}
         seen=set();relevant=set()
@@ -30,8 +41,14 @@ def collect(path,fetch=fetch_json,now=None,config=None):
         try:
             for start in [*range(1,902,75)]:
                 if result['requests']>=budget:q['status']='budget_limit';break
-                req=Request('https://openapi.naver.com/v1/search/news.json?'+urlencode({'query':query,'sort':'date','display':100,'start':start}),headers={'X-Naver-Client-Id':creds[0],'X-Naver-Client-Secret':creds[1]})
-                result['requests']+=1;data=fetch(req);q['pages']+=1
+                try:data=request_page(query,start,endpoint)
+                except Exception as exc:
+                    if endpoint=='developers' and not fallback_tried and getattr(exc,'code',None)==401 and result['requests']<budget:
+                        fallback_tried=True;endpoint='api_hub'
+                        result['authentication_fallback']='developers_HTTP_401_to_api_hub'
+                        data=request_page(query,start,endpoint)
+                    else:raise
+                q['pages']+=1
                 total=int(data['total']);q['reported_total']=max(total,q['reported_total'] or 0)
                 entries=data['items'];rows=[];old=False
                 for r in entries:
@@ -56,6 +73,7 @@ def collect(path,fetch=fetch_json,now=None,config=None):
     good=sum(q['status'] in ['scope_boundary_reached','results_end_reached'] for q in result['queries'])
     result['status']='ok' if good==len(queries) else 'partial' if good else 'failed'
     result['limited_queries']=sum(q['status'] in ['api_limit','budget_limit'] for q in result['queries'])
+    result['endpoint']=endpoint
     with connect(path) as db:
         db.execute('UPDATE sources SET status=?,last_success=CASE WHEN ? THEN ? ELSE last_success END,expected_minutes=15 WHERE id=?',('connected' if good else 'failed',bool(good),stamp,'naver-search'))
     return result

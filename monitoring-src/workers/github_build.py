@@ -11,6 +11,7 @@ from collectors.import_json import ingest
 from collectors.rss import collect
 from collectors.naver_full import collect as collect_naver
 from workers.report import render,tick
+from workers.public_report import connected,render_current
 
 def build(db_path,out,state,run_collection=True,now=None):
     now=now or datetime.now(KST);out=Path(out);out.mkdir(parents=True,exist_ok=True);state=Path(state)
@@ -44,6 +45,10 @@ def build(db_path,out,state,run_collection=True,now=None):
         state.parent.mkdir(parents=True,exist_ok=True);state.write_text(json.dumps(ledger,ensure_ascii=False,indent=2),encoding='utf-8')
         total=len(rows);s=snapshots['24:all']
         reports=[{'body':r['body']} for r in saved_reports[:20]]
+        if connected(naver):
+            current=render_current(rows,result,now.isoformat())
+            (out/'report.md').write_text(current,encoding='utf-8')
+            reports.insert(0,{'body':current})
         # Store documents once; all time/channel snapshots reference the same catalog.
         catalog={r['id']:r for entry in snapshots.values() for r in entry['documents']}
         for entry in snapshots.values():entry['documents']=[r['id'] for r in entry['documents']]

@@ -25,7 +25,9 @@ jobs:
           python-version: '3.12'
       - name: Verify source and publication boundaries
         working-directory: monitoring-src
-        run: python -m unittest discover -s tests -q
+        run: |
+          python -m unittest discover -s tests -q
+          node tests/headline-observation.cjs
       - name: Collect public titles and build read API
         working-directory: monitoring-src
         env:

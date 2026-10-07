@@ -60,16 +60,17 @@ def build(db_path,out,state,run_collection=True,now=None):
     (out/'data.json').write_text(json.dumps(payload,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
     html=(ROOT/'frontend/index.html').read_text(encoding='utf-8')
     html=html.replace('href="/style.css"','href="./style.css"').replace('src="/app.js"','src="./app.js"').replace('src="/browser-check.js"','src="./browser-check.js"')
+    html=html.replace('src="/headline-observation.js"','src="./headline-observation.js"')
     html=html.replace('<script src="./app.js">','<script src="./pages-api.js"></script><script src="./app.js">')
     html=html.replace('<option value="1">','<option value="1">').replace('<option value="24">','<option value="24" selected>')
     html=html.replace('기준 시각 · 한국시간','최근 수집 시각 · 한국시간')
     html=html.replace('<option value="24" selected>최근 24시간</option>','<option value="24">최근 24시간</option><option value="archive" selected>전체 수집 기사</option>')
     # Browsers may retain old scripts after Pages deploys new HTML.
-    for name in ['app.js','style.css','browser-check.js','pages-api.js']:
+    for name in ['app.js','style.css','browser-check.js','pages-api.js','headline-observation.js']:
         version=hashlib.sha256((ROOT/'frontend'/name).read_bytes()).hexdigest()[:12]
         html=html.replace(f'./{name}"',f'./{name}?v={version}"')
     (out/'index.html').write_text(html,encoding='utf-8')
-    for name in ['app.js','style.css','browser-check.js','pages-api.js']:(out/name).write_bytes((ROOT/'frontend'/name).read_bytes())
+    for name in ['app.js','style.css','browser-check.js','pages-api.js','headline-observation.js']:(out/name).write_bytes((ROOT/'frontend'/name).read_bytes())
     (out/'.nojekyll').touch()
     return {'collection':result,'documents':total,'output':str(out)}
 

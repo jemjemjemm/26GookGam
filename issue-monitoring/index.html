@@ -7,17 +7,17 @@
 <meta name="theme-color" content="#ffffff">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<title>상황판</title>
+<title>D-Issue</title>
 <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 <main>
-<header><h1 id="heading">상황판</h1><div class="head-actions"><button id="readiness">연결 상태</button><button id="report">보고서</button></div></header>
+<header><h1 id="heading">D-Issue</h1><div class="head-actions"><button id="readiness">연결 상태</button><button id="report">보고서</button></div></header>
 <div class="dataset-row"><label for="dataset" class="sr-only">표시 자료</label><select id="dataset"><option value="demo">예시 화면</option><option value="live">실제 수집 자료</option></select><span class="pill" id="mode">합성 예시</span></div>
 <div class="notice" id="notice">합성 예시 · 실제 보도와 여론 자료가 아닙니다. 공식 브리핑 원문 확인 대기.</div>
 <details class="filters"><summary>조회 조건</summary>
 <section class="toolbar" aria-label="필터">
-<label>시간창<select id="hours"><option value="1">최근 1시간</option><option value="3">최근 3시간</option><option value="6">최근 6시간</option><option value="12">최근 12시간</option><option value="24" selected>최근 24시간</option></select></label>
+<label>시간창<select id="hours"><option value="1">최근 1시간</option><option value="3">최근 3시간</option><option value="6">최근 6시간</option><option value="12">최근 12시간</option><option value="24">최근 24시간</option><option value="archive" selected>전체 수집 기사</option></select></label>
 <label>채널<select id="channel"><option value="all">전체 채널</option><option value="media">언론</option><option value="portal">포털 댓글</option><option value="community">커뮤니티</option><option value="sns">SNS</option><option value="broadcast">방송</option></select></label>
 <label class="search">검색<input id="search" type="search" placeholder="제목·내용 검색" enterkeyhint="search"></label>
 <label class="cutoff">최근 수집 시각 · 한국시간<input id="cutoff" type="datetime-local" value="2026-10-07T21:30"></label>

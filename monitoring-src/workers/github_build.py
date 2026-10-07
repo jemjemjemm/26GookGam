@@ -55,12 +55,10 @@ def build(db_path,out,state,run_collection=True,now=None):
         payload={'schema_version':1,'generated_at':now.isoformat(),'collection':result,'total_documents':total,
                  'snapshots':snapshots,'documents':catalog,'frames':json.loads((ROOT/'config/frames.json').read_text(encoding='utf-8-sig')),
                  'readiness':{'documents':total,'approved':0,'pending':total,'steps':[
-                    {'label':'네이버 뉴스 API','ready':naver['status']=='ok','note':f'네이버: {naver["status"]}. 검색별 수집 결과는 확인 과제 탭에 표시.'},
+                    {'label':'네이버 뉴스 API','ready':naver['status']=='ok','note':f'네이버: {naver["status"]}. 검색별 수집 결과는 보고서에서 확인.'},
                     {'label':'보조 뉴스 RSS','ready':rss['status']=='ok','note':f'누적 제목·매체·링크 {total}건. RSS: {rss["status"]}.'},
-                    {'label':'본문·AI 분석','ready':False,'note':'본문 이용권·모델 연결·담당자 승인 후 지수 반영. 검색 제목으로 위험 지수를 만들지 않습니다.'},
-                    {'label':'공식 브리핑 확인','ready':False,'note':'공식 원문 미제공. 법 위반 확정·수치·대상 사실 서술 보류.'},
-                    {'label':'댓글·방송·포털 메인','ready':False,'note':'실제 소스와 증빙 연결 대기. 0건을 미노출·무반응으로 해석하지 않습니다.'}],
-                    'next_action':'본문과 공식 원문을 확보하고 AI 분석 결과를 담당자가 승인'},
+                    {'label':'공식 브리핑 확인','ready':True,'note':'대한민국 정책브리핑 공식 보도자료','url':'https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784497&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-07&endDate=2026-10-07&srchWord=&period='},
+                    ],'next_action':'공식 브리핑과 기사 원문을 대조해 확인'},
                  'reports':reports}
     (out/'data.json').write_text(json.dumps(payload,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
     html=(ROOT/'frontend/index.html').read_text(encoding='utf-8')

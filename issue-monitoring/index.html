@@ -13,8 +13,8 @@
 <body>
 <main>
 <header><h1 id="heading">D-Issue</h1><div class="head-actions"><button id="readiness">연결 상태</button><button id="report">보고서</button></div></header>
-<div class="dataset-row"><label for="dataset" class="sr-only">표시 자료</label><select id="dataset"><option value="demo">예시 화면</option><option value="live">실제 수집 자료</option></select><span class="pill" id="mode">합성 예시</span></div>
-<div class="notice" id="notice">합성 예시 · 실제 보도와 여론 자료가 아닙니다. 공식 브리핑 원문 확인 대기.</div>
+<div hidden><select id="dataset"><option value="live" selected>live</option><option value="demo">demo</option></select><span id="mode"></span></div>
+<div id="notice" hidden></div>
 <details class="filters"><summary>조회 조건</summary>
 <section class="toolbar" aria-label="필터">
 <label>시간창<select id="hours"><option value="1">최근 1시간</option><option value="3">최근 3시간</option><option value="6">최근 6시간</option><option value="12">최근 12시간</option><option value="24">최근 24시간</option><option value="archive" selected>전체 수집 기사</option></select></label>
@@ -31,4 +31,4 @@
 </nav>
 <div id="dialog-backdrop" hidden></div>
 <dialog id="detail" role="dialog" aria-modal="true" aria-labelledby="detail-title"><div class="dialog-head"><h2 id="detail-title">분석 근거</h2><button id="close-dialog" aria-label="닫기">✕</button></div><div id="detail-body"></div></dialog>
-<script src="./headline-observation.js?v=8ad23935cc2f"></script><script src="./pages-api.js?v=9052a468d7c0"></script><script src="./app.js?v=8c6a49e80171"></script><script src="./browser-check.js?v=be9965600deb"></script></body></html>
+<script src="./headline-observation.js?v=8ad23935cc2f"></script><script src="./pages-api.js?v=9052a468d7c0"></script><script src="./app.js?v=75a1b886ee8f"></script><script src="./browser-check.js?v=be9965600deb"></script></body></html>

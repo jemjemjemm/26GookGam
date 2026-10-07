@@ -12,6 +12,7 @@ from collectors.rss import collect
 from collectors.naver_full import collect as collect_naver
 from workers.report import render,tick
 from workers.public_report import connected,render_current
+from collectors.article_body import collect as collect_bodies
 
 def build(db_path,out,state,run_collection=True,now=None):
     now=now or datetime.now(KST);out=Path(out);out.mkdir(parents=True,exist_ok=True);state=Path(state)
@@ -51,10 +52,13 @@ def build(db_path,out,state,run_collection=True,now=None):
             reports.insert(0,{'body':current})
         # Store documents once; all time/channel snapshots reference the same catalog.
         catalog={r['id']:r for entry in snapshots.values() for r in entry['documents']}
+        observations,body_summary=collect_bodies(rows,state.with_name('article-observations.json'),now)
+        for doc_id,doc in catalog.items():doc['body_observation']=observations.get(doc_id,{'confirmed':False})
+        result['article_body']=body_summary
         for entry in snapshots.values():entry['documents']=[r['id'] for r in entry['documents']]
         payload={'schema_version':1,'generated_at':now.isoformat(),'collection':result,'total_documents':total,
                  'snapshots':snapshots,'documents':catalog,'frames':json.loads((ROOT/'config/frames.json').read_text(encoding='utf-8-sig')),
-                 'readiness':{'documents':total,'approved':0,'pending':total,'steps':[
+                 'readiness':{'documents':total,'approved':0,'pending':total,'body_confirmed':body_summary['confirmed'],'body_unconfirmed':body_summary['unconfirmed'],'steps':[
                     {'label':'네이버 뉴스 API','ready':naver['status']=='ok','note':f'네이버: {naver["status"]}. 검색별 수집 결과는 보고서에서 확인.'},
                     {'label':'보조 뉴스 RSS','ready':rss['status']=='ok','note':f'누적 제목·매체·링크 {total}건. RSS: {rss["status"]}.'},
                     {'label':'공식 브리핑 확인','ready':True,'note':'대한민국 정책브리핑 공식 보도자료','url':'https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784497&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-07&endDate=2026-10-07&srchWord=&period='},

@@ -23,6 +23,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install article extraction dependency
+        run: pip install beautifulsoup4==4.12.3
       - name: Verify source and publication boundaries
         working-directory: monitoring-src
         run: |

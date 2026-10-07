@@ -1,5 +1,6 @@
 """Build GitHub Pages data from public RSS metadata, with a durable JSON ledger."""
 import argparse
+import hashlib
 import json
 from datetime import datetime
 from pathlib import Path
@@ -63,6 +64,10 @@ def build(db_path,out,state,run_collection=True,now=None):
     html=html.replace('<option value="1">','<option value="1">').replace('<option value="24">','<option value="24" selected>')
     html=html.replace('기준 시각 · 한국시간','최근 수집 시각 · 한국시간')
     html=html.replace('<option value="24" selected>최근 24시간</option>','<option value="24">최근 24시간</option><option value="archive" selected>전체 수집 기사</option>')
+    # Browsers may retain old scripts after Pages deploys new HTML.
+    for name in ['app.js','style.css','browser-check.js','pages-api.js']:
+        version=hashlib.sha256((ROOT/'frontend'/name).read_bytes()).hexdigest()[:12]
+        html=html.replace(f'./{name}"',f'./{name}?v={version}"')
     (out/'index.html').write_text(html,encoding='utf-8')
     for name in ['app.js','style.css','browser-check.js','pages-api.js']:(out/name).write_bytes((ROOT/'frontend'/name).read_bytes())
     (out/'.nojekyll').touch()

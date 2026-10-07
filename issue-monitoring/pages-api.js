@@ -4,7 +4,7 @@ window.radarPagesAPI=async function(path){
  const params=new URL(path,'https://local.invalid');
  let data=window.RADAR_PAGES.cache;
  if(!data||params.pathname==='/api/snapshot'||params.pathname==='/api/readiness'||params.pathname==='/api/reports'){
-   try{let res;try{res=await fetch('https://raw.githubusercontent.com/jemjemjemm/daily-energy-dashboard/main/issue-monitoring-data/data.json?t='+Date.now(),{cache:'no-store'});}catch(e){}if(!res||!res.ok)res=await fetch('./data.json?t='+Date.now(),{cache:'no-store'});if(!res.ok)throw Error('수집 자료 조회 실패');data=await res.json();window.RADAR_PAGES.cache=data;}
+   try{const res=await fetch('./data.json?t='+Date.now(),{cache:'no-store'});if(!res.ok)throw Error('수집 자료 조회 실패');data=await res.json();window.RADAR_PAGES.cache=data;}
    catch(e){if(!data)throw e;}
  }
  const at=data.generated_at,stale=Date.now()-Date.parse(at)>45*60000;

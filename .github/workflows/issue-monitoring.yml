@@ -28,6 +28,9 @@ jobs:
         run: python -m unittest discover -s tests -q
       - name: Collect public titles and build read API
         working-directory: monitoring-src
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python -m workers.github_build --out ../issue-monitoring --state ../monitoring-state/news.json
       - name: Save durable public ledger and page
         run: |

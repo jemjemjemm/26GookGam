@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "frames": [
+    {"code":"F01","label":"정유업계 담합","include":"업계 전체/정유 4사를 담합의 주체로 서술","exclude":"시장점유율이나 회사 목록만 나열","example":"정유 4사 담합 의혹","risk":false},
+    {"code":"F02","label":"SK·현대 중심","include":"두 회사를 중심 당사자로 명시","exclude":"기업 목록의 단순 언급","example":"SK·현대 가격정보 교환 의혹","risk":false},
+    {"code":"F03","label":"SK 책임론","include":"SK를 비판·책임·주도의 주체로 연결","exclude":"중립적 당사자 소개","example":"SK가 책임져야 한다는 비판","risk":true},
+    {"code":"F04","label":"현대 책임론","include":"현대오일뱅크를 비판·책임 주체로 연결","exclude":"중립적 당사자 소개","example":"현대오일뱅크 책임론","risk":true},
+    {"code":"F05","label":"리니언시 제도 설명","include":"자진신고 제도/절차/감면을 중립 설명","exclude":"면죄부·특혜 비판 중심","example":"자진신고 감면 제도 설명","risk":false},
+    {"code":"F06","label":"리니언시 면죄부 논란","include":"제재 회피·특혜·면죄부 논리","exclude":"감면 제도의 중립 소개","example":"자진신고가 면죄부냐는 비판","risk":true},
+    {"code":"F07","label":"소비자 피해","include":"소비자 부담·기름값·손해 논리","exclude":"유가의 단순 수치","example":"소비자 부담을 지적","risk":true},
+    {"code":"F08","label":"정유사 폭리","include":"부당 이익·폭리 도덕 비판","exclude":"매출·이익 수치만 보도","example":"정유사 폭리라는 주장","risk":true},
+    {"code":"F09","label":"제재 적정성","include":"과징금/처벌의 수준이나 실효성 논쟁","exclude":"이미 확정되지 않은 제재를 사실화","example":"제재가 충분할지 논란","risk":true},
+    {"code":"F10","label":"정부·공정위 책임","include":"감독 부실·정책·집행 책임 주장","exclude":"공정위 발표라는 출처 표시","example":"감독 책임론","risk":true},
+    {"code":"F11","label":"전쟁·고유가 이용","include":"전쟁/고유가 상황을 이용했다는 인과 주장","exclude":"전쟁 시점을 배경으로만 소개","example":"고유가를 이용했다는 비판","risk":true},
+    {"code":"F12","label":"손해배상·집단행동","include":"소송·배상·불매 요구/행동","exclude":"소비자 불만만 존재","example":"집단소송 요구","risk":true},
+    {"code":"F13","label":"정치권·국감 확산","include":"의원·국감·시민단체의 실제 발언/행동","exclude":"향후 가능성만 추측","example":"국감에서 질의","risk":false},
+    {"code":"F14","label":"절차·반론","include":"심사 단계·반론·최종 판단 미확정 설명","exclude":"무혐의 확정으로 확대 해석","example":"위원회 최종 판단 전","risk":false},
+    {"code":"F00","label":"기타·불명확","include":"증거 부족/기존 정의 미충족","exclude":"새 프레임을 임의로 확정","example":"본문 없어 판단 보류","risk":false}
+  ],
+  "aliases":{"SK":["SK에너지","에스케이에너지"],"HYUNDAI":["현대오일뱅크","HD현대오일뱅크"],"GS":["GS칼텍스"],"SOIL":["S-OIL","에쓰오일"]},
+  "rules":["primary는 정확히 하나, secondary는 0~3개", "프레임은 담론 분류이며 법 위반 사실 판정이 아님", "F05와 F06은 서로 다른 문장 증거가 있을 때만 공존", "신규 프레임은 후보로 저장 후 담당자 승인·버전 증가", "그룹 SK와 사건 당사자 SK에너지를 엔터티로 구분"]
+}

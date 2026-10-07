@@ -1,0 +1,26 @@
+// GitHub Pages serves a versioned read API as JSON; no keys or local endpoints.
+window.RADAR_PAGES={cache:null};
+window.radarPagesAPI=async function(path){
+ const params=new URL(path,'https://local.invalid');
+ let data=window.RADAR_PAGES.cache;
+ if(!data||params.pathname==='/api/snapshot'){
+   try{const res=await fetch('./data.json?t='+Date.now(),{cache:'no-store'});if(!res.ok)throw Error('수집 자료 조회 실패');data=await res.json();window.RADAR_PAGES.cache=data;}
+   catch(e){if(!data)throw e;}
+ }
+ const at=data.generated_at,stale=Date.now()-Date.parse(at)>45*60000;
+ if(params.pathname==='/api/health')return {mode:'live'};
+ if(params.pathname==='/api/frames')return data.frames;
+ if(params.pathname==='/api/readiness')return data.readiness;
+ if(params.pathname==='/api/reports')return data.reports;
+ if(params.pathname!=='/api/snapshot')throw Error('지원하지 않는 조회');
+ const key=(params.searchParams.get('hours')||'24')+':'+(params.searchParams.get('channel')||'all');
+ const s=JSON.parse(JSON.stringify(data.snapshots[key]));
+ if(!s)throw Error('지원하지 않는 시간창');
+ s.documents=s.documents.map(id=>data.documents[id]);
+ s.mode='live';const q=(params.searchParams.get('q')||'').toLocaleLowerCase();
+ if(q){s.documents=s.documents.filter(r=>(r.title+' '+r.body).toLocaleLowerCase().includes(q));s.metrics.published=s.documents.filter(r=>r.channel==='media').length;s.metrics.stories=0;s.metrics.public_sample=0;s.metrics.negative=null;s.metrics.risk=null;s.metrics.eligible=0;s.metrics.pending=s.documents.length;s.frames={};s.narratives=[];s.trend=[];s.shift={score:null,delta_pp:null,reason:'검색 표본 분석 대기'};Object.values(s.companies).forEach(x=>{x.score=null;x.mentions=0;x.negative_share=null;});s.logic.exposure_short='검색 결과는 제목 자료만 포함. 본문·승인 분석이 없어 노출 지수 보류.';s.logic.risk_short='검색 결과의 본문·온라인 승인 표본이 없어 위험 지수 보류.';s.logic.shift='제목 검색 결과의 승인 독립 기사가 없어 프레임 변화 판단 보류.';s.logic.negative='승인된 온라인 표본이 없어 부정 비율 판단 보류.';}
+ if(stale){s.metrics.risk=null;s.metrics.risk_reason='최신 수집 시각이 45분 이상 경과';s.metrics.coverage=0;s.sources.forEach(x=>x.fresh=false);s.logic.risk_short+=' 최신 수집 45분 초과로 판단 보류.';s.alerts.unshift({rule:'COLLECTION_STALE',severity:'quality',text:'수집·배포 지연. 화면의 기준 시각과 GitHub Actions 실행 결과를 확인하세요.',logic:'페이지 실행 시각−마지막 데이터 생성 시각>45분.',evidence:[]});}
+ $('cutoff').value=new Date(Date.parse(at)+9*3600000).toISOString().slice(0,16);$('cutoff').disabled=true;$('dataset').value='live';$('dataset').disabled=true;
+ s.limitations.push('공개 RSS 제목·매체·링크만 관측. 기사 내용·온라인 여론 분석은 연결 대기.','자동 갱신 목표 15분. GitHub 작업 지연 가능; 실제 수집 기준 시각을 확인하세요.');
+ return s;
+};

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>상황판</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<main>
+<header><h1 id="heading">상황판</h1><div class="head-actions"><button id="readiness">연결 상태</button><button id="report">보고서</button></div></header>
+<div class="dataset-row"><label for="dataset" class="sr-only">표시 자료</label><select id="dataset"><option value="demo">예시 화면</option><option value="live">실제 수집 자료</option></select><span class="pill" id="mode">합성 예시</span></div>
+<div class="notice" id="notice">합성 예시 · 실제 보도와 여론 자료가 아닙니다. 공식 브리핑 원문 확인 대기.</div>
+<details class="filters"><summary>조회 조건</summary>
+<section class="toolbar" aria-label="필터">
+<label>시간창<select id="hours"><option value="1">최근 1시간</option><option value="3">최근 3시간</option><option value="6">최근 6시간</option><option value="12">최근 12시간</option><option value="24" selected>최근 24시간</option></select></label>
+<label>채널<select id="channel"><option value="all">전체 채널</option><option value="media">언론</option><option value="portal">포털 댓글</option><option value="community">커뮤니티</option><option value="sns">SNS</option><option value="broadcast">방송</option></select></label>
+<label class="search">검색<input id="search" type="search" placeholder="제목·내용 검색" enterkeyhint="search"></label>
+<label class="cutoff">최근 수집 시각 · 한국시간<input id="cutoff" type="datetime-local" value="2026-10-07T21:30"></label>
+<button id="refresh">조회</button>
+</section></details>
+<div id="status" role="status"></div><section id="content" aria-live="polite"></section>
+<footer><span>공식 사실과 보도·온라인 주장을 구분합니다.</span><span id="updated"></span><button id="browser-check">브라우저 점검</button></footer>
+</main>
+<nav class="app-nav" aria-label="주요 화면">
+<button class="nav active" data-tab="Situation" aria-current="page"><span aria-hidden="true">◈</span><small>상황판</small></button>
+<button class="nav" data-tab="Timeline"><span aria-hidden="true">◷</span><small>시간 흐름</small></button>
+<button class="nav" data-tab="Media"><span aria-hidden="true">▤</span><small>언론</small></button>
+<button class="nav" data-tab="Public"><span aria-hidden="true">◌</span><small>온라인</small></button>
+<button class="nav" data-tab="Spread"><span aria-hidden="true">↗</span><small>확산</small></button>
+<button class="nav" data-tab="Watch"><span aria-hidden="true">◇</span><small>확인 과제</small></button>
+</nav>
+<div id="dialog-backdrop" hidden></div>
+<dialog id="detail" role="dialog" aria-modal="true" aria-labelledby="detail-title"><div class="dialog-head"><h2 id="detail-title">분석 근거</h2><button id="close-dialog" aria-label="닫기">✕</button></div><div id="detail-body"></div></dialog>
+<script src="./pages-api.js"></script><script src="./app.js"></script><script src="./browser-check.js"></script></body></html>

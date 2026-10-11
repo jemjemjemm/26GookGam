@@ -1,32 +1,32 @@
-# D-Issue 최신 수집 보고 | 2026-10-12T00:37:42.694151+09:00
+# D-Issue 최신 수집 보고 | 2026-10-12T04:45:45.858541+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 648건 / 네이버 누적: 362건 / 이번 네이버 신규: 9건.
+수집 기사: 653건 / 네이버 누적: 366건 / 이번 네이버 신규: 4건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
-네이버 연결: 실제 응답 확인 / 검색 조회: 34회 / 수집 범위 상태: ok.
+네이버 연결: 실제 응답 확인 / 검색 조회: 35회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 425/648건 (65.6%)
-- 현대오일뱅크: 343/648건 (52.9%)
-- GS: 0/648건 (0.0%)
-- S-OIL: 0/648건 (0.0%)
+- SK: 426/653건 (65.2%)
+- 현대오일뱅크: 344/653건 (52.7%)
+- GS: 0/653건 (0.0%)
+- S-OIL: 0/653건 (0.0%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
-- 정유 담합: 1페이지, 기준일 이후 99건, 상태 scope_boundary_reached
+- 정유 담합: 2페이지, 기준일 이후 100건, 상태 scope_boundary_reached
 - 정유사 담합: 3페이지, 기준일 이후 203건, 상태 scope_boundary_reached
-- 정유 가격정보: 2페이지, 기준일 이후 166건, 상태 scope_boundary_reached
-- SK에너지 담합: 4페이지, 기준일 이후 261건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 3페이지, 기준일 이후 247건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 4페이지, 기준일 이후 262건, 상태 scope_boundary_reached
+- 정유 가격정보: 2페이지, 기준일 이후 169건, 상태 scope_boundary_reached
+- SK에너지 담합: 4페이지, 기준일 이후 262건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 3페이지, 기준일 이후 248건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 4페이지, 기준일 이후 263건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 3페이지, 기준일 이후 247건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 3페이지, 기준일 이후 248건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 8건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 13건, 상태 scope_boundary_reached
-- 정유 공정위: 1페이지, 기준일 이후 91건, 상태 scope_boundary_reached
+- 정유 공정위: 1페이지, 기준일 이후 92건, 상태 scope_boundary_reached
 - 유가 담합: 2페이지, 기준일 이후 132건, 상태 scope_boundary_reached
 - 기름값 담합: 1페이지, 기준일 이후 80건, 상태 scope_boundary_reached
 - 휘발유 담합: 3페이지, 기준일 이후 214건, 상태 scope_boundary_reached
@@ -37,6 +37,10 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-12T04:34:00+09:00: [‘美-러 경유딜’에 젤렌스키 반발… 트럼프 “우크라, 새 대통령 필요...](<https://www.donga.com/news/Inter/article/all/20261012/134822342/2>)
+- 2026-10-12T04:32:00+09:00: [쿠팡·배민 부사장 국감장 선다…‘쿠폰비 전가·배달비’ 집중 추궁](<https://www.edaily.co.kr/News/Read?newsId=01308726645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
+- 2026-10-12T00:41:00+09:00: [침략자 푸틴과 ‘경유 딜’, 총살형 생중계… 국제질서 뒤엎는 트럼프](<https://www.chosun.com/international/us/2026/10/12/TLGJWSERKBBU7DHFNKDKN4IHB4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
+- 2026-10-12T00:40:00+09:00: [트럼프 "러-우 휴전" 깜짝 발표에 '어리둥절' 젤렌스키 "나한테도 뉴스...](<https://www.pressian.com/pages/articles/2026101200341535515?utm_source=naver&utm_medium=search>)
 - 2026-10-12T00:13:00+09:00: [트럼프 “러시아·우크라이나, 에너지 휴전 합의”…구체적 내용은 미공...](<https://www.newsis.com/view/NISX20261012_0003821225>)
 - 2026-10-11T23:45:00+09:00: [트럼프 “러시아·우크라, 에너지 휴전 합의… 즉각 발효” 주장](<https://www.chosun.com/international/us/2026/10/11/TYI5743ONJFRTFPZ2B5ADOS5O4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
 - 2026-10-11T23:31:00+09:00: [\[사설\]선거 위해선 어떤 거래도… 그런 트럼프와 같이 가야 하는 韓](<https://www.donga.com/news/Opinion/article/all/20261011/134822387/2>)
@@ -63,9 +67,5 @@
 - 2026-10-11T11:25:00+09:00: [\[ZD브리핑\] 칼날 선 국감 공세 속… AI·전동화 미래 향해 달리는 산업계](<https://zdnet.co.kr/view/?no=20261011111122>)
 - 2026-10-11T11:16:00+09:00: ["美, 우크라에 '러 정유시설 타격 고집시 정보공유 중단' 경고"](<https://www.news1.kr/world/usa-canada/6315856>)
 - 2026-10-11T11:00:00+09:00: [위법조사 논란부터 과징금 폭탄까지…국감서 공정위 ‘권한남용’ 쟁점...](<https://view.asiae.co.kr/article/2026101110351455214>)
-- 2026-10-11T10:36:00+09:00: [美 “러 정유시설 때리면 정보 끊는다”…우크라에 ‘공습 중단’ 압박](<https://www.dt.co.kr/article/12088293?ref=naver>)
-- 2026-10-11T10:01:00+09:00: [\[DD 주간브리핑\] 국감, 정유 4사 대표부터 애플·텔레그램까지…KES·SEDE...](<https://www.ddaily.co.kr/page/view/2026100910143199140>)
-- 2026-10-11T09:24:00+09:00: [미국, 우크라이나에 정보 공유 중단 경고…러시아 정유시설 공격 중단 ...](<https://www.ziksir.com/news/articleView.html?idxno=148877>)
-- 2026-10-11T09:00:00+09:00: [\[국감2026\] 방산 '채용 논란'·정유 '담합'·통신 '보안' 도마에](<https://weekly.hankooki.com/news/articleView.html?idxno=7187924>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

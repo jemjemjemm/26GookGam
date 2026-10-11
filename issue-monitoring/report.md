@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-10-11T18:05:03.359666+09:00
+# D-Issue 최신 수집 보고 | 2026-10-12T00:37:42.694151+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 634건 / 네이버 누적: 353건 / 이번 네이버 신규: 15건.
+수집 기사: 648건 / 네이버 누적: 362건 / 이번 네이버 신규: 9건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 34회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 421/634건 (66.4%)
-- 현대오일뱅크: 340/634건 (53.6%)
-- GS: 0/634건 (0.0%)
-- S-OIL: 0/634건 (0.0%)
+- SK: 425/648건 (65.6%)
+- 현대오일뱅크: 343/648건 (52.9%)
+- GS: 0/648건 (0.0%)
+- S-OIL: 0/648건 (0.0%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 1페이지, 기준일 이후 99건, 상태 scope_boundary_reached
 - 정유사 담합: 3페이지, 기준일 이후 203건, 상태 scope_boundary_reached
-- 정유 가격정보: 2페이지, 기준일 이후 157건, 상태 scope_boundary_reached
+- 정유 가격정보: 2페이지, 기준일 이후 166건, 상태 scope_boundary_reached
 - SK에너지 담합: 4페이지, 기준일 이후 261건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 3페이지, 기준일 이후 247건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 4페이지, 기준일 이후 262건, 상태 scope_boundary_reached
@@ -37,6 +37,15 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-12T00:13:00+09:00: [트럼프 “러시아·우크라이나, 에너지 휴전 합의”…구체적 내용은 미공...](<https://www.newsis.com/view/NISX20261012_0003821225>)
+- 2026-10-11T23:45:00+09:00: [트럼프 “러시아·우크라, 에너지 휴전 합의… 즉각 발효” 주장](<https://www.chosun.com/international/us/2026/10/11/TYI5743ONJFRTFPZ2B5ADOS5O4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
+- 2026-10-11T23:31:00+09:00: [\[사설\]선거 위해선 어떤 거래도… 그런 트럼프와 같이 가야 하는 韓](<https://www.donga.com/news/Opinion/article/all/20261011/134822387/2>)
+- 2026-10-11T21:48:00+09:00: [\[오늘의 운세\] 10월 12일 띠별 재물운…돈 지킬 띠와 거래 조정할 띠](<https://www.topstarnews.net/news/articleView.html?idxno=16243972>)
+- 2026-10-11T21:42:00+09:00: [SK에너지, 가격체계 손보고 내부통제 강화 나선다](<https://www.ulsanpress.net/news/articleView.html?idxno=584421>)
+- 2026-10-11T20:19:00+09:00: [트럼프, 선거 앞두고 ‘러 경유 수입’ 합의…미·우크라 갈등 고조](<https://www.khan.co.kr/article/202610112019025>)
+- 2026-10-11T19:37:00+09:00: [“트럼프, 악마와 거래”…러 경유 수입에 美 여야 모두 반발](<https://www.donga.com/news/Inter/article/all/20261011/134819570/1>)
+- 2026-10-11T18:59:00+09:00: [젤렌스키에 뿔난 트럼프 “우크라 대통령 바꿔야”](<https://www.kmib.co.kr/article/view.asp?arcid=9000021574&cp=nv>)
+- 2026-10-11T18:28:00+09:00: [젤렌스키 비판에 폭주… 트럼프, 우크라 수장 교체 주장 파문 \[트럼프-푸...](<https://www.fnnews.com/news/202610111825476043>)
 - 2026-10-11T18:02:00+09:00: [담합 심의·손실보전까지…정유 4사, 국감 앞두고 현안 산적](<https://www.g-enews.com/view.php?ud=20261008165218189624debea800_1>)
 - 2026-10-11T18:01:00+09:00: [머스크 "우크라에 새 지도자 필요"…트럼프 발언 지원 사격](<https://www.news1.kr/world/usa-canada/6316061>)
 - 2026-10-11T17:51:00+09:00: [對러 제재 풀어 디젤값 잡는다지만…공화당서도 “중대 실책”](<https://www.sedaily.com/article/20100180?ref=naver>)
@@ -58,14 +67,5 @@
 - 2026-10-11T10:01:00+09:00: [\[DD 주간브리핑\] 국감, 정유 4사 대표부터 애플·텔레그램까지…KES·SEDE...](<https://www.ddaily.co.kr/page/view/2026100910143199140>)
 - 2026-10-11T09:24:00+09:00: [미국, 우크라이나에 정보 공유 중단 경고…러시아 정유시설 공격 중단 ...](<https://www.ziksir.com/news/articleView.html?idxno=148877>)
 - 2026-10-11T09:00:00+09:00: [\[국감2026\] 방산 '채용 논란'·정유 '담합'·통신 '보안' 도마에](<https://weekly.hankooki.com/news/articleView.html?idxno=7187924>)
-- 2026-10-11T07:00:00+09:00: [\[천지일보 이슈종합\] 이화영 가석방 요구·대구 상가건물 천장 붕괴·잠...](<https://www.newscj.com/news/articleView.html?idxno=3439261>)
-- 2026-10-11T07:00:00+09:00: ["수십조원 담합해놓고 세금 지원?"…정유 4사 CEO, 국감 십자포화 예고](<https://it.chosun.com/news/articleView.html?idxno=2023092171590>)
-- 2026-10-11T01:05:33+00:00: [\[국감2026\] 방산 ‘채용 논란’·정유 ‘담합’·통신 ‘보안’ 도마에 - 주간한국](<https://news.google.com/rss/articles/CBMidEFVX3lxTE5BdWJoeGtIbnl1VmxLTDlDOG5QSmt1aUdOZnAxNlhBWEpLMmh1OU9kR3R6bEJxVkQ0NXl0NkZCTGhLeHQzTFE4d3NTTGRRQXhMT2JKWk5EQnpzT1pGRC1VWmZRcDBsTTd1amxuUm8zQ0VsQV9B0gF0QVVfeXFMTkF1Ymh4a0hueXVWbEtMOUM4blBKa3VpR05mcDE2WEFYSksyaHU5T2RHdHpsQnFWRDQ1eXQ2RkJMaEt4dDNMUTh3c1NMZFFBeExPYkpaTkRCenNPWkZELVVaZlFwMGxNN3VqbG5SbzNDRWxBX0E?oc=5>)
-- 2026-10-11T00:10:00+09:00: [반도체, 5% 급락 코스피 구할까…실적 반등 기대 속 금리·유가 변수 \[증...](<https://www.dt.co.kr/article/12088251?ref=naver>)
-- 2026-10-11T00:00:00+00:00: [\[국감2026\] 방산 ‘채용 논란’·정유 ‘담합’·통신 ‘보안’ 도마에 - 주간한국](<https://news.google.com/rss/articles/CBMicEFVX3lxTE91aFpjWVc4bERpZjFQV1JSTEpNc0RSVEJkVGNGeVZiUENtUXhyY0VsbllzdHpzNWNkRmdkTXB4SHBWQzdVZFpSVFk2WV90ZnM4S2VwTTg5a19TcDMySTFTdWpEWndjc3RXTGsxQVEzVDfSAXRBVV95cUxOQXViaHhrSG55dVZsS0w5QzhuUEprdWlHTmZwMTZYQVhKSzJodTlPZEd0emxCcVZENDV5dDZGQkxoS3h0M0xROHdzU0xkUUF4TE9iSlpOREJ6c09aRkQtVVpmUXAwbE03dWpsblJvM0NFbEFfQQ?oc=5>)
-- 2026-10-10T22:18:00+09:00: [\[오늘의 운세\] 10월 11일 띠별 재물운…돈 지킬 띠와 움직일 띠](<https://www.topstarnews.net/news/articleView.html?idxno=16243441>)
-- 2026-10-10T22:00:00+00:00: [“수십조원 담합해놓고 세금 지원?”…정유 4사 CEO, 국감 십자포화 예고 - IT조선](<https://news.google.com/rss/articles/CBMicEFVX3lxTFBHLVQyRUpCM2ZHVzd5enFKLWluYWJVLUdXRGF2V0w3cHhyazFEcGpSeVo0bEs3VGt2Skp0M1pjTzNTbjZCVUZscV9YcmltdTJHV3JxU0QtMFVZcXJaYnZBT044OGhRZmtkbTd2anBLTGrSAXRBVV95cUxOcDB5V0JwbTRBcnJKckdoLTZkUHk3bng1Ump3eWlmNUVZdlg1NWtJUEJPZ2ZlUkowekNRckY0UENtd2Y3VXFSRlBqVXlyMU9YMXVhbHdiYjZJTkVMbkRlR21GQU1rM1hLam5qSXJPT3BBUklhMQ?oc=5>)
-- 2026-10-10T20:02:00+09:00: ["트럼프, 젤렌스키에 등 돌리고 푸틴과 경유 거래"](<https://www.newscj.com/news/articleView.html?idxno=3439206>)
-- 2026-10-10T18:45:00+09:00: [“공격 멈춰라” 트럼프 요구에도 꿈쩍 않은 젤렌스키?…트럼프 결국 푸...](<https://biz.heraldcorp.com/article/10898296?ref=naver>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

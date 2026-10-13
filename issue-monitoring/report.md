@@ -1,8 +1,8 @@
-# D-Issue 최신 수집 보고 | 2026-10-14T01:24:58.861495+09:00
+# D-Issue 최신 수집 보고 | 2026-10-14T06:32:02.638634+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 955건 / 네이버 누적: 585건 / 이번 네이버 신규: 7건.
+수집 기사: 955건 / 네이버 누적: 585건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 50회 / 수집 범위 상태: ok.
@@ -56,8 +56,8 @@
 - 2026-10-13T15:56:00+09:00: [김병주 MBK파트너스 회장 다시 국회 증인 채택](<https://www.koreareport.co.kr/news/articleView.html?idxno=53595>)
 - 2026-10-13T15:48:00+09:00: [野 "국감에 이재용·최태원 불러야"…호남 반도체 '팔 비틀기' 주장](<https://www.edaily.co.kr/News/Read?newsId=03667046645612592&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
 - 2026-10-13T15:46:00+09:00: [정유업계, 정제마진 상승에 '단기 호재' 예고···담합·불공정 계약 등...](<https://www.seoulfn.com/news/articleView.html?idxno=639963>)
-- 2026-10-13T15:40:00+09:00: [\[국감 2026\] "고유가엔 고개 숙이고, 담합엔 고개 갸웃"…정유 4사 대표...](<https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593410047604>)
 - 2026-10-13T15:40:00+09:00: [정유 4사 국감서 거래관행 개선 추진…담합 혐의 심의 별도 진행](<https://www.polinews.co.kr/news/articleView.html?idxno=745602>)
+- 2026-10-13T15:40:00+09:00: [\[국감 2026\] "고유가엔 고개 숙이고, 담합엔 고개 갸웃"…정유 4사 대표...](<https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593410047604>)
 - 2026-10-13T15:12:00+09:00: [산자위, MBK 김병주 ‘홈플러스 사태’ 국감 증인 재채택 \[국감\]](<https://www.etoday.co.kr/news/view/2635249>)
 - 2026-10-13T15:02:00+09:00: [\[기업인사이드\] 10대 그룹 상반기 '여윳돈' 187조원...삼성·SK하이닉스가...](<https://www.thebigdata.co.kr/view.php?ud=202610131122066373bbceadc3c9_23>)
 - 2026-10-13T14:43:00+09:00: [산자위, 김종화 SK에너지 대표·송명준 HD현대오일뱅크 대표 22일 국감 ...](<https://www.ddaily.co.kr/page/view/2026101314370554211>)

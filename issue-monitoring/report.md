@@ -1,71 +1,71 @@
-# D-Issue 최신 수집 보고 | 2026-10-13T10:36:32.487506+09:00
+# D-Issue 최신 수집 보고 | 2026-10-13T17:27:39.753535+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 904건 / 네이버 누적: 543건 / 이번 네이버 신규: 17건.
+수집 기사: 945건 / 네이버 누적: 578건 / 이번 네이버 신규: 35건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
-네이버 연결: 실제 응답 확인 / 검색 조회: 49회 / 수집 범위 상태: ok.
+네이버 연결: 실제 응답 확인 / 검색 조회: 50회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 451/904건 (49.9%)
-- 현대오일뱅크: 364/904건 (40.3%)
-- GS: 6/904건 (0.7%)
-- S-OIL: 6/904건 (0.7%)
+- SK: 455/945건 (48.1%)
+- 현대오일뱅크: 368/945건 (38.9%)
+- GS: 6/945건 (0.6%)
+- S-OIL: 6/945건 (0.6%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
-- 정유 담합: 3페이지, 기준일 이후 184건, 상태 scope_boundary_reached
-- 정유사 담합: 4페이지, 기준일 이후 283건, 상태 scope_boundary_reached
-- 정유 가격정보: 4페이지, 기준일 이후 274건, 상태 scope_boundary_reached
-- SK에너지 담합: 5페이지, 기준일 이후 348건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 333건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 5페이지, 기준일 이후 376건, 상태 scope_boundary_reached
+- 정유 담합: 3페이지, 기준일 이후 193건, 상태 scope_boundary_reached
+- 정유사 담합: 4페이지, 기준일 이후 291건, 상태 scope_boundary_reached
+- 정유 가격정보: 4페이지, 기준일 이후 293건, 상태 scope_boundary_reached
+- SK에너지 담합: 5페이지, 기준일 이후 358건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 343건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 401건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 333건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 343건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 10건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 17건, 상태 scope_boundary_reached
-- 정유 공정위: 3페이지, 기준일 이후 180건, 상태 scope_boundary_reached
-- 유가 담합: 3페이지, 기준일 이후 196건, 상태 scope_boundary_reached
-- 기름값 담합: 2페이지, 기준일 이후 118건, 상태 scope_boundary_reached
-- 휘발유 담합: 3페이지, 기준일 이후 238건, 상태 scope_boundary_reached
-- 경유 담합: 3페이지, 기준일 이후 242건, 상태 scope_boundary_reached
+- 정유 공정위: 3페이지, 기준일 이후 189건, 상태 scope_boundary_reached
+- 유가 담합: 3페이지, 기준일 이후 204건, 상태 scope_boundary_reached
+- 기름값 담합: 2페이지, 기준일 이후 120건, 상태 scope_boundary_reached
+- 휘발유 담합: 3페이지, 기준일 이후 242건, 상태 scope_boundary_reached
+- 경유 담합: 3페이지, 기준일 이후 246건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
 ## 온라인·공식 자료
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
-- 2026-10-13T10:07:00+09:00: [\[포착\] ‘최악의 조롱’ 당한 푸틴…“전원을 껐다 켜보렴” 러 데이터...](<https://nownews.seoul.co.kr/news/newsView.php?id=20261013601004&wlog_tag3=naver>)
-- 2026-10-13T09:31:00+09:00: [“악마와 딜” 푸틴이 판 연료를 농민도 반길까 \[트럼프 스톡커\]](<https://www.sedaily.com/article/20100796?ref=naver>)
-- 2026-10-13T09:20:00+09:00: [\[2026 국감\]정유 4사 '셀프 주유소 즉시종료 버튼' 도입 약속 받아](<http://www.finomy.com/news/articleView.html?idxno=263390>)
-- 2026-10-13T09:06:00+09:00: [\[2026 국감\] 정유 4사 경영진 출석…가격담합 의혹·셀프주유기 문제 추...](<https://www.1conomynews.co.kr/news/articleView.html?idxno=50772>)
-- 2026-10-13T08:58:00+09:00: [\[미르의 알기쉬운 비즈니스\]美전투기 움직이는 韓항공유…SK에너지·GS칼...](<https://www.mediapen.com/news/view/1129431>)
-- 2026-10-13T08:40:00+09:00: [트럼프, 우크라이나 새 대통령 필요성 언급…러시아 디젤 거래 후 파장...](<https://www.tokenpost.kr/news/cryptocurrency/421675>)
-- 2026-10-13T08:36:00+09:00: [정유업계 전쟁 이익 논란, 가격 담합 의혹의 진실은?](<https://www.gokorea.kr/news/articleView.html?idxno=881146>)
-- 2026-10-13T08:28:00+09:00: [\[국제금융리포트\] 국제유가 106달러 돌파…고물가에 美 추가 긴축 압력...](<https://www.ajunews.com/view/20261013081803194>)
-- 2026-10-13T08:04:00+09:00: [\[국감\] 담합·셀프주유 질타받은 정유 4사, "소명하고 개선하겠다"](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=494600>)
-- 2026-10-13T07:30:00+09:00: [\[넥스트-샷\] 월가 연휴에도 '바람 잘 날 없다'···기름값 뛰고, 中 D램...](<https://www.womaneconomy.co.kr/news/articleView.html?idxno=259617>)
-- 2026-10-13T07:24:00+09:00: [실적·물가 앞두고 숨고른 뉴욕증시…AI 대형주 차익 실현에 혼조](<https://www.ziksir.com/news/articleView.html?idxno=149079>)
-- 2026-10-13T06:04:00+09:00: [트럼프, 러 경유 거래로 푸틴 달래기…우크라 "선물" 반발](<https://www.edaily.co.kr/News/Read?newsId=01784326645612592&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
-- 2026-10-13T06:04:00+09:00: [윤건영 “한동훈 딸 봐주기 수사” vs 김종철 “새 사실 나오면 전면 재...](<https://www.segye.com/newsView/20261012525722?OutUrl=naver>)
-- 2026-10-13T06:02:00+09:00: [메트로신문 10월13일자 한줄뉴스](<http://www.metroseoul.co.kr/article/20261012500536>)
-- 2026-10-13T06:00:00+09:00: [\[출근길 브리핑-10월 13일\] 李대통령 '주사 의혹' DN오토모티브 엄중 대...](<https://www.newsworks.co.kr/news/articleView.html?idxno=856230>)
-- 2026-10-13T06:00:00+09:00: [4개월째 묶인 기름값 상한…16일 11차 최고가격 동결 '촉각'](<https://www.newsis.com/view/NISX20261012_0003822155>)
-- 2026-10-13T04:56:00+09:00: [트럼프 대통령 "러-우크라, 에너지 분야 휴전"...전문가들 "구체적 조건...](<https://www.voakorea.com/a/us-russia-ukraine-101226/8210509.html>)
-- 2026-10-13T04:01:00+09:00: [\[사설\]국감에 정유사 경영진 꼭 불러야 했나](<https://www.mt.co.kr/opinion/2026/10/13/2026101216230344401>)
-- 2026-10-13T03:56:00+09:00: [주병기 "재벌 착취 지금도 같은 생각" 발언에 여야 집중 질타](<https://www.mt.co.kr/politics/2026/10/13/2026101219543132230>)
-- 2026-10-13T03:00:00+09:00: [셀프주유소 '즉시종료' 버튼 생긴다…정유 4사, 2~3개월 내 추진](<https://www.apnews.kr/news/articleView.html?idxno=3051990>)
-- 2026-10-13T02:47:00+09:00: [젤렌스키 "러, 에너지 휴전 깼다"…정유설비 공격 재개 시사](<https://www.fnnews.com/news/202610130241428859>)
-- 2026-10-13T00:44:00+09:00: [트럼프 “러·우 에너지 휴전”… 젤렌스키 반발, 푸틴은 공습](<https://www.chosun.com/international/us/2026/10/13/6P56SLT3FNFK3IT3VJBXNRLSTM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
-- 2026-10-13T00:02:00+09:00: [\[GS 뉴 퓨처\] ②주유소 넘어 분산에너지 거점으로](<https://www.kfenews.co.kr/news/articleView.html?idxno=666143>)
-- 2026-10-13T00:00:00+09:00: [\[세계家\] 도널드 트럼프 미국 대통령 ㉔ㅣ 안팎으로 거센 논란…국정 홍...](<https://www.cbci.co.kr/news/articleView.html?idxno=614579>)
-- 2026-10-12T23:59:00+09:00: [\[스코어보드-정무위\]파행에 빛바랜 불공정과 乙을 위한 고민들](<https://www.mt.co.kr/politics/2026/10/12/2026101222210262908>)
-- 2026-10-12T23:46:00+09:00: [10월12일 모닝뉴스 헤드라인](<https://www.radiokorea.com/news/article.php?uid=506403>)
-- 2026-10-12T23:34:51+00:00: [정유업계 전쟁 이익 논란, 가격 담합 의혹의 진실은? - 공감신문](<https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRy1nVkEtZjRZTXh5RDJBelBVSzV1Q24zOW9nVUhKTTl4UkRkUlg5QzZ5a2pfMzdIcG95OTJHNzRMQmZybktZeHVKT2FvdkFjeTI1dXRaUlhtYTNJM0ZxQXZyTGxkaDVl?oc=5>)
-- 2026-10-12T23:25:17+00:00: [\[국감\] 담합·셀프주유 질타받은 정유 4사, “소명하고 개선하겠다” - 핀포인트뉴스](<https://news.google.com/rss/articles/CBMid0FVX3lxTE5IS3ZnejR5bGVMemtUNGZBY0hXc2s2d251LVV0SDdmUjg4SGdERWwxYjJNSHhtV0dJRlV6dGpzRmEyMkZkVEJWNElOMHlBV2ZMbkcwenhvNVZUNVN6b0RoTmx6cXFIY3E0aXFUdGdPNERraS1MaVFV0gF3QVVfeXFMTkhLdmd6NHlsZUx6a1Q0ZkFjSFdzazZ3bnUtVXRIN2ZSODhIZ0RFbDFiMk1IeG1XR0lGVXp0anNGYTIyRmRUQlY0SU4weUFXZkxuRzB6eG81VlQ1U3pvRGhObHpxcUhjcTRpcVR0Z080RGtpLUxpUVU?oc=5>)
-- 2026-10-12T23:06:00+09:00: [현장조사 거부 쿠팡 탈세 혐의 배민·담합 의혹 정유사 질타...공정위 로...](<https://www.ytn.co.kr/_ln/0102_202610122306554553>)
-- 2026-10-12T22:56:00+09:00: [국감서 까발려진 담합의혹·거래관행…정유 4사 "국민께 송구"](<https://www.mhj21.com/news/articleView.html?idxno=254264>)
+- 2026-10-13T17:24:00+09:00: ["부담은 눈덩이인데"…정유사, 기름값 상한제 정부지침 따를밖에](<https://www.ezyeconomy.com/news/articleView.html?idxno=240736>)
+- 2026-10-13T17:22:00+09:00: [\[2026 국감\] 송명준 HD현대오일뱅크 대표, 가격 담합 의혹에 "심의 성실...](<http://www.wikileaks-kr.org/news/articleView.html?idxno=193155>)
+- 2026-10-13T17:09:00+09:00: [산자위, 김병주 MBK 회장 국감 재소환…홈플러스 사태 책임 공방 이어져](<https://www.greened.kr/news/articleView.html?idxno=351974>)
+- 2026-10-13T17:06:00+09:00: [국감서 질타받은 정유 4사…가격 담합 심의 대응·거래 관행 개선 속도...](<https://www.ddaily.co.kr/page/view/2026101315544766848>)
+- 2026-10-13T16:52:00+09:00: [트럼프 美 대통령 "에너지 휴전" 선언에도…러시아, 우크라 에너지시설...](<https://www.news2day.co.kr/article/20261013500229>)
+- 2026-10-13T16:44:00+09:00: [정유 4사, 국감서 고개 숙였다…담합 의혹에 거래 관행까지 도마](<https://www.thepublic.kr/news/articleView.html?idxno=322075>)
+- 2026-10-13T16:18:00+09:00: [미국, 러시아엔 강경 발언·우크라엔 공격 중단 압박…엇갈린 대러 메시...](<https://www.ppss.kr/news/articleView.html?idxno=315255>)
+- 2026-10-13T16:16:00+09:00: [\[2026 국감\] 산자위, 김병주 MBK파트너스 회장 또 다시 증인 채택](<https://www.tfmedia.co.kr/news/article.html?no=207955>)
+- 2026-10-13T16:14:00+09:00: [\[국감2026\] 산중위, 김병주 MBK 회장 23일 중기부 종합감사 증인 채택](<https://weekly.hankooki.com/news/articleView.html?idxno=7188703>)
+- 2026-10-13T15:56:00+09:00: [김병주 MBK파트너스 회장 다시 국회 증인 채택](<https://www.koreareport.co.kr/news/articleView.html?idxno=53595>)
+- 2026-10-13T15:48:00+09:00: [野 "국감에 이재용·최태원 불러야"…호남 반도체 '팔 비틀기' 주장](<https://www.edaily.co.kr/News/Read?newsId=03667046645612592&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
+- 2026-10-13T15:46:00+09:00: [정유업계, 정제마진 상승에 '단기 호재' 예고···담합·불공정 계약 등...](<https://www.seoulfn.com/news/articleView.html?idxno=639963>)
+- 2026-10-13T15:40:00+09:00: [정유 4사 국감서 거래관행 개선 추진…담합 혐의 심의 별도 진행](<https://www.polinews.co.kr/news/articleView.html?idxno=745602>)
+- 2026-10-13T15:40:00+09:00: [\[국감 2026\] "고유가엔 고개 숙이고, 담합엔 고개 갸웃"…정유 4사 대표...](<https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593410047604>)
+- 2026-10-13T15:12:00+09:00: [산자위, MBK 김병주 ‘홈플러스 사태’ 국감 증인 재채택 \[국감\]](<https://www.etoday.co.kr/news/view/2635249>)
+- 2026-10-13T15:02:00+09:00: [\[기업인사이드\] 10대 그룹 상반기 '여윳돈' 187조원...삼성·SK하이닉스가...](<https://www.thebigdata.co.kr/view.php?ud=202610131122066373bbceadc3c9_23>)
+- 2026-10-13T14:43:00+09:00: [산자위, 김종화 SK에너지 대표·송명준 HD현대오일뱅크 대표 22일 국감 ...](<https://www.ddaily.co.kr/page/view/2026101314370554211>)
+- 2026-10-13T14:29:00+09:00: [산중위, MBK 김병주 국감 증인 다시 채택…'홈플러스 사태' 질의](<https://www.edaily.co.kr/News/Read?newsId=03319366645612592&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
+- 2026-10-13T14:06:00+09:00: [나토선 '오늘 밤이라도 싸울 준비'…미, 우크라엔 '지원 중단' 경고](<https://www.jnilbo.com/news/articleView.html?idxno=90000072958>)
+- 2026-10-13T13:54:00+09:00: [10월 1주 유가↓, 비축유 방출 기대](<http://amenews.kr/news/view.php?idx=68279>)
+- 2026-10-13T13:53:00+09:00: [\[Why\] 미주엔 중질유 쌓이는데 아시아는 확보 경쟁… 왜 이런 일이](<https://biz.chosun.com/international/international_general/2026/10/13/QTMK3RQOVFC5PAXTVBDLASFIEY/?utm_source=naver&utm_medium=original&utm_campaign=biz>)
+- 2026-10-13T13:44:00+09:00: [산자중기위, 국감 막바지에 김병주·이기승 다시 부른다… 정유 담합·쿠...](<https://www.newsclaim.co.kr/news/articleView.html?idxno=3078251>)
+- 2026-10-13T13:06:00+09:00: [\[2026 국감\] 산자위, 김병주 MBK 회장 증인 또 채택](<http://www.segyebiz.com/newsView/20261013512689?OutUrl=naver>)
+- 2026-10-13T13:06:00+09:00: [우크라이나 대통령 젤렌스키에게 '매서운 겨울' 다가온다 : 러시아는 우...](<https://www.huffingtonpost.kr/article/261163>)
+- 2026-10-13T12:42:00+09:00: [MBK파트너스 김병주 회장, 홈플러스 사태 해명 위해 국회 증인 출석 결정](<https://www.gokorea.kr/news/articleView.html?idxno=881217>)
+- 2026-10-13T12:34:00+09:00: [산자위, '홈플러스 사태' MBK 김병주 23일 국감 증인 채택](<http://www.iminju.net/news/articleView.html?idxno=170736>)
+- 2026-10-13T11:53:00+09:00: [젤렌스키 "정유시설 휴전은 러에만 유리…전력망도 포함해야"(종합)](<https://www.newsis.com/view/NISX20261013_0003823491>)
+- 2026-10-13T11:50:00+09:00: [정유 4사, 국감서 거래 관행 개선 약속…담합 의혹은 '추후 소명'](<https://www.ntoday.co.kr/news/articleView.html?idxno=130001>)
+- 2026-10-13T11:34:00+09:00: [산자위, '홈플러스 사태' MBK 김병주 23일 국감 증인으로 채택](<https://www.newsis.com/view/NISX20261013_0003823732>)
+- 2026-10-13T11:32:00+09:00: [나토의 두얼굴…겉으론 "러시아 격퇴" 뒤에선 우크라 압박](<https://www.yna.co.kr/view/AKR20261013057900009?input=1195m>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

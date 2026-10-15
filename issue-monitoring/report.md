@@ -1,42 +1,54 @@
-# D-Issue 최신 수집 보고 | 2026-10-15T09:59:13.267335+09:00
+# D-Issue 최신 수집 보고 | 2026-10-15T14:51:39.870075+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1035건 / 네이버 누적: 625건 / 이번 네이버 신규: 6건.
+수집 기사: 1049건 / 네이버 누적: 637건 / 이번 네이버 신규: 12건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
-네이버 연결: 실제 응답 확인 / 검색 조회: 52회 / 수집 범위 상태: ok.
+네이버 연결: 실제 응답 확인 / 검색 조회: 53회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 480/1035건 (46.4%)
-- 현대오일뱅크: 392/1035건 (37.9%)
-- GS: 9/1035건 (0.9%)
-- S-OIL: 8/1035건 (0.8%)
+- SK: 480/1049건 (45.8%)
+- 현대오일뱅크: 392/1049건 (37.4%)
+- GS: 9/1049건 (0.9%)
+- S-OIL: 8/1049건 (0.8%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
-- 정유 담합: 3페이지, 기준일 이후 203건, 상태 scope_boundary_reached
-- 정유사 담합: 4페이지, 기준일 이후 303건, 상태 scope_boundary_reached
-- 정유 가격정보: 5페이지, 기준일 이후 329건, 상태 scope_boundary_reached
-- SK에너지 담합: 5페이지, 기준일 이후 369건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 354건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 416건, 상태 scope_boundary_reached
+- 정유 담합: 3페이지, 기준일 이후 204건, 상태 scope_boundary_reached
+- 정유사 담합: 4페이지, 기준일 이후 304건, 상태 scope_boundary_reached
+- 정유 가격정보: 5페이지, 기준일 이후 340건, 상태 scope_boundary_reached
+- SK에너지 담합: 5페이지, 기준일 이후 370건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 355건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 417건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 354건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 355건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 10건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 19건, 상태 scope_boundary_reached
-- 정유 공정위: 3페이지, 기준일 이후 199건, 상태 scope_boundary_reached
-- 유가 담합: 3페이지, 기준일 이후 213건, 상태 scope_boundary_reached
+- 정유 공정위: 3페이지, 기준일 이후 200건, 상태 scope_boundary_reached
+- 유가 담합: 3페이지, 기준일 이후 214건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 122건, 상태 scope_boundary_reached
-- 휘발유 담합: 3페이지, 기준일 이후 249건, 상태 scope_boundary_reached
-- 경유 담합: 4페이지, 기준일 이후 253건, 상태 scope_boundary_reached
+- 휘발유 담합: 4페이지, 기준일 이후 250건, 상태 scope_boundary_reached
+- 경유 담합: 4페이지, 기준일 이후 254건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
 ## 온라인·공식 자료
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-15T14:34:00+09:00: [일론 머스크의 통신망이 우크라이나 전황을 좌우한다](<https://www.koreareport.co.kr/news/articleView.html?idxno=53666>)
+- 2026-10-15T14:32:00+09:00: [푸틴 감싼 트럼프, 젤렌스키엔 "물러나라"…선거 3주 앞 공화당 속 탄다](<https://www.newsis.com/view/NISX20261015_0003827194>)
+- 2026-10-15T14:22:00+09:00: [푸틴엔 경유, 젤렌스키엔 인터넷 제한?…“선거 앞둔 트럼프의 러시안룰...](<https://www.joongang.co.kr/article/25469991>)
+- 2026-10-15T14:14:00+09:00: [러시아 경유 거래에 美·우크라 균열…유가 안정도 불투명](<https://www.mstoday.co.kr/news/articleView.html?idxno=200166>)
+- 2026-10-15T13:59:00+09:00: [트럼프, 젤렌스키 쫓아내나…정보 끊고 스타링크 사용 막으며 '벼랑 끝...](<https://www.pressian.com/pages/articles/2026101511083218589?utm_source=naver&utm_medium=search>)
+- 2026-10-15T13:45:00+09:00: [선거 급한 美 트럼프, 다시 러시아에 '당근'...우크라에 '채찍'](<https://www.fnnews.com/news/202610150852303529>)
+- 2026-10-15T12:45:00+09:00: [실적 호조 전망 나오는데… 정유업계 웃지 못하는 이유](<https://www.sidae.com/article/2026101511001797602>)
+- 2026-10-15T12:28:00+09:00: [EU 정상, 15~16일 브뤼셀 집결…에너지·中무역·우크라 지원 난제 '산적...](<https://www.newsis.com/view/NISX20261015_0003826925>)
+- 2026-10-15T11:24:00+09:00: [NYT "경유 가격 떨어진다고? 글쎄'…트럼프, 러와 '경유 빅딜' 역부족](<https://biz.sbs.co.kr/article_hub/20000340137?division=NAVER>)
+- 2026-10-15T10:58:00+09:00: [트럼프 종전 압박 속 스타링크 속도제한… 젤렌스키 "파트너 잃었다"](<https://www.mt.co.kr/world/2026/10/15/2026101508575355726>)
+- 2026-10-15T10:01:00+09:00: [중동 전쟁 8개월… 석유公, 알뜰주유소·오피넷으로 유가 안정 견인](<https://biz.chosun.com/industry/company/2026/10/15/FGSHUHFTFJH6PI63OKLZFACCLE/?utm_source=naver&utm_medium=original&utm_campaign=biz>)
+- 2026-10-15T10:00:00+09:00: [트럼프 '러시아 경유 딜'에도 가격 안정 어려워…공급량 역부족](<https://www.ebn.co.kr/news/articleView.html?idxno=1727919>)
 - 2026-10-15T09:55:00+09:00: [“트럼프에 제대로 배신감 느꼈다”… 젤렌스키, 벼랑 끝에서 터트린 심...](<https://www.seoul.co.kr/news/international/europe/2026/10/15/20261015500036?wlog_tag3=naver>)
 - 2026-10-15T09:50:00+09:00: [경유 제재 완화했지만...전문가들 "기름값 크게 낮출지는 미지수"](<https://www.radiokorea.com/news/article.php?uid=506757>)
 - 2026-10-15T09:48:00+09:00: [손들랜드 전 美 대사 "트럼프, 우크라·러시아·중국 사이 전략적 균형...](<https://www.fntoday.co.kr/news/articleView.html?idxno=395315>)
@@ -53,19 +65,7 @@
 - 2026-10-15T01:39:00+09:00: [선거 앞둔 트럼프의 대러시아 양보에 공화당 곤경](<https://www.newspim.com/news/view/20261015000014>)
 - 2026-10-14T22:22:00+09:00: [\[오늘의 운세\] 10월 15일 띠별 재물운…돈 지킬 띠와 움직일 띠](<https://www.topstarnews.net/news/articleView.html?idxno=16247244>)
 - 2026-10-14T22:00:02+00:00: [공정위 “SK에너지·현대오일뱅크, 44조1000억 원 규모 기름값 담합” - 주간동아](<https://news.google.com/rss/articles/CBMiaEFVX3lxTE56TERJVU53aTE3aVZFUXNRcG8zM2VTbFJvdEdJMWxiek9iVVIya3I1b2FMQVYwdzRHTHhWV1kwUzYwRFFyaUIwWmJuYTRfMjhkcXVlVVpXbWNiZnhMVXlFdjVMeHFFZ0pj?oc=5>)
-- 2026-10-14T21:00:00+00:00: [전쟁 이용 유가 담합에 SK는 사과, 현대오일뱅크는 오리발 - 땅집고](<https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRHVEcUlQS0lZNTVRQlpsUGFmdkk0UkQ2MTRuYUZnUGNYRTYxQV96VWFUVER3M0VwZngzQzNDODk0WXdfeHdPTmFSbXVNYzBvb2wtZklCemhfSlFHaTNYcXNacHJSOWRJVUthMDJQVkxnS2JxZE52c3lWLVFmeWfSAXNBVV95cUxPQ0xMaGRSbko0b19YNjNzQ29KSElPM0VvRUEzUTZHdWZmeGlCcUZvWUdNQXR0NjdJQkpzdzVmOWRlMEF6cUQxSTk5TnhoM0RJcGU3dHNoWlJsaTg3YVBWeEZzYVdNQVFXeGhubkJzV3dWd1Rr?oc=5>)
 - 2026-10-14T21:00:00+00:00: [전쟁 이용 유가 담합에 SK는 사과, 현대오일뱅크는 오리발 - 땅집고](<https://news.google.com/rss/articles/CBMic0FVX3lxTE9DTExoZFJuSjRvX1g2M3NDb0pISU8zRW9FQTNRNkd1ZmZ4aUJxRm9ZR01BdHQ2N0lCSnN3NWY5ZGUwQXpxRDFJOTlOeGgzRElwZTd0c2haUmxpODdhUFZ4RnNhV01BUVd4aG5uQnNXd1Z3VGvSAXNBVV95cUxPQ0xMaGRSbko0b19YNjNzQ29KSElPM0VvRUEzUTZHdWZmeGlCcUZvWUdNQXR0NjdJQkpzdzVmOWRlMEF6cUQxSTk5TnhoM0RJcGU3dHNoWlJsaTg3YVBWeEZzYVdNQVFXeGhubkJzV3dWd1Rr?oc=5>)
-- 2026-10-14T20:16:00+09:00: [러 미사일 날아오는데 경보는 없었다…스타링크마저 제한된 우크라](<https://www.newspim.com/news/view/20261014001435>)
-- 2026-10-14T19:18:00+09:00: [러, 트럼프 '에너지 휴전' 무시하고 키이우 발전소 3곳 모두 타격](<https://www.news1.kr/world/europe/6320372>)
-- 2026-10-14T19:10:00+09:00: [우크라, 이틀 연속 美서 미사일 경보 못 받고, 공격 드론은 위성 통신 끊...](<https://www.chosun.com/international/international_general/2026/10/14/TWOEIXOXLJAK3F2SIFY43HXD6E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
-- 2026-10-14T17:22:00+09:00: [HD현대오일뱅크, 44조 유가담합에도 '침묵'…고도의 법리적 전략인가](<http://www.srtimes.kr/news/articleView.html?idxno=214707>)
-- 2026-10-14T16:43:00+09:00: [트럼프 '선물 공세' 받은 푸틴…돌려준 건 '더 큰 전쟁'](<https://www.edaily.co.kr/News/Read?newsId=04510006645612920&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
-- 2026-10-14T16:32:00+09:00: [공정위 중점조사기획단, 1호 사건 '대상·오뚜기·CJ제일제당'…먹거리...](<https://www.tfmedia.co.kr/news/article.html?no=208021>)
-- 2026-10-14T15:30:00+09:00: [정기선 HD현대 회장 취임 1년...실적 개선·사업 재편 성과, 지속 성장 ...](<https://www.joongangenews.com/news/articleView.html?idxno=555007>)
-- 2026-10-14T15:24:00+09:00: [“우크라에 정보 공유 중단 아냐”란 트럼프에도···젤렌스키 “이틀...](<https://www.khan.co.kr/article/202610141524001>)
-- 2026-10-14T13:53:00+09:00: [“주유소 19곳 매물로”…코람코라이프인프라리츠, 자산 재편 속도](<https://www.ddaily.co.kr/page/view/2026101413515401090>)
-- 2026-10-14T13:30:00+09:00: [정유 4사, 국감서 거래 관행 '개선' 약속... '담합 의혹'은 소명](<https://www.meconomynews.com/news/articleView.html?idxno=202522>)
-- 2026-10-14T11:28:00+09:00: [러시아 미사일 날아오는데 침묵한 워싱턴… 트럼프의 ‘에너지 휴전’...](<https://www.seoul.co.kr/news/international/europe/2026/10/14/20261014500088?wlog_tag3=naver>)
-- 2026-10-14T11:00:00+09:00: [\[이덕환의 경제논단\]공급망 위기 대응의 핵심은 기술이다](<https://view.asiae.co.kr/article/2026101315251956936>)
+- 2026-10-14T21:00:00+00:00: [전쟁 이용 유가 담합에 SK는 사과, 현대오일뱅크는 오리발 - 땅집고](<https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRHVEcUlQS0lZNTVRQlpsUGFmdkk0UkQ2MTRuYUZnUGNYRTYxQV96VWFUVER3M0VwZngzQzNDODk0WXdfeHdPTmFSbXVNYzBvb2wtZklCemhfSlFHaTNYcXNacHJSOWRJVUthMDJQVkxnS2JxZE52c3lWLVFmeWfSAXNBVV95cUxPQ0xMaGRSbko0b19YNjNzQ29KSElPM0VvRUEzUTZHdWZmeGlCcUZvWUdNQXR0NjdJQkpzdzVmOWRlMEF6cUQxSTk5TnhoM0RJcGU3dHNoWlJsaTg3YVBWeEZzYVdNQVFXeGhubkJzV3dWd1Rr?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

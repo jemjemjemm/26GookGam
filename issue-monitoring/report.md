@@ -1,42 +1,57 @@
-# D-Issue 최신 수집 보고 | 2026-10-16T14:19:44.331474+09:00
+# D-Issue 최신 수집 보고 | 2026-10-16T19:00:01.145657+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1116건 / 네이버 누적: 691건 / 이번 네이버 신규: 14건.
+수집 기사: 1132건 / 네이버 누적: 706건 / 이번 네이버 신규: 15건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 53회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 486/1116건 (43.5%)
-- 현대오일뱅크: 396/1116건 (35.5%)
-- GS: 9/1116건 (0.8%)
-- S-OIL: 8/1116건 (0.7%)
+- SK: 487/1132건 (43.0%)
+- 현대오일뱅크: 396/1132건 (35.0%)
+- GS: 9/1132건 (0.8%)
+- S-OIL: 8/1132건 (0.7%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
-- 정유 담합: 3페이지, 기준일 이후 210건, 상태 scope_boundary_reached
-- 정유사 담합: 4페이지, 기준일 이후 310건, 상태 scope_boundary_reached
-- 정유 가격정보: 5페이지, 기준일 이후 390건, 상태 scope_boundary_reached
-- SK에너지 담합: 5페이지, 기준일 이후 376건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 361건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 423건, 상태 scope_boundary_reached
+- 정유 담합: 3페이지, 기준일 이후 211건, 상태 scope_boundary_reached
+- 정유사 담합: 4페이지, 기준일 이후 311건, 상태 scope_boundary_reached
+- 정유 가격정보: 5페이지, 기준일 이후 399건, 상태 scope_boundary_reached
+- SK에너지 담합: 5페이지, 기준일 이후 377건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 362건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 426건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 361건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 362건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 10건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 19건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 204건, 상태 scope_boundary_reached
-- 유가 담합: 3페이지, 기준일 이후 220건, 상태 scope_boundary_reached
-- 기름값 담합: 2페이지, 기준일 이후 125건, 상태 scope_boundary_reached
-- 휘발유 담합: 4페이지, 기준일 이후 256건, 상태 scope_boundary_reached
-- 경유 담합: 4페이지, 기준일 이후 260건, 상태 scope_boundary_reached
+- 유가 담합: 3페이지, 기준일 이후 223건, 상태 scope_boundary_reached
+- 기름값 담합: 2페이지, 기준일 이후 126건, 상태 scope_boundary_reached
+- 휘발유 담합: 4페이지, 기준일 이후 257건, 상태 scope_boundary_reached
+- 경유 담합: 4페이지, 기준일 이후 262건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
 ## 온라인·공식 자료
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-16T18:04:00+09:00: [또 묶인 기름값…'7조 손실' 정유업계 냉가슴](<https://www.mk.co.kr/article/12178126>)
+- 2026-10-16T17:30:00+09:00: [락스타의 가장 크고 생생한 범죄 세계, GTA 6 정보 총정리](<https://www.gamemeca.com/mv.php?inflow=naver&gid=1781907>)
+- 2026-10-16T17:24:00+09:00: [美 공화당 강경파, 트럼프에 대러 압박 강화 촉구…"지금 필요한 건 처...](<https://www.fntoday.co.kr/news/articleView.html?idxno=395461>)
+- 2026-10-16T17:00:00+09:00: [\[A 주간 서머리\] 경제·산업계 "국내 증시 7%대 폭락에 금융당국 긴급회...](<https://www.asiaa.co.kr/news/articleView.html?idxno=266542>)
+- 2026-10-16T17:00:00+09:00: [美, 선거에 이란·러시아 제재 '흔들'… "그림자 선단 운항 풀어준다"](<https://www.hankookilbo.com/news/article/A2026101609390002381?did=NA>)
+- 2026-10-16T17:00:00+09:00: [국제 경유값 강세에 수출물량 조정 논의…정부·정유업계 '수급 안정과...](<https://www.energydaily.co.kr/news/articleView.html?idxno=204136>)
+- 2026-10-16T16:50:00+09:00: [트럼프 "수치스러운 일"…러 공격 재개 젤렌스키와 정면충돌](<https://news.sbs.co.kr/news/endPage.do?news_id=N1008801412&plink=ORI&cooper=NAVER>)
+- 2026-10-16T16:36:00+09:00: [\[코스피 지수선물 옵션\] 한화에어로·효성중공업 급등…삼성전자·SK하이...](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=496035>)
+- 2026-10-16T16:34:00+09:00: [트럼프, 러시아 공격한 젤렌스키와 충돌…"수치스러운 일"](<http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005940501>)
+- 2026-10-16T16:26:00+09:00: [스페이스X 기술로 젤렌스키 축출? 트럼프와 머스크의 묘한 '의견 일치'](<https://www.ekoreanews.co.kr/news/articleView.html?idxno=88684>)
+- 2026-10-16T15:54:00+09:00: [트럼프 "수치스러운 일"…러 공격 재개 젤렌스키와 정면충돌(종합)](<https://www.yna.co.kr/view/AKR20261016122800009?input=1195m>)
+- 2026-10-16T15:48:00+09:00: [담합 기소 석화 6사, 과징금에 이익 줄어드나](<https://www.sisajournal-e.com/news/articleView.html?idxno=424378>)
+- 2026-10-16T15:44:00+09:00: [지정학적 리스크에 경유가격 초호황…정부 "수급안정 최우선"](<https://www.energy-news.co.kr/news/articleView.html?idxno=229021>)
+- 2026-10-16T15:42:00+09:00: [정유업계, 호실적 예고…5배 뛴 원유 운송비는 '변수'](<https://daily.hankooki.com/news/articleView.html?idxno=1415722>)
+- 2026-10-16T15:37:00+09:00: [\[고승우 칼럼\] 전작권과 한미동맹 그리고 두 개의 국익](<https://www.polinews.co.kr/news/articleView.html?idxno=745952>)
 - 2026-10-16T14:16:00+09:00: [패트리엇 떨어진 젤렌스키…트럼프의 ‘약점’ 러 원유시설 때렸다](<https://www.joongang.co.kr/article/25470329>)
 - 2026-10-16T13:15:00+09:00: [\[기업해부 LG 79년 ③\] GS·LS·LX는 왜 LG에서 갈라졌나…분가로 바뀐 그...](<https://www.ppss.kr/news/articleView.html?idxno=315873>)
 - 2026-10-16T12:28:00+09:00: [고통분담 7개월, 보전은 아직…정유업계 최고가격제 속앓이](<https://news.mtn.co.kr/article/2026101612255919037>)
@@ -51,21 +66,6 @@
 - 2026-10-16T10:13:00+09:00: [美, 러 그림자함대 제재 완화 검토…"러 경유, 2~3주 내 美 도착"(종합)](<https://view.asiae.co.kr/article/2026101609472616370>)
 - 2026-10-16T10:02:00+09:00: [우크라이나, 러 정유소 공습 재개···국제 경유 공급 불안 가중](<https://www.smartbizn.com/news/articleView.html?idxno=156618>)
 - 2026-10-16T09:50:00+09:00: [\[잠든 사이 월가\] 美 생산자물가 4년여만에 최대↑…국채금리는 하락](<https://www.junggi.co.kr/news/articleView.html?idxno=38105>)
-- 2026-10-16T09:40:00+09:00: [우크라이나, 트럼프의 ‘에너지 휴전’ 파기... 러 정유시설 공습](<https://vop.co.kr/A00001697174.html>)
 - 2026-10-16T09:40:00+09:00: ["우크라, 미국산 패트리엇 고갈"...미국 지원 공백 우려](<https://www.joongangenews.com/news/articleView.html?idxno=555519>)
-- 2026-10-16T09:34:00+09:00: [“우크라, 미국산 패트리엇 고갈…마지막 요격 미사일도 소진”](<https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687388&ref=A>)
-- 2026-10-16T09:32:00+09:00: [말발 안서는 트럼프…젤렌스키, 러시아 정유시설 공습 재개](<http://www.4th.kr/news/articleView.html?idxno=2119859>)
-- 2026-10-16T09:29:00+09:00: [젤렌스키, 트럼프에 반기 들었다…러 정유시설 공습 재개](<https://www.hankyung.com/article/2026101656707>)
-- 2026-10-16T09:27:00+09:00: [트럼프와 갈등 커지는데…우크라 "패트리엇 바닥"](<https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690085.html>)
-- 2026-10-16T09:10:00+09:00: ["방어할 미사일이 없다"…패트리엇 재고 소진에 우크라이나 방공망 비상](<https://www.gukjenews.com/news/articleView.html?idxno=3723257>)
-- 2026-10-16T09:03:00+09:00: [트럼프 향한 젤렌스키 날 선 비판에 유럽 정상들 “발언 수위 낮춰야”](<https://www.khan.co.kr/article/202610160903001>)
-- 2026-10-16T08:44:00+09:00: [\[오늘의 신문\] 현대차, 인도 푸네 스마트공장 준공...아시아 증시 급락...](<http://kor.theasian.asia/archives/418598>)
-- 2026-10-16T08:01:00+09:00: [러 미사일 막을 무기 없다…우크라 '패트리엇 고갈'에 방공망 비상](<https://www.dailian.co.kr/news/view/1702187/?sc=Naver>)
-- 2026-10-16T07:42:00+09:00: [젤렌스키, 트럼프의 러시아 정유시설 공격 중단 요구 거부…"공격 재개...](<https://www.fntoday.co.kr/news/articleView.html?idxno=395417>)
-- 2026-10-16T07:20:00+09:00: [\[오늘의 이슈\]코스피 폭락 다음 날, 숨 돌릴 수 있나](<http://www.newskr.kr/news/articleView.html?idxno=107200>)
-- 2026-10-16T07:10:00+09:00: [우크라, 러 정유시설 공격 재개…트럼프 '에너지 휴전' 사실상 무산](<https://www.newscj.com/news/articleView.html?idxno=3440721>)
-- 2026-10-16T07:08:00+09:00: [“우크라, 패트리엇 바닥났다”…정보 공유 끊긴 우크라 ‘무방비’](<https://www.joongang.co.kr/article/25470243>)
-- 2026-10-16T07:00:00+09:00: [미국증시, 다우 556P 급등·나스닥 강보합…국채금리 하락에 반전](<https://www.topstarnews.net/news/articleView.html?idxno=16248513>)
-- 2026-10-16T06:48:00+09:00: [고점에 물린 국민연금, 리밸런싱 유예는 누구 판단이었나: 슬로우레터 ...](<https://slownews.kr/168017>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

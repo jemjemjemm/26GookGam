@@ -1,42 +1,60 @@
-# D-Issue 최신 수집 보고 | 2026-10-19T04:31:00.208584+09:00
+# D-Issue 최신 수집 보고 | 2026-10-19T06:50:40.630066+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1190건 / 네이버 누적: 753건 / 이번 네이버 신규: 1건.
+수집 기사: 1209건 / 네이버 누적: 771건 / 이번 네이버 신규: 18건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 54회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 488/1190건 (41.0%)
-- 현대오일뱅크: 397/1190건 (33.4%)
-- GS: 9/1190건 (0.8%)
-- S-OIL: 8/1190건 (0.7%)
+- SK: 488/1209건 (40.4%)
+- 현대오일뱅크: 397/1209건 (32.8%)
+- GS: 9/1209건 (0.7%)
+- S-OIL: 8/1209건 (0.7%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 218건, 상태 scope_boundary_reached
-- 정유사 담합: 4페이지, 기준일 이후 318건, 상태 scope_boundary_reached
-- 정유 가격정보: 6페이지, 기준일 이후 435건, 상태 scope_boundary_reached
-- SK에너지 담합: 5페이지, 기준일 이후 386건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 371건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 436건, 상태 scope_boundary_reached
+- 정유사 담합: 4페이지, 기준일 이후 319건, 상태 scope_boundary_reached
+- 정유 가격정보: 6페이지, 기준일 이후 451건, 상태 scope_boundary_reached
+- SK에너지 담합: 5페이지, 기준일 이후 387건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 372건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 437건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 371건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 372건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 10건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 20건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 209건, 상태 scope_boundary_reached
 - 유가 담합: 3페이지, 기준일 이후 230건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 131건, 상태 scope_boundary_reached
-- 휘발유 담합: 4페이지, 기준일 이후 264건, 상태 scope_boundary_reached
-- 경유 담합: 4페이지, 기준일 이후 269건, 상태 scope_boundary_reached
+- 휘발유 담합: 4페이지, 기준일 이후 265건, 상태 scope_boundary_reached
+- 경유 담합: 4페이지, 기준일 이후 270건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
 ## 온라인·공식 자료
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-19T06:44:00+09:00: [치고받는 트럼프와 젤렌스키.... "미국이 우크라이나에 러시아에 대한 ...](<https://www.fnnews.com/news/202610190634188065>)
+- 2026-10-19T06:29:00+09:00: [트럼프 ‘러 에너지 유화책’에 공화 반발기류…美여권 내분 양상 \[1일1...](<https://biz.heraldcorp.com/article/10906397?ref=naver>)
+- 2026-10-19T06:12:00+09:00: [‘경유 비상’ 끄려다…‘러 유화책’ 놓고 트럼프·공화 내분 노출](<https://www.joongang.co.kr/article/25470794>)
+- 2026-10-19T06:08:00+09:00: [젤렌스키 "美, 우크라 항복 압박"…베선트 "스타링크 의혹 제기 신중해...](<https://www.newspim.com/news/view/20261019000019>)
+- 2026-10-19T06:06:00+09:00: [미, 대러제재 면제 논란에 '당근책' 해명...중간선거 D-15 트럼프 지지율...](<https://www.ytn.co.kr/_ln/0104_202610190606469794>)
+- 2026-10-19T06:02:00+09:00: [공정위, 식품업계 정조준… ‘정보교환 담합’ 꺼내나](<https://www.segye.com/newsView/20261018513159?OutUrl=naver>)
+- 2026-10-19T06:01:00+09:00: [트럼프 "젤렌스키, 종전 의지 없어"…젤렌스키 "美, 러시아 항복 압박"(...](<https://www.news1.kr/world/europe/6323847>)
+- 2026-10-19T06:01:00+09:00: [美 베센트, 젤렌스키에 불편한 심기 표출…'러 경유딜' 갈등 지속](<https://www.nocutnews.co.kr/news/6593129?utm_source=naver&utm_medium=article&utm_campaign=20261019060043>)
+- 2026-10-19T06:00:00+09:00: [글로벌 경유 몸값 높아지는데…정유업계 “수출이라도 좀”](<https://www.dt.co.kr/article/12089721?ref=naver>)
+- 2026-10-19T05:52:00+09:00: [집값 뛰고 주가 출렁…국감 후반 '민생 난타전'](<https://www.sidae.com/article/2026101813272225286>)
+- 2026-10-19T05:41:00+09:00: [트럼프 '러 에너지 유화책'에 공화 반발…美여권 내분](<https://www.fnnews.com/news/202610190531583942>)
+- 2026-10-19T05:39:00+09:00: [美재무, ‘우크라는 동맹인가’ 질문에…“난 국무장관 아냐”](<https://biz.heraldcorp.com/article/10906379?ref=naver>)
+- 2026-10-19T05:31:00+09:00: [“우크라는 동맹국?” 세 번 물어도…美재무장관 “난 국무장관 아냐”](<https://www.joongang.co.kr/article/25470788>)
+- 2026-10-19T05:00:00+09:00: [\[윤재준의 월드뷰\] 美 외교 기조 변화에 우크라이나 불확실성 고조](<https://www.fnnews.com/news/202610181717459107>)
+- 2026-10-19T04:58:00+09:00: [트럼프 '러 에너지 유화책'에 공화 반발기류…美여권 내분 양상](<https://biz.sbs.co.kr/article_hub/20000340633?division=NAVER>)
+- 2026-10-19T04:51:00+09:00: [트럼프 '러 에너지 유화책'에 공화 반발기류…미 여권 내분 양상](<https://news.sbs.co.kr/news/endPage.do?news_id=N1008803346&plink=ORI&cooper=NAVER>)
+- 2026-10-19T04:42:00+09:00: [트럼프 ‘러 에너지 유화책’에 공화 반발 기류…미국 여권 내분 양상](<https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688566&ref=A>)
+- 2026-10-19T04:34:00+09:00: [트럼프 '러 에너지 유화책'에 공화 반발기류…美여권 내분 양상(종합)](<https://www.yna.co.kr/view/AKR20261019000351071?input=1195m>)
 - 2026-10-19T03:12:00+09:00: [美재무장관, '우크라는 동맹인가' 질문에 "난 국무장관 아냐"](<https://www.yna.co.kr/view/AKR20261019002200071?input=1195m>)
 - 2026-10-18T22:57:00+09:00: [젤렌스키 "美, 정보 공유 재개"…러 미사일 정보 중단 약 일주일 만](<https://www.news1.kr/world/europe/6323823>)
 - 2026-10-18T21:44:00+09:00: [출발 직전 환불된 KTX 좌석, 720만 석이 비어서 갔다.](<https://slownews.kr/168075>)
@@ -49,23 +67,5 @@
 - 2026-10-18T14:10:00+09:00: [기름값 통제 7개월…정유업계 부담 가중](<https://www.m-i.kr/news/articleView.html?idxno=2007133>)
 - 2026-10-18T13:46:00+09:00: [공정위 중점조사단, 식품업계 담합 정조준…경쟁제한적 ‘정보교환 담합...](<https://www.segye.com/newsView/20261018509320?OutUrl=naver>)
 - 2026-10-18T11:13:00+09:00: [트럼프 대러 제재 유예, 물가 효과 미미…"푸틴 정치적 이득"](<https://www.news1.kr/world/usa-canada/6323543>)
-- 2026-10-18T10:00:00+09:00: [\[DD 주간브리핑\] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 ...](<https://www.ddaily.co.kr/page/view/2026101616200637409>)
-- 2026-10-18T09:28:00+09:00: [제재 면제·통신 감속·정보 차단…미국에 묶인 우크라이나의 눈과 신경...](<https://www.asiatoday.co.kr/kn/view.php?key=20261018010005469>)
-- 2026-10-18T09:26:00+09:00: [꼬여만 가는 중동·러우戰 향방…글로벌 에너지 시장은 '안갯속'](<https://www.edaily.co.kr/News/Read?newsId=01266086645614232&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
-- 2026-10-18T09:18:00+09:00: [미 해군 촘촘한 망 뚫고…이란 가스선은 어떻게 오만만을 빠져나갔나](<https://www.g-enews.com/view.php?ud=202610172057271435fda4f5ab74_1>)
-- 2026-10-18T08:56:00+09:00: ['국산 무탄소 전기'…과제는 망·값·신뢰](<https://www.eroun.net/news/articleView.html?idxno=92708>)
-- 2026-10-18T07:46:00+09:00: [트럼프 '러시아 제재 전격 해제' 파문… 젤렌스키 '핵심 지원' 끊기나](<https://www.g-enews.com/view.php?ud=2026101807403337872bd56fbc3c_1>)
-- 2026-10-18T07:00:00+09:00: [쿠팡의 오만부터 정유사 꼼수 폭로까지 : 반환점 돈 국정감사의 드물었...](<https://www.huffingtonpost.kr/article/261284>)
-- 2026-10-18T06:00:00+09:00: [7개월 넘긴 석유최고가격제 … 손실 눈덩이·수출 제한에 정유사 '속앓...](<https://biz.newdaily.co.kr/site/data/html/2026/10/16/2026101600294.html>)
-- 2026-10-18T06:00:00+09:00: [정유4사, 정제마진 강세에 3분기 영업익 5조원 전망에도 긴장](<https://www.dt.co.kr/article/12089429?ref=naver>)
-- 2026-10-18T06:00:00+09:00: [“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결](<https://www.mk.co.kr/article/12178611>)
-- 2026-10-18T05:15:38+00:00: [\[2026 국감\] 기름값 담합 윗선 규명 요구…정유사 대표들 경영진 인지 즉답 피해 - 알티케이뉴스](<https://news.google.com/rss/articles/CBMibEFVX3lxTE04ZmVNeVdpSUs5bGhRZHBlNFEzOTVKQWtrT05PN2l1ejNvOEtiQXJIN3hzZmhobXRzZy0wellKX0RGV3BVRHNHcTJIRU9oeWE3X082cTZvaXBNTTZBWTRwNVJzT3piUjN1M1VNUw?oc=5>)
-- 2026-10-18T03:06:00+09:00: [월가 보너스 잔치 끝자락에 닥친 유동성 절벽…2027년 미국 증시 약세장...](<https://www.g-enews.com/view.php?ud=202610171525311619fbbec65dfb_1>)
-- 2026-10-18T01:00:00+00:00: [\[DD 주간브리핑\] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 주 국감 종합감사 `정조준` - 디지털데일리](<https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTG45SDFlazJWNkVyMXVVcXhENkY1aUJBOXJ1Mk00dnFqRjlpek9ST3dES3U0akVyWjVIZVVjZWJVRlVrTUpoNjRsVHROT19BbmYyTDBKUXpxVGViZVBuMklYQVc?oc=5>)
-- 2026-10-17T21:14:00+09:00: [\[오늘의 운세\] 10월 18일 띠별 재물운…돈 관리 방향 달라지는 띠](<https://www.topstarnews.net/news/articleView.html?idxno=16250069>)
-- 2026-10-17T18:41:00+09:00: [트럼프, 러시아 제재 상당수 면제…젤렌스키와는 갈등 격화](<https://www.bbc.com/korean/articles/c6d937py0pwpo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D>)
-- 2026-10-17T17:22:00+09:00: [사우디·호르무즈 불안에 유가 재폭등…美 비축유 1700만 배럴 푼다](<https://www.financialpost.co.kr/news/articleView.html?idxno=281002>)
-- 2026-10-17T17:00:00+09:00: [44조원대 정유사 담합 의혹, 법원의 저울은 어디로 기울까](<https://www.sisajournal.com/news/articleView.html?idxno=390382>)
-- 2026-10-17T12:08:00+09:00: [국내 기름값 22주째 내리막…휘발유 1856.6원](<https://www.newsway.co.kr/news/view?ud=2026101712064376029>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

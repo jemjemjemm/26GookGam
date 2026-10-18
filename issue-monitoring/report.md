@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-10-19T02:19:25.984906+09:00
+# D-Issue 최신 수집 보고 | 2026-10-19T04:31:00.208584+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1189건 / 네이버 누적: 752건 / 이번 네이버 신규: 0건.
+수집 기사: 1190건 / 네이버 누적: 753건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 54회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 488/1189건 (41.0%)
-- 현대오일뱅크: 397/1189건 (33.4%)
-- GS: 9/1189건 (0.8%)
-- S-OIL: 8/1189건 (0.7%)
+- SK: 488/1190건 (41.0%)
+- 현대오일뱅크: 397/1190건 (33.4%)
+- GS: 9/1190건 (0.8%)
+- S-OIL: 8/1190건 (0.7%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 218건, 상태 scope_boundary_reached
 - 정유사 담합: 4페이지, 기준일 이후 318건, 상태 scope_boundary_reached
-- 정유 가격정보: 6페이지, 기준일 이후 434건, 상태 scope_boundary_reached
+- 정유 가격정보: 6페이지, 기준일 이후 435건, 상태 scope_boundary_reached
 - SK에너지 담합: 5페이지, 기준일 이후 386건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 371건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 6페이지, 기준일 이후 436건, 상태 scope_boundary_reached
@@ -37,6 +37,7 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-19T03:12:00+09:00: [美재무장관, '우크라는 동맹인가' 질문에 "난 국무장관 아냐"](<https://www.yna.co.kr/view/AKR20261019002200071?input=1195m>)
 - 2026-10-18T22:57:00+09:00: [젤렌스키 "美, 정보 공유 재개"…러 미사일 정보 중단 약 일주일 만](<https://www.news1.kr/world/europe/6323823>)
 - 2026-10-18T21:44:00+09:00: [출발 직전 환불된 KTX 좌석, 720만 석이 비어서 갔다.](<https://slownews.kr/168075>)
 - 2026-10-18T21:14:00+09:00: [\[오늘의 운세\] 10월 19일 띠별 재물운…투자보다 자금관리 중요한 띠](<https://www.topstarnews.net/news/articleView.html?idxno=16250787>)
@@ -55,9 +56,9 @@
 - 2026-10-18T08:56:00+09:00: ['국산 무탄소 전기'…과제는 망·값·신뢰](<https://www.eroun.net/news/articleView.html?idxno=92708>)
 - 2026-10-18T07:46:00+09:00: [트럼프 '러시아 제재 전격 해제' 파문… 젤렌스키 '핵심 지원' 끊기나](<https://www.g-enews.com/view.php?ud=2026101807403337872bd56fbc3c_1>)
 - 2026-10-18T07:00:00+09:00: [쿠팡의 오만부터 정유사 꼼수 폭로까지 : 반환점 돈 국정감사의 드물었...](<https://www.huffingtonpost.kr/article/261284>)
-- 2026-10-18T06:00:00+09:00: [“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결](<https://www.mk.co.kr/article/12178611>)
-- 2026-10-18T06:00:00+09:00: [정유4사, 정제마진 강세에 3분기 영업익 5조원 전망에도 긴장](<https://www.dt.co.kr/article/12089429?ref=naver>)
 - 2026-10-18T06:00:00+09:00: [7개월 넘긴 석유최고가격제 … 손실 눈덩이·수출 제한에 정유사 '속앓...](<https://biz.newdaily.co.kr/site/data/html/2026/10/16/2026101600294.html>)
+- 2026-10-18T06:00:00+09:00: [정유4사, 정제마진 강세에 3분기 영업익 5조원 전망에도 긴장](<https://www.dt.co.kr/article/12089429?ref=naver>)
+- 2026-10-18T06:00:00+09:00: [“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결](<https://www.mk.co.kr/article/12178611>)
 - 2026-10-18T05:15:38+00:00: [\[2026 국감\] 기름값 담합 윗선 규명 요구…정유사 대표들 경영진 인지 즉답 피해 - 알티케이뉴스](<https://news.google.com/rss/articles/CBMibEFVX3lxTE04ZmVNeVdpSUs5bGhRZHBlNFEzOTVKQWtrT05PN2l1ejNvOEtiQXJIN3hzZmhobXRzZy0wellKX0RGV3BVRHNHcTJIRU9oeWE3X082cTZvaXBNTTZBWTRwNVJzT3piUjN1M1VNUw?oc=5>)
 - 2026-10-18T03:06:00+09:00: [월가 보너스 잔치 끝자락에 닥친 유동성 절벽…2027년 미국 증시 약세장...](<https://www.g-enews.com/view.php?ud=202610171525311619fbbec65dfb_1>)
 - 2026-10-18T01:00:00+00:00: [\[DD 주간브리핑\] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 주 국감 종합감사 `정조준` - 디지털데일리](<https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTG45SDFlazJWNkVyMXVVcXhENkY1aUJBOXJ1Mk00dnFqRjlpek9ST3dES3U0akVyWjVIZVVjZWJVRlVrTUpoNjRsVHROT19BbmYyTDBKUXpxVGViZVBuMklYQVc?oc=5>)
@@ -66,6 +67,5 @@
 - 2026-10-17T17:22:00+09:00: [사우디·호르무즈 불안에 유가 재폭등…美 비축유 1700만 배럴 푼다](<https://www.financialpost.co.kr/news/articleView.html?idxno=281002>)
 - 2026-10-17T17:00:00+09:00: [44조원대 정유사 담합 의혹, 법원의 저울은 어디로 기울까](<https://www.sisajournal.com/news/articleView.html?idxno=390382>)
 - 2026-10-17T12:08:00+09:00: [국내 기름값 22주째 내리막…휘발유 1856.6원](<https://www.newsway.co.kr/news/view?ud=2026101712064376029>)
-- 2026-10-17T09:52:00+09:00: [중동·우크라이나 긴장 고조에 국제유가 급등…브렌트유 110달러 육박](<https://www.sentv.co.kr/article/view/sentv202610170010>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

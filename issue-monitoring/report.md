@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-10-21T00:12:30.050232+09:00
+# D-Issue 최신 수집 보고 | 2026-10-21T04:24:12.988594+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1343건 / 네이버 누적: 841건 / 이번 네이버 신규: 2건.
+수집 기사: 1344건 / 네이버 누적: 841건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 56회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 495/1343건 (36.9%)
-- 현대오일뱅크: 406/1343건 (30.2%)
-- GS: 10/1343건 (0.7%)
-- S-OIL: 12/1343건 (0.9%)
+- SK: 495/1344건 (36.8%)
+- 현대오일뱅크: 406/1344건 (30.2%)
+- GS: 10/1344건 (0.7%)
+- S-OIL: 12/1344건 (0.9%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -51,11 +51,12 @@
 - 2026-10-20T13:52:00+09:00: ['14조 유가 담합 의혹' 정유 4사 재판, 11월부터 본격 심리](<https://www.bloter.net/news/articleView.html?idxno=676114>)
 - 2026-10-20T13:30:00+09:00: [K-GX 전략 추진으로 "제품 탄소 경쟁력 중요성 커져"](<https://www.esgeconomy.com/news/articleView.html?idxno=17063>)
 - 2026-10-20T13:14:00+09:00: [SK·현대오일뱅크, 유가담합 재판서 충돌···증인신문 신경전](<https://www.sisajournal-e.com/news/articleView.html?idxno=424428>)
-- 2026-10-20T11:42:00+09:00: [국제유가 100달러대 고공행진... 충청권 수출 '비용 경고등'](<http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915690>)
 - 2026-10-20T11:42:00+09:00: [美, 우크라이나 방공망 핵심 패트리엇 이전 승인 보류… 종전 압박 최고...](<https://biz.chosun.com/international/international_general/2026/10/20/H7OQLAPE4RAOZNZG2E7EMOGN4Y/?utm_source=naver&utm_medium=original&utm_campaign=biz>)
+- 2026-10-20T11:42:00+09:00: [국제유가 100달러대 고공행진... 충청권 수출 '비용 경고등'](<http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915690>)
 - 2026-10-20T11:33:00+09:00: [종전론 배제될라…젤렌스키 "美 패트리엇 주면 러 공격 중단"](<https://www.yna.co.kr/view/AKR20261020078800009?input=1195m>)
-- 2026-10-20T11:20:00+09:00: [\[국감\] 가스·석유공사 통합 신중론 확산…"기관별 혁신·타당성 검증이...](<https://www.energydaily.co.kr/news/articleView.html?idxno=204199>)
+- 2026-10-20T11:29:23+00:00: [토토 hydra 보너스 기능이 있는지 확인하는 곳 - Calgary Roughnecks](<https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbXdDNl83NG1OU016OFJ1SlZ6bDhNNVpxRURPbGliZWFWS2k5QzFmb3lQZU5WbGRia1FvS29sMWhZV3dWR3E0VFI3MzJmN3Yyc0xQVHZuR0NTQW9jS3lrYlMyeDNERDFMSTlJMllCeEdTdGh0Q2tQdWhTdDZ3WHgwbnYtZExYVGo2NHdtRk1pMlN4a2VaUWUwd1RTSWpkMF85TGtISHA5N2E0TDIwX24zcVlmQnFpbTNjd2R2SGc0M0FtYk5SRHdGUXBxdXE0ejM3LUFIQUFMcm9PZ2w2WVdCamVpX1FNc05rSzF1TDFzOHdWT2lGemdINmIyQ0lVaHRYRERIRDdZUXpqZ1U?oc=5>)
 - 2026-10-20T11:20:00+09:00: [法, '26조원대 유가담합' 공판 분리…HD현대오일뱅크 가격 담합 혐의 먼...](<https://www.newspim.com/news/view/20261020000457>)
+- 2026-10-20T11:20:00+09:00: [\[국감\] 가스·석유공사 통합 신중론 확산…"기관별 혁신·타당성 검증이...](<https://www.energydaily.co.kr/news/articleView.html?idxno=204199>)
 - 2026-10-20T11:00:00+09:00: [美, 우즈베키스탄과 16조원 협정 체결...우크라 정보 공유 중단설 반박](<https://www.m-economynews.com/news/article.html?no=71879>)
 - 2026-10-20T10:30:00+09:00: [루비오 美 국무장관, 젤렌스키의 정보 공유 중단 주장 반박…"전쟁 끝내...](<https://www.fntoday.co.kr/news/articleView.html?idxno=395710>)
 - 2026-10-20T10:13:00+09:00: [트럼프 행정부, 우크라 패트리엇 지원 멈췄다…"승인 보류"](<https://www.mt.co.kr/world/2026/10/20/2026102009422831773>)
@@ -66,6 +67,5 @@
 - 2026-10-20T07:29:00+09:00: [정유 4사 3Q 실적 기대감…SK이노·에쓰오일 영업익 4조 전망](<https://www.fnnews.com/news/202610181250077905>)
 - 2026-10-20T07:08:00+09:00: [젤렌스키 "트럼프, 푸틴 아닌 우크라에 항복 압박"…푸틴, 젤렌스키 뺀...](<https://www.asiatoday.co.kr/kn/view.php?key=20261020010006286>)
 - 2026-10-20T07:02:00+09:00: [\[Who Is ?\] 이문화 삼성화재 대표이사 사장](<https://www.businesspost.co.kr/BP?command=article_view&num=449248>)
-- 2026-10-20T06:58:00+09:00: [\[기자수첩\] 기름값 담합 의혹, 국민 세금까지 새선 안 된다](<https://www.viva100.com/article/20261019500696>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

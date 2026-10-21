@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-10-22T05:15:14.680217+09:00
+# D-Issue 최신 수집 보고 | 2026-10-22T08:28:13.104274+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1376건 / 네이버 누적: 860건 / 이번 네이버 신규: 0건.
+수집 기사: 1377건 / 네이버 누적: 861건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 56회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 500/1376건 (36.3%)
-- 현대오일뱅크: 409/1376건 (29.7%)
-- GS: 11/1376건 (0.8%)
-- S-OIL: 13/1376건 (0.9%)
+- SK: 501/1377건 (36.4%)
+- 현대오일뱅크: 409/1377건 (29.7%)
+- GS: 11/1377건 (0.8%)
+- S-OIL: 13/1377건 (0.9%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 233건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 331건, 상태 scope_boundary_reached
-- 정유 가격정보: 7페이지, 기준일 이후 520건, 상태 scope_boundary_reached
+- 정유 가격정보: 7페이지, 기준일 이후 521건, 상태 scope_boundary_reached
 - SK에너지 담합: 5페이지, 기준일 이후 395건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 380건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 6페이지, 기준일 이후 449건, 상태 scope_boundary_reached
@@ -37,6 +37,7 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-22T06:10:00+09:00: [SK그룹 CEO 경영 성적 희비…곽노정·정재헌·장용호 '웃고', 강영규·이...](<http://www.consumernews.co.kr/news/articleView.html?idxno=766305>)
 - 2026-10-21T21:28:00+09:00: [\[오늘의 운세\] 10월 22일 띠별 재물운…자금 운용의 속도보다 쓰임새를...](<https://www.topstarnews.net/news/articleView.html?idxno=16254172>)
 - 2026-10-21T20:18:00+09:00: [코스피 폭락에도 버틴 은행주…반등 신호일까, 일시적 피난처일까](<https://www.s-journal.co.kr/news/articleView.html?idxno=44698>)
 - 2026-10-21T20:14:00+09:00: [WSJ "머스크가 스타링크 감속 지시"…트럼프 관여 논란](<https://www.g-enews.com/view.php?ud=2026102120105970139a1f309431_1>)
@@ -66,6 +67,5 @@
 - 2026-10-20T21:20:00+09:00: [\[오늘의 운세\] 10월 21일 띠별 재물운…자금은 지키되 운용 기준은 바꿀...](<https://www.topstarnews.net/news/articleView.html?idxno=16252780>)
 - 2026-10-20T21:00:00+00:00: [“경유 사겠다” 러브콜 쏟아지는데… 정유 4사, 수출 제한에 발 동동 - IT조선](<https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSDFxejQxRXBCa250bHkyR3o0cE1SbURINTRES2h5bW1jeVNIMVNiQTM5VmVlNHZGdnAwZ281NVU2OG94Vnczd1k3bXpRS05rSDdQbUg4ajVBN09OUUJWdy1RbmtNNlp6NzdmYUlCN1DSAXRBVV95cUxPZmtuS3U0NGQ3bmphS1cybk8ycEstU0psY19tbGx0ZE5weDluRHRkcHh1OWpyY2lUaEFxLUNrM21TSTNka1pSUldoZE9BOXNPYVA0WUlsbzhINlN5SFBtNlJxZXVfYzFUOFZ3RVowYTFOeUJCbg?oc=5>)
 - 2026-10-20T19:08:00+09:00: [K-항공유 유럽 수출 ‘더블업’…정유사 효자 등극](<https://www.dt.co.kr/article/12090229?ref=naver>)
-- 2026-10-20T16:00:00+09:00: [“밤 11시까지 강행군”…국회 정무위, 민생·정책국감 빛났다 \[이런정...](<https://biz.heraldcorp.com/article/10908734?ref=naver>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

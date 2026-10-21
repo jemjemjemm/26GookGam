@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-10-22T01:08:48.480082+09:00
+# D-Issue 최신 수집 보고 | 2026-10-22T05:15:14.680217+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1375건 / 네이버 누적: 860건 / 이번 네이버 신규: 1건.
+수집 기사: 1376건 / 네이버 누적: 860건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 56회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 500/1375건 (36.4%)
-- 현대오일뱅크: 409/1375건 (29.7%)
-- GS: 11/1375건 (0.8%)
-- S-OIL: 13/1375건 (0.9%)
+- SK: 500/1376건 (36.3%)
+- 현대오일뱅크: 409/1376건 (29.7%)
+- GS: 11/1376건 (0.8%)
+- S-OIL: 13/1376건 (0.9%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -56,6 +56,7 @@
 - 2026-10-21T08:56:00+09:00: [트럼프 "미국도 유럽도 지쳐"...젤렌스키에 종전압박 \[뉴스UP\]](<https://www.ytn.co.kr/_ln/0104_202610210856152838>)
 - 2026-10-21T08:10:35+00:00: [\[기자수첩\] 정유사에 남은 숙제…’소명'보다 먼저 내놓을 건 가격 신뢰 - 이지경제](<https://news.google.com/rss/articles/CBMibkFVX3lxTFBkT2x2TU02Y1MzWVRoX0hnT04yalZVcDZRaFNZTXpSMmZ0b3VlbzA2enIxSG5jdGR1Z0dwTlpIUGFJRlhnTlhveGVTOEhURnl4LTZVXzQwcEYzZGRVbjNDelJYVzYtMC1XSDE2WjZ3?oc=5>)
 - 2026-10-21T07:52:00+09:00: [\[포착\] 트럼프 뒤통수 친 러시아…이란과 손잡고 “역사상 가장 긴밀해...](<https://nownews.seoul.co.kr/news/newsView.php?id=20261020601013&wlog_tag3=naver>)
+- 2026-10-21T07:48:06+00:00: [의료기기 유통·정유사 담합 의혹…국감서 민생 밀착형 불공정거래 도마\[2026 국감\] - 쿠키뉴스](<https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ucmFVaVowV0k2MEZWdy1DRXRJWGY4VGV1SmFORFlqZENDVHhldlc0U1BLWC1jWHRMQ1JQd1JRYmN6UjdBZ1hPREFJMlJKY0d1NVN4QjAyMTNVU2NwQnFqVkExWQ?oc=5>)
 - 2026-10-21T07:15:31+00:00: [李대통령 "유가관리 걱정 마시라…정유사 수출 물량 확대 준비" - 노컷뉴스](<https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jOGxPM1RqVnl6VUlQM2hMVDg4ZzdSV2w4aUxXeEcwTDBWWE9XN3Z6eEJRRmw2d3dRRndXUTdJMjdxaXc0enUwM2l5UVZsUEw4bkE?oc=5>)
 - 2026-10-21T06:56:33+00:00: [정유업계 3분기 '4조 잭팟' 예고…호실적 뒤 운임·고유가 복병 - 포인트데일리](<https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdUh3U3c2bnhUc1FuMFdBZ1U0aW9PSk8wS2NzemZzd3R0WndpYWZMNnJiMzhDTzg2REdMR3RteVhfcWM4MElHQjhreGppMUdxU21qbjVZaXk3UXlQZVNiMXZoNEJuOVFCWHk0OWNDQTHSAXRBVV95cUxObHpZejRlanlQQmJsSW93WDFqaUpoZTNZdHpsSHVLT2o5alVjTkNubjZQUnl1bFU2c2d1alBqaXkyZEh1YmdxNFRIVW9YU0x4X1FrU3JEVjJpMTNpWEF2eWp5V3JIMlpraG5CZDY5QzJvVF9oYw?oc=5>)
 - 2026-10-21T06:29:17+00:00: [\[국감\] 고물가 속 44조원 담합 의혹...SK에너지·HD현대오일뱅크 대표, 국감 재소환 - 중앙이코노미뉴스](<https://news.google.com/rss/articles/CBMickFVX3lxTE5TNllvMndiTkJhTGJVdk5OTjl0M2NUaTQ3WWZGbjB6NUdPM1dmMkZ4YnA1dk5VNjdEQjQ5cXBCQjZ0RFRlb2JTdzU2c1hiVEt1elQ2Qk8td1FHMDhxM0VPRTFoUHByWHVwWnhIYVg3QkFjdw?oc=5>)
@@ -66,6 +67,5 @@
 - 2026-10-20T21:00:00+00:00: [“경유 사겠다” 러브콜 쏟아지는데… 정유 4사, 수출 제한에 발 동동 - IT조선](<https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSDFxejQxRXBCa250bHkyR3o0cE1SbURINTRES2h5bW1jeVNIMVNiQTM5VmVlNHZGdnAwZ281NVU2OG94Vnczd1k3bXpRS05rSDdQbUg4ajVBN09OUUJWdy1RbmtNNlp6NzdmYUlCN1DSAXRBVV95cUxPZmtuS3U0NGQ3bmphS1cybk8ycEstU0psY19tbGx0ZE5weDluRHRkcHh1OWpyY2lUaEFxLUNrM21TSTNka1pSUldoZE9BOXNPYVA0WUlsbzhINlN5SFBtNlJxZXVfYzFUOFZ3RVowYTFOeUJCbg?oc=5>)
 - 2026-10-20T19:08:00+09:00: [K-항공유 유럽 수출 ‘더블업’…정유사 효자 등극](<https://www.dt.co.kr/article/12090229?ref=naver>)
 - 2026-10-20T16:00:00+09:00: [“밤 11시까지 강행군”…국회 정무위, 민생·정책국감 빛났다 \[이런정...](<https://biz.heraldcorp.com/article/10908734?ref=naver>)
-- 2026-10-20T15:45:00+09:00: [가격 올리기도 내리기도 부담···식품업계 덮친 원가·규제 압박](<https://www.seoulfn.com/news/articleView.html?idxno=640534>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

@@ -1,29 +1,29 @@
-# D-Issue 최신 수집 보고 | 2026-10-23T05:52:14.184149+09:00
+# D-Issue 최신 수집 보고 | 2026-10-23T08:53:08.643031+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1407건 / 네이버 누적: 876건 / 이번 네이버 신규: 0건.
+수집 기사: 1414건 / 네이버 누적: 882건 / 이번 네이버 신규: 6건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 57회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 505/1407건 (35.9%)
-- 현대오일뱅크: 413/1407건 (29.4%)
-- GS: 11/1407건 (0.8%)
-- S-OIL: 14/1407건 (1.0%)
+- SK: 505/1414건 (35.7%)
+- 현대오일뱅크: 413/1414건 (29.2%)
+- GS: 11/1414건 (0.8%)
+- S-OIL: 14/1414건 (1.0%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 237건, 상태 scope_boundary_reached
-- 정유사 담합: 5페이지, 기준일 이후 335건, 상태 scope_boundary_reached
-- 정유 가격정보: 7페이지, 기준일 이후 532건, 상태 scope_boundary_reached
-- SK에너지 담합: 5페이지, 기준일 이후 398건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 383건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 453건, 상태 scope_boundary_reached
+- 정유사 담합: 5페이지, 기준일 이후 336건, 상태 scope_boundary_reached
+- 정유 가격정보: 7페이지, 기준일 이후 536건, 상태 scope_boundary_reached
+- SK에너지 담합: 5페이지, 기준일 이후 399건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 384건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 455건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 383건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 384건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 12건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 25건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 220건, 상태 scope_boundary_reached
@@ -37,6 +37,13 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-23T08:48:00+09:00: [\[현장\] 22만원 바람막이도 품절…한남동에 줄 선 ‘팔란티어 팬들’](<https://www.ekn.kr/web/view.php?key=20261023020340013>)
+- 2026-10-23T08:08:00+09:00: [\[오늘의 신문\] 이억원·이찬진 국감장서 재차 사과…코스피 급락에 투자...](<http://kor.theasian.asia/archives/419475>)
+- 2026-10-23T08:02:00+09:00: [\[경영전략\] "석유 대신 데이터 정제"…정유업계 'AX 대전환' 사활](<https://www.financialpost.co.kr/news/articleView.html?idxno=282090>)
+- 2026-10-23T08:00:00+09:00: [\[2026 국감\] 정유사 대표 증인 철회...농협 378억 손실·원유 수급 도마](<https://www.news2day.co.kr/article/20261022500322>)
+- 2026-10-23T07:22:00+09:00: [미국증시 나스닥 2.60% 급락·다우 강보합…AI 투자 의구심에 반도체 투...](<https://www.topstarnews.net/news/articleView.html?idxno=16255529>)
+- 2026-10-23T07:02:00+09:00: [“텃밭도 돌아섰다”… 중간선거 2주 앞, 상원 4석에 달린 트럼프의 명...](<https://weekly.donga.com/3/all/11/6427858/1>)
+- 2026-10-22T23:23:04+00:00: [\[2026 국감\] 정유사 대표 증인 철회...농협 378억 손실·원유 수급 도마 - 뉴스투데이](<https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sTnpsNC1qeVV3QlJfZ2pOMFk0RDREa1h2dDNHRkFBcFVxU2VOaU9kX2paUFkwVmItUnJsVEFDWUw5QndXaDBORlVNWXBLS05HR0VQQURNSzFaOFpnVWc?oc=5>)
 - 2026-10-22T22:33:00+09:00: [러, 내달 미·우크라 '3자 회담' 동의… 9달만에 종전협상 재개될까\[러시...](<https://www.pressian.com/pages/articles/2026102218561525336?utm_source=naver&utm_medium=search>)
 - 2026-10-22T22:00:00+09:00: [\[오늘의 운세\] 10월 23일 띠별 재물운…지출 압력 속 자금의 쓰임새를 가...](<https://www.topstarnews.net/news/articleView.html?idxno=16255372>)
 - 2026-10-22T21:32:00+09:00: [트럼프, 푸틴에 속았나?…돈 벌 길 열어줬는데 영토 요구 그대로 \[핫이...](<https://nownews.seoul.co.kr/news/newsView.php?id=20261022601019&wlog_tag3=naver>)
@@ -60,12 +67,5 @@
 - 2026-10-22T04:20:00+00:00: [국제 경유값 2배 폭등에도…수출 제한에 발목 잡힌 정유업계 - 미래경제](<https://news.google.com/rss/articles/CBMibEFVX3lxTE5IZHVfcVlQbWNNbXg4V2NsWHhMenRjeno3Y2JDeTdIcVkyYk5jMjdXNFpqTTU0QXk1eE5YdGpsNUs5VC1tanB5cE1aWlFlZl9IaS0xRGEzM2dBSW9XQXEzTDNXcko5RnF4NFhnMQ?oc=5>)
 - 2026-10-22T01:54:48+00:00: [정유 4사 3분기 영업이익 6조 찍나 - 중소기업신문](<https://news.google.com/rss/articles/CBMibkFVX3lxTE1BYTdySGRyQS1Sb2NEM2psdFRON3RnQk9HSnc0RTNIMXBqa3NCWkVGaDZDa295YnQ5cjdKZnp3azlSUFAzLWU5dzZZZVk4WXZ1cG1MTkQ0NVFNb0Q5ZGNKdVljd1E0Tm5pbk9qQk1R?oc=5>)
 - 2026-10-21T21:28:00+09:00: [\[오늘의 운세\] 10월 22일 띠별 재물운…자금 운용의 속도보다 쓰임새를...](<https://www.topstarnews.net/news/articleView.html?idxno=16254172>)
-- 2026-10-21T20:18:00+09:00: [코스피 폭락에도 버틴 은행주…반등 신호일까, 일시적 피난처일까](<https://www.s-journal.co.kr/news/articleView.html?idxno=44698>)
-- 2026-10-21T20:14:00+09:00: [WSJ "머스크가 스타링크 감속 지시"…트럼프 관여 논란](<https://www.g-enews.com/view.php?ud=2026102120105970139a1f309431_1>)
-- 2026-10-21T17:23:00+09:00: ["우크라 드론기능 무력화, 머스크 결정…전쟁 향방 좌우" \[이상은의 워싱...](<https://www.hankyung.com/article/202610216625i>)
-- 2026-10-21T17:12:00+09:00: [\[기자수첩\] 정유사에 남은 숙제…'소명'보다 먼저 내놓을 건 가격 신뢰](<https://www.ezyeconomy.com/news/articleView.html?idxno=241057>)
-- 2026-10-21T16:50:00+09:00: [의료기기 유통·정유사 담합 의혹…국감서 민생 밀착형 불공정거래 도마...](<https://www.kukinews.com/article/view/kuk202610210171>)
-- 2026-10-21T16:05:00+09:00: [젤렌스키, '미국과 정보 공유 잘 되고 있어' … 위트코프 미 특사, 러시...](<https://www.bbc.com/korean/articles/c3n04xle2eqvo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D>)
-- 2026-10-21T15:58:00+09:00: [정유업계 3분기 '4조 잭팟' 예고…호실적 뒤 운임·고유가 복병](<https://www.pointdaily.co.kr/news/articleView.html?idxno=323089>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

@@ -1,27 +1,27 @@
-# D-Issue 최신 수집 보고 | 2026-10-23T08:53:08.643031+09:00
+# D-Issue 최신 수집 보고 | 2026-10-23T13:40:34.107709+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1414건 / 네이버 누적: 882건 / 이번 네이버 신규: 6건.
+수집 기사: 1419건 / 네이버 누적: 884건 / 이번 네이버 신규: 2건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 57회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 505/1414건 (35.7%)
-- 현대오일뱅크: 413/1414건 (29.2%)
-- GS: 11/1414건 (0.8%)
-- S-OIL: 14/1414건 (1.0%)
+- SK: 505/1419건 (35.6%)
+- 현대오일뱅크: 413/1419건 (29.1%)
+- GS: 11/1419건 (0.8%)
+- S-OIL: 14/1419건 (1.0%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 237건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 336건, 상태 scope_boundary_reached
-- 정유 가격정보: 7페이지, 기준일 이후 536건, 상태 scope_boundary_reached
+- 정유 가격정보: 7페이지, 기준일 이후 537건, 상태 scope_boundary_reached
 - SK에너지 담합: 5페이지, 기준일 이후 399건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 384건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 455건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 456건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
 - 현대 오일뱅크 담합: 5페이지, 기준일 이후 384건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 12건, 상태 scope_boundary_reached
@@ -37,6 +37,8 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-23T10:32:00+09:00: [\[총수家\] 김병주 MBK파트너스 회장 ②ㅣ 664억 사재 상환에도 홈플러스...](<https://www.cbci.co.kr/news/articleView.html?idxno=618542>)
+- 2026-10-23T09:06:00+09:00: [금시세·금값 23일](<https://www.bntnews.co.kr/article/view/bnt202610230137>)
 - 2026-10-23T08:48:00+09:00: [\[현장\] 22만원 바람막이도 품절…한남동에 줄 선 ‘팔란티어 팬들’](<https://www.ekn.kr/web/view.php?key=20261023020340013>)
 - 2026-10-23T08:08:00+09:00: [\[오늘의 신문\] 이억원·이찬진 국감장서 재차 사과…코스피 급락에 투자...](<http://kor.theasian.asia/archives/419475>)
 - 2026-10-23T08:02:00+09:00: [\[경영전략\] "석유 대신 데이터 정제"…정유업계 'AX 대전환' 사활](<https://www.financialpost.co.kr/news/articleView.html?idxno=282090>)
@@ -65,7 +67,5 @@
 - 2026-10-22T08:05:00+00:00: [SK에너지·HD현대오일뱅크 대표, 산자위 국감 증인 채택 철회 - 데일리안](<https://news.google.com/rss/articles/CBMijgJBVV95cUxNeF9QbmM3aXY5WlYxeGN1aHV1LUUzck1HRGF6QmpoOWZ0VmxkLUUyRGhvSTNEZE81eFNpQjRvOUFHZnZUOUVQYnNwSWhfaGR6TGdRVGdtbzlDc3lXQkoyNF9Cc0l1V2lDLXg3LU5CV3FnVm0ybHNkb3ktMWFvdW11NXhGX1BEeWxpNDdyYzVoQnl0M2pqQ0xlSDk1cXMxRFl0S2dBTlVaOTZETmgyRFdjY200Qm9wcVAwRThGYUplUlh0MjRsZVc3azdoWUROeVVidThhNHBlZ2lPQnB2TEZybUdmd2NSQmQ5QmlfcDBDelJucEI2TU90REJXVWZ4MkxJZzNYUmlya1lpcmFFX1E?oc=5>)
 - 2026-10-22T06:10:00+09:00: [SK그룹 CEO 경영 성적 희비…곽노정·정재헌·장용호 '웃고', 강영규·이...](<http://www.consumernews.co.kr/news/articleView.html?idxno=766305>)
 - 2026-10-22T04:20:00+00:00: [국제 경유값 2배 폭등에도…수출 제한에 발목 잡힌 정유업계 - 미래경제](<https://news.google.com/rss/articles/CBMibEFVX3lxTE5IZHVfcVlQbWNNbXg4V2NsWHhMenRjeno3Y2JDeTdIcVkyYk5jMjdXNFpqTTU0QXk1eE5YdGpsNUs5VC1tanB5cE1aWlFlZl9IaS0xRGEzM2dBSW9XQXEzTDNXcko5RnF4NFhnMQ?oc=5>)
-- 2026-10-22T01:54:48+00:00: [정유 4사 3분기 영업이익 6조 찍나 - 중소기업신문](<https://news.google.com/rss/articles/CBMibkFVX3lxTE1BYTdySGRyQS1Sb2NEM2psdFRON3RnQk9HSnc0RTNIMXBqa3NCWkVGaDZDa295YnQ5cjdKZnp3azlSUFAzLWU5dzZZZVk4WXZ1cG1MTkQ0NVFNb0Q5ZGNKdVljd1E0Tm5pbk9qQk1R?oc=5>)
-- 2026-10-21T21:28:00+09:00: [\[오늘의 운세\] 10월 22일 띠별 재물운…자금 운용의 속도보다 쓰임새를...](<https://www.topstarnews.net/news/articleView.html?idxno=16254172>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

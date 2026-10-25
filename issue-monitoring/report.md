@@ -1,49 +1,58 @@
-# D-Issue 최신 수집 보고 | 2026-10-25T16:04:08.542524+09:00
+# D-Issue 최신 수집 보고 | 2026-10-25T21:33:00.033345+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1468건 / 네이버 누적: 914건 / 이번 네이버 신규: 3건.
+수집 기사: 1478건 / 네이버 누적: 919건 / 이번 네이버 신규: 5건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 59회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 509/1468건 (34.7%)
-- 현대오일뱅크: 416/1468건 (28.3%)
-- GS: 11/1468건 (0.7%)
-- S-OIL: 16/1468건 (1.1%)
+- SK: 510/1478건 (34.5%)
+- 현대오일뱅크: 417/1478건 (28.2%)
+- GS: 11/1478건 (0.7%)
+- S-OIL: 16/1478건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
-- 정유 담합: 3페이지, 기준일 이후 240건, 상태 scope_boundary_reached
-- 정유사 담합: 5페이지, 기준일 이후 337건, 상태 scope_boundary_reached
-- 정유 가격정보: 8페이지, 기준일 이후 563건, 상태 scope_boundary_reached
-- SK에너지 담합: 6페이지, 기준일 이후 401건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 386건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 459건, 상태 scope_boundary_reached
+- 정유 담합: 3페이지, 기준일 이후 242건, 상태 scope_boundary_reached
+- 정유사 담합: 5페이지, 기준일 이후 338건, 상태 scope_boundary_reached
+- 정유 가격정보: 8페이지, 기준일 이후 567건, 상태 scope_boundary_reached
+- SK에너지 담합: 6페이지, 기준일 이후 402건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 387건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 461건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 386건, 상태 scope_boundary_reached
-- 정유 리니언시: 1페이지, 기준일 이후 13건, 상태 scope_boundary_reached
-- 정유 자진신고: 1페이지, 기준일 이후 26건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 387건, 상태 scope_boundary_reached
+- 정유 리니언시: 1페이지, 기준일 이후 14건, 상태 scope_boundary_reached
+- 정유 자진신고: 1페이지, 기준일 이후 27건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 221건, 상태 scope_boundary_reached
-- 유가 담합: 4페이지, 기준일 이후 256건, 상태 scope_boundary_reached
+- 유가 담합: 4페이지, 기준일 이후 257건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 141건, 상태 scope_boundary_reached
-- 휘발유 담합: 4페이지, 기준일 이후 274건, 상태 scope_boundary_reached
-- 경유 담합: 4페이지, 기준일 이후 280건, 상태 scope_boundary_reached
+- 휘발유 담합: 4페이지, 기준일 이후 275건, 상태 scope_boundary_reached
+- 경유 담합: 4페이지, 기준일 이후 281건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
 ## 온라인·공식 자료
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-25T21:16:00+09:00: [\[오늘의 운세\] 10월 26일 띠별 재물운…자금 흐름과 거래조건의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16257491>)
+- 2026-10-25T19:48:00+09:00: [기름값 올릴 땐 번개, 내릴 땐 거북이…정유4사 3분기 이익 5조원 전망](<https://www.kbmaeil.com/article/20261025500648>)
+- 2026-10-25T17:56:00+09:00: [담합 자진신고 기업에 형벌 감면 혜택 늘린다](<https://www.sedaily.com/article/20105830?ref=naver>)
+- 2026-10-25T17:53:00+09:00: [정유업계, 3분기 실적 '껑충'…가격 규제·담합 의혹은 부담](<https://www.ddaily.co.kr/page/view/2026102215562711138>)
+- 2026-10-25T16:03:00+09:00: [가격 상한·수출 빗장·보상 지연…정유 4사 호실적 뒤 '삼중고'](<https://www.news1.kr/industry/general-industry/6331094>)
 - 2026-10-25T16:02:00+09:00: [\[컬처핏 A+(82)\] HD현대오일뱅크, 애사심과 끈기는 '충성심' 아닌 '끝까지...](<https://www.news2day.co.kr/article/20261023500033>)
 - 2026-10-25T14:20:00+09:00: [기름값 잡은 최고가격제, 손실 청구서는 아직…눈치보는 정유사](<https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221516560810760>)
 - 2026-10-25T13:34:00+09:00: [담합 먼저 신고하면 기소유예…공소청, 처벌 부담 낮춘다](<https://www.sedaily.com/article/20105746?ref=naver>)
+- 2026-10-25T10:47:00+00:00: [기름값 올릴 땐 번개, 내릴 땐 거북이…정유4사 3분기 이익 5조원 전망 - 경북매일](<https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUkc2eUFIdVdLUGUtaEdIZVhGeGR0WENsTkdZVjhDN2NadHYzdTdBSGZJMy1POGxienRaYlA1RWk4MGgyTmNSUnRUWS12TE9HRmZNTkpZbXlyZw?oc=5>)
 - 2026-10-25T09:46:00+09:00: [다시 치솟는 국제유가…국내 기름값도 꿈틀](<https://www.newsway.co.kr/news/view?ud=2026102509395798661>)
 - 2026-10-25T09:24:00+09:00: [금시세·금값 25일](<https://www.bntnews.co.kr/article/view/bnt202610240125>)
 - 2026-10-25T09:15:00+09:00: [트럼프도 마크롱도 가격 못 잡아 쩔쩔매는 이것… 한국은 오히려 수출 ...](<https://www.segye.com/newsView/20261023511057?OutUrl=naver>)
+- 2026-10-25T08:52:20+00:00: [정유업계, 3분기 실적 `껑충`…가격 규제·담합 의혹은 부담 - 디지털데일리](<https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EanBQSUdRYU9aekNCQVVBdnRJLWNacUlRZGZFTU9rdGF3YktORHVWTUpOT1pLOUQ5aU5iWlFObW81cDM3YzdLMzNQRHRpTjViMmhDMHEzS1RmM0czWWcwdE5rLVc?oc=5>)
 - 2026-10-25T08:40:00+09:00: [탄소 1t 줄이는 데 1000만원?… 3806억 탄소포집 사업 '가성비' 논란](<https://www.thepublic.kr/news/articleView.html?idxno=323548>)
+- 2026-10-25T07:03:18+00:00: [가격 상한·수출 빗장·보상 지연…정유 4사 호실적 뒤 '삼중고' - 뉴스1](<https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjdVlEcTdSTmFVWHlHbzBjYTZGNVV1dGt4YjVPcGtHVWRkQ0N4c3A1bXg5OW1DXzZnRzBwcWpjby05WGVxckRpS2RVaVkzMkx0dEhRWk1lcTd6WUpMSkFHRUw2US0?oc=5>)
+- 2026-10-25T05:00:11+00:00: [기름값 잡은 최고가격제, 손실 청구서는 아직…눈치보는 정유사 - 대한경제](<https://news.google.com/rss/articles/CBMic0FVX3lxTE82UloycEpoTTZZbDYxb1J3OUtuRWs4TndJelpRcWJGTG9QYjZfSmVNZ0tlT1UwTE5EV3ppMXlyUkFKS3BiRmRONFNGSmdRTm96WVRWeV8zZ2ZmQXBVWW0tZk5jWVJ3YzV0dXZXa18yUWpGcWM?oc=5>)
 - 2026-10-25T05:00:00+09:00: [군사비 세계 8위 사우디가 빈국 예멘에 쩔쩔매는 이유](<http://weekly.chosun.com/news/articleView.html?idxno=56466>)
 - 2026-10-25T04:33:55+00:00: [담합 먼저 신고하면 기소유예…공소청, 처벌 부담 낮춘다 - 서울경제](<https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TdHAyZTkxZjNMX3VNN2oxYzV0cWdfaGJGNElvS0pBYTdKTW4zNzN2NDhFV0RWQ1RkVlNIQThxTGZXLXJwSG5oNVF6RmQzYTkzOWfSAVNBVV95cUxPWkFZc3M0aXR0b2FOa1BZcVQ2bkJrXzZCNW9RUXEtUFE0ZHQyM25SZ0d6Vy1waW9LUkl0ODR1Y2djUTNaNmJod2ZmWkxJX0VOdWUtRQ?oc=5>)
 - 2026-10-24T22:48:00+09:00: [\[오늘의 운세\] 10월 25일 띠별 재물운…자금 흐름은 넓어지고 지출 기준...](<https://www.topstarnews.net/news/articleView.html?idxno=16256891>)
@@ -58,14 +67,5 @@
 - 2026-10-24T08:14:00+09:00: [미국증시 다우 652포인트 급락…유가 급등에도 반도체 반등, SK하이닉스...](<https://www.topstarnews.net/news/articleView.html?idxno=16256458>)
 - 2026-10-24T07:20:00+09:00: [\[주간 거래소 기관\] 한화오션·삼성바이오로직스 담고…전자 대형주 비...](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=498080>)
 - 2026-10-24T06:01:00+09:00: [\[단독\] 책임 부담에… 석유 최고액 정산위, 감사원에 SOS](<https://www.chosun.com/economy/industry-company/2026/10/24/SO42KMMWHVG5PEBGQHCEYROHBY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
-- 2026-10-24T03:15:00+09:00: [\[국제유가\] 장중 117달러 돌파…내년 4월물도 100달러 뚫어](<https://www.fnnews.com/news/202610240232205681>)
-- 2026-10-23T22:46:00+09:00: [트럼프·푸틴 '경유 딜' 첫 성과… 러시아산 유조선, 2022년 제재 깨고 ...](<https://www.fnnews.com/news/202610232237572545>)
-- 2026-10-23T21:14:00+09:00: [\[오늘의 운세\] 10월 24일 띠별 재물운…돈의 흐름보다 자금의 쓰임새를...](<https://www.topstarnews.net/news/articleView.html?idxno=16256275>)
-- 2026-10-23T17:24:00+09:00: [독도사랑주유소, ℓ당 100원 할인 '독도 칙령의 날' 기념한다](<https://www.newsis.com/view/NISX20261023_0003839114>)
-- 2026-10-23T16:47:00+09:00: [\[CEO 성과 점검\] \[HD현대오일뱅크\] 송명준·정임주 공동대표, 임기 만료...](<https://www.topdaily.kr/articles/112478>)
-- 2026-10-23T15:52:00+09:00: [S-OIL 샤힌 프로젝트, 9조 투자 결실 눈앞…11월 전체 공정 시운전](<https://thetracker.co.kr/View.aspx?No=4276703>)
-- 2026-10-23T15:22:00+09:00: ["원유가격 뛰고 운임도 급등"…K정유, 치솟는 원가에 수익성 '빨간불'](<https://www.mediapen.com/news/view/1131993>)
-- 2026-10-23T14:58:00+09:00: [최고가격제 여파에…주유소 기름값 22주 연속 내려](<https://www.energy-news.co.kr/news/articleView.html?idxno=229210>)
-- 2026-10-23T14:36:00+09:00: [석화업계 혹독한 3분기…250만t 줄여도 끝 아닌 '원가 전쟁'](<https://www.pointdaily.co.kr/news/articleView.html?idxno=323416>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

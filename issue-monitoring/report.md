@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-10-25T21:33:00.033345+09:00
+# D-Issue 최신 수집 보고 | 2026-10-26T01:48:17.729770+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1478건 / 네이버 누적: 919건 / 이번 네이버 신규: 5건.
+수집 기사: 1479건 / 네이버 누적: 919건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 59회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 510/1478건 (34.5%)
-- 현대오일뱅크: 417/1478건 (28.2%)
-- GS: 11/1478건 (0.7%)
-- S-OIL: 16/1478건 (1.1%)
+- SK: 510/1479건 (34.5%)
+- 현대오일뱅크: 417/1479건 (28.2%)
+- GS: 11/1479건 (0.7%)
+- S-OIL: 16/1479건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -49,6 +49,7 @@
 - 2026-10-25T09:46:00+09:00: [다시 치솟는 국제유가…국내 기름값도 꿈틀](<https://www.newsway.co.kr/news/view?ud=2026102509395798661>)
 - 2026-10-25T09:24:00+09:00: [금시세·금값 25일](<https://www.bntnews.co.kr/article/view/bnt202610240125>)
 - 2026-10-25T09:15:00+09:00: [트럼프도 마크롱도 가격 못 잡아 쩔쩔매는 이것… 한국은 오히려 수출 ...](<https://www.segye.com/newsView/20261023511057?OutUrl=naver>)
+- 2026-10-25T08:55:17+00:00: [담합 자진신고 기업에 형벌 감면 혜택 늘린다 - 서울경제](<https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMldYTzdQQ2RydHVZWEF5LUhuY1FJNEVTZURuT0tINDY2bXo0cGZicjV1YzJ5WlBWQy0ySndqNjlqY0V1MlBkcVU3aF9FcUdnYmfSAVNBVV95cUxQSGc2aThyT2t2UEFGRGo3WmdmWDdjZVZqQW5fNUg2ZTZiMVFRQ1lCMFJuVFVlX0NJSE5NVFBpV0VKSjhBZXBYTl8tNklFMV9RcGEtdw?oc=5>)
 - 2026-10-25T08:52:20+00:00: [정유업계, 3분기 실적 `껑충`…가격 규제·담합 의혹은 부담 - 디지털데일리](<https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EanBQSUdRYU9aekNCQVVBdnRJLWNacUlRZGZFTU9rdGF3YktORHVWTUpOT1pLOUQ5aU5iWlFObW81cDM3YzdLMzNQRHRpTjViMmhDMHEzS1RmM0czWWcwdE5rLVc?oc=5>)
 - 2026-10-25T08:40:00+09:00: [탄소 1t 줄이는 데 1000만원?… 3806억 탄소포집 사업 '가성비' 논란](<https://www.thepublic.kr/news/articleView.html?idxno=323548>)
 - 2026-10-25T07:03:18+00:00: [가격 상한·수출 빗장·보상 지연…정유 4사 호실적 뒤 '삼중고' - 뉴스1](<https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjdVlEcTdSTmFVWHlHbzBjYTZGNVV1dGt4YjVPcGtHVWRkQ0N4c3A1bXg5OW1DXzZnRzBwcWpjby05WGVxckRpS2RVaVkzMkx0dEhRWk1lcTd6WUpMSkFHRUw2US0?oc=5>)
@@ -66,6 +67,5 @@
 - 2026-10-24T10:00:00+09:00: [트럼프는 트루스소셜, 이재명은 X…외교 흔드는 대통령의 손끝](<https://www.joongang.co.kr/article/25472462>)
 - 2026-10-24T08:14:00+09:00: [미국증시 다우 652포인트 급락…유가 급등에도 반도체 반등, SK하이닉스...](<https://www.topstarnews.net/news/articleView.html?idxno=16256458>)
 - 2026-10-24T07:20:00+09:00: [\[주간 거래소 기관\] 한화오션·삼성바이오로직스 담고…전자 대형주 비...](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=498080>)
-- 2026-10-24T06:01:00+09:00: [\[단독\] 책임 부담에… 석유 최고액 정산위, 감사원에 SOS](<https://www.chosun.com/economy/industry-company/2026/10/24/SO42KMMWHVG5PEBGQHCEYROHBY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

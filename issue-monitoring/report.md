@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-10-26T09:15:58.846778+09:00
+# D-Issue 최신 수집 보고 | 2026-10-26T14:01:30.920963+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1482건 / 네이버 누적: 920건 / 이번 네이버 신규: 1건.
+수집 기사: 1490건 / 네이버 누적: 925건 / 이번 네이버 신규: 5건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 59회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 510/1482건 (34.4%)
-- 현대오일뱅크: 417/1482건 (28.1%)
-- GS: 11/1482건 (0.7%)
-- S-OIL: 16/1482건 (1.1%)
+- SK: 510/1490건 (34.2%)
+- 현대오일뱅크: 417/1490건 (28.0%)
+- GS: 11/1490건 (0.7%)
+- S-OIL: 16/1490건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 242건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 338건, 상태 scope_boundary_reached
-- 정유 가격정보: 8페이지, 기준일 이후 568건, 상태 scope_boundary_reached
+- 정유 가격정보: 8페이지, 기준일 이후 573건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 402건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 387건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 6페이지, 기준일 이후 461건, 상태 scope_boundary_reached
@@ -37,7 +37,15 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-26T13:02:00+09:00: [머스크 "스타링크 끄면 우크라 전선 즉시 붕괴"…드론전 좌우하는 위성...](<https://www.asiatoday.co.kr/kn/view.php?key=20261026010008725>)
+- 2026-10-26T13:01:00+09:00: [중동전쟁 장기화에 용선료와 선원 월급도 천정부지](<https://www.chosun.com/economy/economy_general/2026/10/26/NDEYMXL7FFH5LAB6W7I7G6I2TY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
+- 2026-10-26T11:12:00+09:00: [국제유가 120弗 육박…겨울 에너지물가 ‘비상’](<https://biz.heraldcorp.com/article/10914650?ref=naver>)
+- 2026-10-26T10:52:00+09:00: [국제유가 117달러 돌파…겨울철 난방비 폭탄 우려](<https://biz.heraldcorp.com/article/10914585?ref=naver>)
+- 2026-10-26T09:16:00+09:00: [금시세·금값 26일](<https://www.bntnews.co.kr/article/view/bnt202610260154>)
 - 2026-10-26T07:30:00+09:00: [\[넥스트-샷\] 반도체 겨우 숨 돌렸는데 기름값이 발목···다우 650P '털썩...](<https://www.womaneconomy.co.kr/news/articleView.html?idxno=260202>)
+- 2026-10-26T01:58:32+00:00: [발레로에너지(VLO.N) 3분기 사상 최대 이익 경신..현금창출력 확대 - 알파경제](<https://news.google.com/rss/articles/CBMibkFVX3lxTE1HVjUxVm1NWHBWOVZpT3VpSGYwNXcyWUxpaXpxZ0U3Snc2M3lZM0JQQmhlY2JKV29HdVlsdHNnMndTVlYzeWpXQ0g3YW9KQXdoOUphWjJ3YmhIeDdZV3RnWFpZaFF1WVhMam5hdktn?oc=5>)
+- 2026-10-26T01:34:35+00:00: [다가오는 겨울, 요동치는 석유 시장…트럼프의 ‘작은 대가’에 전 세계 ‘재정 대란’ 맞나 - 더퍼블릭](<https://news.google.com/rss/articles/CBMia0FVX3lxTE5WNVFrbUxUSlRRbnprYUh4M2w4ZTMxYzZwLTB4TjBvVC0xeS11UHlUaTRZRTdqVHVVT1U4VU1Ha0luelRjTzZ3akVWd0dHUjlkaU5ZZW1EeUJIWHNfci1mTkhPdnVUV2dmY0k00gFvQVVfeXFMUFEtMllvY3U0cF9qc1llM25WRGFLMnlmOFV6QkZDd2JUSUM0d3JZRmdqR0p4U0U0WGYyUmdMTG51SUNBSmwtVnRMSjRkaXFZTW5yLTQ1cjhDTlAtYnA5Ykx5UnhSNW5rajZkYnBWTkVZ?oc=5>)
+- 2026-10-26T01:05:00+00:00: [정유사 담합 심의 착수한 시점에…민간 주유소 사업자, 100만 리터 저유고 열었다 - 전국매일신문](<https://news.google.com/rss/articles/CBMibkFVX3lxTFB6TXRZSDUwVGF2eTNDbVVfbk5wdk9EejRGSDVFNDlRQzRiS0hxVUstdDRpbzFjUWV0VVVVUUREZjBUOXJTMFhHdHBfekR6S1Rydmg5S1Y0YmphOUtYdlhoUjhyY0J2bDJUbUsxYkh3?oc=5>)
 - 2026-10-25T21:16:00+09:00: [\[오늘의 운세\] 10월 26일 띠별 재물운…자금 흐름과 거래조건의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16257491>)
 - 2026-10-25T19:48:00+09:00: [기름값 올릴 땐 번개, 내릴 땐 거북이…정유4사 3분기 이익 5조원 전망](<https://www.kbmaeil.com/article/20261025500648>)
 - 2026-10-25T17:56:00+09:00: [담합 자진신고 기업에 형벌 감면 혜택 늘린다](<https://www.sedaily.com/article/20105830?ref=naver>)
@@ -59,13 +67,5 @@
 - 2026-10-25T04:33:55+00:00: [담합 먼저 신고하면 기소유예…공소청, 처벌 부담 낮춘다 - 서울경제](<https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TdHAyZTkxZjNMX3VNN2oxYzV0cWdfaGJGNElvS0pBYTdKTW4zNzN2NDhFV0RWQ1RkVlNIQThxTGZXLXJwSG5oNVF6RmQzYTkzOWfSAVNBVV95cUxPWkFZc3M0aXR0b2FOa1BZcVQ2bkJrXzZCNW9RUXEtUFE0ZHQyM25SZ0d6Vy1waW9LUkl0ODR1Y2djUTNaNmJod2ZmWkxJX0VOdWUtRQ?oc=5>)
 - 2026-10-24T22:48:00+09:00: [\[오늘의 운세\] 10월 25일 띠별 재물운…자금 흐름은 넓어지고 지출 기준...](<https://www.topstarnews.net/news/articleView.html?idxno=16256891>)
 - 2026-10-24T21:01:00+09:00: [AIDC, 산업 지형도 지각 변동](<https://www.mk.co.kr/article/12177752>)
-- 2026-10-24T18:52:00+09:00: [\[주말 인터뷰\] “낙수효과만 기다릴 수 없다”…주지홍 부회장이 말하는...](<https://www.yeongnam.com/web/view.php?key=20261024026196029>)
-- 2026-10-24T18:40:00+09:00: [중동 확전 우려에 유가↑·뉴욕 증시↓...우리 경제는?](<https://www.ytn.co.kr/_ln/0102_202610241840334217>)
-- 2026-10-24T17:16:00+09:00: [\[분석\] 호르무즈 선박 피격 '월간 최다'…중동 공포에 국제유가 재폭증](<https://www.financialpost.co.kr/news/articleView.html?idxno=282333>)
-- 2026-10-24T16:38:00+09:00: [이란전쟁 이후 기유 시장 재편 조짐…SK이노베이션 수혜 가능성 주목](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=498135>)
-- 2026-10-24T12:44:00+09:00: [\[엄태윤의 국제정세 진단\] 2026년 美 중간선거, 6대 핵심 쟁점과 향후 전...](<https://www.mediafine.co.kr/news/articleView.html?idxno=93539>)
-- 2026-10-24T10:30:00+09:00: [기름값 23주 연속 하락, 휘발유 1856원…국제유가 다시 상승](<https://www.newsworks.co.kr/news/articleView.html?idxno=900632>)
-- 2026-10-24T10:00:00+09:00: [트럼프는 트루스소셜, 이재명은 X…외교 흔드는 대통령의 손끝](<https://www.joongang.co.kr/article/25472462>)
-- 2026-10-24T08:14:00+09:00: [미국증시 다우 652포인트 급락…유가 급등에도 반도체 반등, SK하이닉스...](<https://www.topstarnews.net/news/articleView.html?idxno=16256458>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

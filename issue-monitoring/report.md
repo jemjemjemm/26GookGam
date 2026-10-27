@@ -1,27 +1,27 @@
-# D-Issue 최신 수집 보고 | 2026-10-27T09:56:21.196709+09:00
+# D-Issue 최신 수집 보고 | 2026-10-27T15:13:44.882043+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1528건 / 네이버 누적: 950건 / 이번 네이버 신규: 7건.
+수집 기사: 1533건 / 네이버 누적: 955건 / 이번 네이버 신규: 5건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 59회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 511/1528건 (33.4%)
-- 현대오일뱅크: 418/1528건 (27.4%)
-- GS: 11/1528건 (0.7%)
-- S-OIL: 18/1528건 (1.2%)
+- SK: 511/1533건 (33.3%)
+- 현대오일뱅크: 418/1533건 (27.3%)
+- GS: 11/1533건 (0.7%)
+- S-OIL: 19/1533건 (1.2%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 243건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 340건, 상태 scope_boundary_reached
-- 정유 가격정보: 8페이지, 기준일 이후 593건, 상태 scope_boundary_reached
+- 정유 가격정보: 8페이지, 기준일 이후 598건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 404건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 389건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 466건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 6페이지, 기준일 이후 467건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
 - 현대 오일뱅크 담합: 5페이지, 기준일 이후 389건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 14건, 상태 scope_boundary_reached
@@ -37,6 +37,11 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-27T12:14:00+09:00: [트럼프 2기 휘발윳값, 바이든 시절 추월…미 중간선거 하원 민주 우세·...](<https://www.asiatoday.co.kr/kn/view.php?key=20261027010009270>)
+- 2026-10-27T12:01:00+09:00: [정유사 3분기 ‘깜짝 실적’ 전망…4분기는 ‘삼중고’(운임·유가·규제...](<https://biz.heraldcorp.com/article/10915794?ref=naver>)
+- 2026-10-27T11:36:00+09:00: [9조 '샤힌' 켜는 에쓰오일, 속 타는 정유 3사…'석화 한파' 공포](<https://www.financialpost.co.kr/news/articleView.html?idxno=282701>)
+- 2026-10-27T10:36:00+09:00: [치솟는 美기름값…트럼프 2기 평균가격, 바이든 집권기 넘어](<https://www.dt.co.kr/article/12091464?ref=naver>)
+- 2026-10-27T10:01:00+09:00: [세무회계법인 80%가 쓰는 더존비즈온 해킹 잇따라…백업 데이터 반출 정...](<https://www.sedaily.com/article/20106442?ref=naver>)
 - 2026-10-27T09:47:00+09:00: [2026년 스웨덴 철강산업 정보](<http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=244749>)
 - 2026-10-27T08:24:00+09:00: [\[러ㆍ우 전쟁 심층 기획①\] '200만 사상자'의 참극 끝낼까…러·우 전쟁...](<https://www.ilemonde.com/news/articleView.html?idxno=30854>)
 - 2026-10-27T08:08:00+09:00: [이란 전쟁에…트럼프 2기 기름값 평균가격, 바이든 행정부 넘어서](<https://www.newsis.com/view/NISX20261027_0003842050>)
@@ -62,10 +67,5 @@
 - 2026-10-26T15:38:00+09:00: [정유업계, 호실적에 손실보전 '안갯속'…"정부 최고가격제, 최대 8조원 ...](<https://www.mediapen.com/news/view/1132454>)
 - 2026-10-26T15:18:00+09:00: [최고가격제 6개월, 휘발유 소비자 1.4조 덜 냈다](<https://news.mtn.co.kr/article/2026102615153472489>)
 - 2026-10-26T15:02:00+09:00: [중동 전운에 국제유가 급등했는데 … 기름값은 내리고 주유소는 사라진...](<https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600110.html>)
-- 2026-10-26T13:22:52+00:00: [전쟁이 바꾼 정유산업 위상…미국·독일 '안보자산'으로 재평가 - 서드앵글](<https://news.google.com/rss/articles/CBMicEFVX3lxTE9BbkQxd2VaSUt1S1NyWHAzaTZfR29PNDc4SmlpT0JiYzgxclhHRVU4SGIwbUR3R2tZMGgyel9qNzl3c25wd1pWMXMwR2tncVZHM3JtZkZtQnJMT3NfMFkwSF93c1FYSWlMQy1SUEZFcEo?oc=5>)
-- 2026-10-26T13:02:00+09:00: [머스크 "스타링크 끄면 우크라 전선 즉시 붕괴"…드론전 좌우하는 위성...](<https://www.asiatoday.co.kr/kn/view.php?key=20261026010008725>)
-- 2026-10-26T13:01:00+09:00: [중동전쟁 장기화에 용선료와 선원 월급도 천정부지](<https://www.chosun.com/economy/economy_general/2026/10/26/NDEYMXL7FFH5LAB6W7I7G6I2TY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
-- 2026-10-26T11:12:00+09:00: [국제유가 120弗 육박…겨울 에너지물가 ‘비상’](<https://biz.heraldcorp.com/article/10914650?ref=naver>)
-- 2026-10-26T10:52:00+09:00: [국제유가 117달러 돌파…겨울철 난방비 폭탄 우려](<https://biz.heraldcorp.com/article/10914585?ref=naver>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

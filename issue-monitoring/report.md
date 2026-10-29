@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-10-29T19:58:36.177601+09:00
+# D-Issue 최신 수집 보고 | 2026-10-30T02:24:13.152998+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1598건 / 네이버 누적: 1003건 / 이번 네이버 신규: 7건.
+수집 기사: 1600건 / 네이버 누적: 1005건 / 이번 네이버 신규: 2건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 59회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 516/1598건 (32.3%)
-- 현대오일뱅크: 421/1598건 (26.3%)
-- GS: 11/1598건 (0.7%)
-- S-OIL: 19/1598건 (1.2%)
+- SK: 517/1600건 (32.3%)
+- 현대오일뱅크: 422/1600건 (26.4%)
+- GS: 11/1600건 (0.7%)
+- S-OIL: 19/1600건 (1.2%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 247건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 360건, 상태 scope_boundary_reached
-- 정유 가격정보: 8페이지, 기준일 이후 620건, 상태 scope_boundary_reached
+- 정유 가격정보: 8페이지, 기준일 이후 622건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 408건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 394건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 6페이지, 기준일 이후 474건, 상태 scope_boundary_reached
@@ -37,6 +37,8 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-30T00:00:00+09:00: [\[주요공시\] 삼성전자, SK하이닉스, LG에너지솔루션, 삼성SDI, 현대건설 외](<https://www.kdpress.co.kr/news/articleView.html?idxno=209616>)
+- 2026-10-29T22:04:00+09:00: [\[오늘의 운세\] 10월 30일 띠별 재물운…불의 추진력과 흙의 무게, 자금의...](<https://www.topstarnews.net/news/articleView.html?idxno=16262315>)
 - 2026-10-29T19:19:00+09:00: [석유제품 공급난에 웃는 정유사들…셸, 정제마진 최고치](<https://www.edaily.co.kr/News/Read?newsId=06609206645617840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
 - 2026-10-29T17:16:00+09:00: [SK이노베이션·SK스피드메이트, 3분기 영업이익 3.7조 기록· THE 정비와...](<http://www.wsobi.com/news/articleView.html?idxno=320669>)
 - 2026-10-29T17:04:00+09:00: [\[2026 국감\] 유가담합에 "거래관행 개선해야"…HD현대오일뱅크, 이행실적...](<https://www.ezyeconomy.com/news/articleView.html?idxno=241343>)
@@ -65,7 +67,5 @@
 - 2026-10-29T06:34:00+09:00: [을지로위 "택배노동자 적정 노동시간 보장법 통과" 약속](<https://www.labortoday.co.kr/news/articleView.html?idxno=237449>)
 - 2026-10-29T06:06:00+00:00: [7개월 만에 수출길 넓힌 정유업계… 최고가격제 손실 메우기엔 ‘역부족’ - Chosunbiz](<https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJqRG5qRGFVSGtHa3JiX2Zqa1FVNmc1QXZhelRsZWF3Z2ZwTUJKSWdNdnpuSUZfUElJQkFLNzFjRmpBaWowY0xMdDR4bVdiVjg0WFVlWlY3SWI0ZE9Gd3pRMFg4VHBnSkZEdS1HZmNjZjBvSDQ3TjVrSE8tdDR2NXlRMmhjb1ZfY3JCeE8tR0xQSy1hdlpqN9IBmAFBVV95cUxQRFJqRG5qRGFVSGtHa3JiX2Zqa1FVNmc1QXZhelRsZWF3Z2ZwTUJKSWdNdnpuSUZfUElJQkFLNzFjRmpBaWowY0xMdDR4bVdiVjg0WFVlWlY3SWI0ZE9Gd3pRMFg4VHBnSkZEdS1HZmNjZjBvSDQ3TjVrSE8tdDR2NXlRMmhjb1ZfY3JCeE8tR0xQSy1hdlpqNw?oc=5>)
 - 2026-10-29T05:50:00+09:00: [\[금/유가\] 美 대이란 공격 재개 우려에 유가 상승...금리 불확실성에 금...](<https://www.newspim.com/news/view/20261029000039>)
-- 2026-10-29T04:32:00+09:00: [알뜰주유소-오피넷… 기름값 걱정 줄인다](<https://www.donga.com/news/Economy/article/all/20261028/134919765/2>)
-- 2026-10-29T04:30:04+00:00: [공소청 중수청 출범과 담합사건 형사 리니언시 - 법률신문](<https://news.google.com/rss/articles/CBMickFVX3lxTFBUaWxQVVVQd0F4WHlsUXJ0U0ZMSXRaamdXQzctaGRfZ1JKemo0VzBBcGw1ZElyd1lYbnFkREp5OEdjSWMxSkxjNjRSVU1tTV9ac2xhRDgwdmJPMDlZVkJLNUR2Zl9XR1M5c3JDbHZCUHE0Z9IBckFVX3lxTFBUaWxQVVVQd0F4WHlsUXJ0U0ZMSXRaamdXQzctaGRfZ1JKemo0VzBBcGw1ZElyd1lYbnFkREp5OEdjSWMxSkxjNjRSVU1tTV9ac2xhRDgwdmJPMDlZVkJLNUR2Zl9XR1M5c3JDbHZCUHE0Zw?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

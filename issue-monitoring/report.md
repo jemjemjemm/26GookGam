@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-10-31T04:58:05.267933+09:00
+# D-Issue 최신 수집 보고 | 2026-10-31T08:41:30.015648+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1629건 / 네이버 누적: 1026건 / 이번 네이버 신규: 0건.
+수집 기사: 1630건 / 네이버 누적: 1027건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 61회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 519/1629건 (31.9%)
-- 현대오일뱅크: 423/1629건 (26.0%)
-- GS: 13/1629건 (0.8%)
-- S-OIL: 19/1629건 (1.2%)
+- SK: 519/1630건 (31.8%)
+- 현대오일뱅크: 423/1630건 (26.0%)
+- GS: 13/1630건 (0.8%)
+- S-OIL: 19/1630건 (1.2%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -27,7 +27,7 @@
 - 정유 리니언시: 1페이지, 기준일 이후 17건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 30건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 225건, 상태 scope_boundary_reached
-- 유가 담합: 4페이지, 기준일 이후 268건, 상태 scope_boundary_reached
+- 유가 담합: 4페이지, 기준일 이후 269건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 141건, 상태 scope_boundary_reached
 - 휘발유 담합: 4페이지, 기준일 이후 280건, 상태 scope_boundary_reached
 - 경유 담합: 4페이지, 기준일 이후 285건, 상태 scope_boundary_reached
@@ -37,6 +37,7 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-10-31T05:10:00+09:00: [\[나경연의 유통기한\] “가격 내렸는데 담합?”…‘묻지마’ 조사에 속 ...](<https://www.dt.co.kr/article/12092192?ref=naver>)
 - 2026-10-30T23:00:00+09:00: [이란戰 6개월간 美 석유업계 1300억달러 이익…가계는 연료비 폭탄](<https://www.g-enews.com/view.php?ud=2026103022263091009a1f309431_1>)
 - 2026-10-30T22:36:00+09:00: [\[오늘의 운세\] 10월 31일 띠별 재물운…자금 운용 의지 강해지고 지출 선...](<https://www.topstarnews.net/news/articleView.html?idxno=16264232>)
 - 2026-10-30T17:28:00+09:00: [\[WIKI 이슈\] 4년 넘은 우크라 전쟁, 왜 다시 휴전 논의인가...美 압박·경...](<https://www.wikileaks-kr.org/news/articleView.html?idxno=194012>)
@@ -66,6 +67,5 @@
 - 2026-10-29T22:04:00+09:00: [\[오늘의 운세\] 10월 30일 띠별 재물운…불의 추진력과 흙의 무게, 자금의...](<https://www.topstarnews.net/news/articleView.html?idxno=16262315>)
 - 2026-10-29T21:39:33+00:00: [정부 '경유 수출 제한' 조건부 완화... 11월 시행 - 투데이에너지](<https://news.google.com/rss/articles/CBMibEFVX3lxTE9hRXplMVAzZmZHQnFjeVFKX0NkemhpZl9zLUxBcEpUMDIzM2ZGcHRGNEt4bUdJSkoyeDZUNWRYSkVqTGo4eFROSV9IRWdrOUtLWndLSkhzS05QczNua2c4VGNqMGdNd2pCMlViNg?oc=5>)
 - 2026-10-29T19:19:00+09:00: [석유제품 공급난에 웃는 정유사들…셸, 정제마진 최고치](<https://www.edaily.co.kr/News/Read?newsId=06609206645617840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
-- 2026-10-29T17:16:00+09:00: [SK이노베이션·SK스피드메이트, 3분기 영업이익 3.7조 기록· THE 정비와...](<http://www.wsobi.com/news/articleView.html?idxno=320669>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

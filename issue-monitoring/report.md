@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-11-01T00:16:40.797993+09:00
+# D-Issue 최신 수집 보고 | 2026-11-01T04:24:10.904123+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1639건 / 네이버 누적: 1034건 / 이번 네이버 신규: 1건.
+수집 기사: 1642건 / 네이버 누적: 1034건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 61회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 519/1639건 (31.7%)
-- 현대오일뱅크: 423/1639건 (25.8%)
-- GS: 13/1639건 (0.8%)
-- S-OIL: 19/1639건 (1.2%)
+- SK: 519/1642건 (31.6%)
+- 현대오일뱅크: 423/1642건 (25.8%)
+- GS: 13/1642건 (0.8%)
+- S-OIL: 19/1642건 (1.2%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -39,6 +39,7 @@
 ## 최근 수집 기사 30건
 - 2026-10-31T21:22:00+09:00: [\[오늘의 운세\] 11월 1일 띠별 재물운…자금 유지와 지출 재배분의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16264757>)
 - 2026-10-31T14:06:00+09:00: [주유소 기름값 24주 연속 하락세... 휘발유 1855원](<https://www.insight.co.kr/news/580033>)
+- 2026-10-31T13:01:36+00:00: [11월 LPG가격 kg당 60~62원 인상…77~75원에서 낮춰 - 수소신문](<https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Zk5wOWhONGJFNXlJSHlIN3VZQzJfWDBvOW9WVUJtZEtLQUFfZzBrU01vTHJyQlpEazhMZ2lvSlJqWUpHeU1feGMwSE8xRVRvZHoxVFNBMHhYaUFQTUN6dlhvVGhzc2dMeXBEYWdFTldkY1lM0gF0QVVfeXFMUHRmTnA5aE40YkU1eUlIeUg3dVlDMl9YMG85b1ZVQm1kS0tBQV9nMGtTTW9McnJCWkRrOExnaW9KUmpZSkd5TV94YzBITzFFVG9kejFUU0EweFhpQVBNQ3p2WG9UaHNzZ0x5cERhZ0VOV2RjWUw?oc=5>)
 - 2026-10-31T12:00:00+09:00: [이 시각 주요뉴스 (26. 10. 31. 12시)](<https://www.ktv.go.kr/content/view?content_id=763309>)
 - 2026-10-31T11:45:00+09:00: [오늘 기름 넣을까...기름값 24주 연속 하락세](<https://www.chosun.com/economy/industry-company/2026/10/31/KP6NQNZTXVCLPBNNP6RW3O2SIQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news>)
 - 2026-10-31T10:48:00+09:00: [국제유가 6개월만 최고치…국내 기름값 24주째 하락](<https://www.mediapen.com/news/view/1134095>)
@@ -65,7 +66,6 @@
 - 2026-10-30T10:12:00+09:00: [SK이노베이션, '전력 전문가' 정승일 총괄사장으로](<https://www.newspim.com/news/view/20261030000262>)
 - 2026-10-30T09:45:00+09:00: [우크라군, 미 압박에 러 정유시설 공격 중단](<https://www.newsis.com/view/NISX20261030_0003847803>)
 - 2026-10-30T09:31:00+09:00: [팔란티어, 한국 제조 현장 파고든다…HD현대·KT와 '데이터 동맹'](<https://www.hankyung.com/article/2026103052587>)
-- 2026-10-30T08:19:00+09:00: ["석유 최고가 손실보전, 실제 원가·정상마진 산정이 관건"](<https://www.fnnews.com/news/202610281606437284>)
-- 2026-10-30T07:56:00+09:00: [사우디, 후티 반군 공격에도 원유 수출 급증…하루 650만 배럴 유지](<https://www.fntoday.co.kr/news/articleView.html?idxno=396616>)
+- 2026-10-30T08:51:33+00:00: [독일 라인메탈, 유럽 공동군사협력기구서 69대 차세대 장갑차 추가 수주 - 뉴스임팩트](<https://news.google.com/rss/articles/CBMickFVX3lxTFBZMWZYektyMXBURU9ER2lmUlV4Qkc3WGtVQWNKMEJJYXJJc19pWERtMnA5eGNoaHVmalI4d2VyUnprcVFQblgybWlIc2owVHp1V0FFblR0aFQ3dWVubm9pS2Q2TExCR2RQQms4OXhOS0QwZw?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

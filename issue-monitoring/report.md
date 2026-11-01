@@ -1,8 +1,8 @@
-# D-Issue 최신 수집 보고 | 2026-11-02T00:19:30.054037+09:00
+# D-Issue 최신 수집 보고 | 2026-11-02T04:49:50.137947+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1657건 / 네이버 누적: 1042건 / 이번 네이버 신규: 2건.
+수집 기사: 1657건 / 네이버 누적: 1042건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 61회 / 수집 범위 상태: ok.
@@ -43,8 +43,8 @@
 - 2026-11-01T11:16:00+09:00: [경유 수출 110%로 확대…정유업계 4분기도 청신호](<https://www.asiatime.co.kr/article/20261101500037>)
 - 2026-11-01T09:12:00+09:00: [셰브런 3분기 순이익 99억 달러…잉여현금흐름 120억 달러](<http://coinreaders.com/266651>)
 - 2026-11-01T08:38:00+09:00: [같은 시황, 엇갈린 성장…정유업계 3분기 온도차, 왜?](<https://www.ekn.kr/web/view.php?key=20261101020073727>)
-- 2026-11-01T05:01:00+09:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득'](<https://www.nocutnews.co.kr/news/6600031?utm_source=naver&utm_medium=article&utm_campaign=20261101093957>)
 - 2026-11-01T05:01:00+09:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득'](<https://www.nocutnews.co.kr/news/6600031?utm_source=naver&utm_medium=article&utm_campaign=20261101050057>)
+- 2026-11-01T05:01:00+09:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득'](<https://www.nocutnews.co.kr/news/6600031?utm_source=naver&utm_medium=article&utm_campaign=20261101093957>)
 - 2026-11-01T02:15:00+00:00: [경유 수출 110%로 확대…정유업계 4분기도 청신호 - 아시아타임즈](<https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hYW5nenRaUFdnMXZ2dXJMQno3dGJFejVfcDlsdFM0MW1ibWhnRF90UU9rbmxUc1pxN0piQ3FiUTV2RHlLRlhmSVI3MkwyakdMeWUxUm9DVUZWRG13Y0E?oc=5>)
 - 2026-10-31T23:37:11+00:00: [같은 시황, 엇갈린 성장…정유업계 3분기 온도차, 왜? - 에너지경제신문](<https://news.google.com/rss/articles/CBMiW0FVX3lxTE91c180em55NUdJT0hTUzlNR2wxb2tVZzdnUUkyQzI2WDA3dmlsWXJmQ1B1V3FidFc3RmVOWG51M09IRmJVVzhGcDR2bDVMTTd5T1F3LXh6LThXVzA?oc=5>)
 - 2026-10-31T21:22:00+09:00: [\[오늘의 운세\] 11월 1일 띠별 재물운…자금 유지와 지출 재배분의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16264757>)

@@ -1,33 +1,33 @@
-# D-Issue 최신 수집 보고 | 2026-11-01T10:38:26.101909+09:00
+# D-Issue 최신 수집 보고 | 2026-11-01T17:14:13.118203+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1649건 / 네이버 누적: 1038건 / 이번 네이버 신규: 3건.
+수집 기사: 1653건 / 네이버 누적: 1040건 / 이번 네이버 신규: 2건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 61회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 519/1649건 (31.5%)
-- 현대오일뱅크: 423/1649건 (25.7%)
-- GS: 13/1649건 (0.8%)
-- S-OIL: 19/1649건 (1.2%)
+- SK: 520/1653건 (31.5%)
+- 현대오일뱅크: 423/1653건 (25.6%)
+- GS: 13/1653건 (0.8%)
+- S-OIL: 19/1653건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 3페이지, 기준일 이후 249건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 361건, 상태 scope_boundary_reached
-- 정유 가격정보: 9페이지, 기준일 이후 644건, 상태 scope_boundary_reached
+- 정유 가격정보: 9페이지, 기준일 이후 645건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 410건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 395건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 7페이지, 기준일 이후 481건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 7페이지, 기준일 이후 482건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
 - 현대 오일뱅크 담합: 5페이지, 기준일 이후 395건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 17건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 30건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 225건, 상태 scope_boundary_reached
-- 유가 담합: 4페이지, 기준일 이후 269건, 상태 scope_boundary_reached
+- 유가 담합: 4페이지, 기준일 이후 270건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 142건, 상태 scope_boundary_reached
 - 휘발유 담합: 4페이지, 기준일 이후 280건, 상태 scope_boundary_reached
 - 경유 담합: 4페이지, 기준일 이후 285건, 상태 scope_boundary_reached
@@ -37,10 +37,12 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-01T14:18:00+09:00: [해외서 잘나가는데…식품업계, 글로벌 환경·규제 변수에 수익성 시험대](<http://www.metroseoul.co.kr/article/20261101500191>)
+- 2026-11-01T11:16:00+09:00: [경유 수출 110%로 확대…정유업계 4분기도 청신호](<https://www.asiatime.co.kr/article/20261101500037>)
 - 2026-11-01T09:12:00+09:00: [셰브런 3분기 순이익 99억 달러…잉여현금흐름 120억 달러](<http://coinreaders.com/266651>)
 - 2026-11-01T08:38:00+09:00: [같은 시황, 엇갈린 성장…정유업계 3분기 온도차, 왜?](<https://www.ekn.kr/web/view.php?key=20261101020073727>)
-- 2026-11-01T05:01:00+09:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득'](<https://www.nocutnews.co.kr/news/6600031?utm_source=naver&utm_medium=article&utm_campaign=20261101093957>)
 - 2026-11-01T05:01:00+09:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득'](<https://www.nocutnews.co.kr/news/6600031?utm_source=naver&utm_medium=article&utm_campaign=20261101050057>)
+- 2026-11-01T05:01:00+09:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득'](<https://www.nocutnews.co.kr/news/6600031?utm_source=naver&utm_medium=article&utm_campaign=20261101093957>)
 - 2026-10-31T23:37:11+00:00: [같은 시황, 엇갈린 성장…정유업계 3분기 온도차, 왜? - 에너지경제신문](<https://news.google.com/rss/articles/CBMiW0FVX3lxTE91c180em55NUdJT0hTUzlNR2wxb2tVZzdnUUkyQzI2WDA3dmlsWXJmQ1B1V3FidFc3RmVOWG51M09IRmJVVzhGcDR2bDVMTTd5T1F3LXh6LThXVzA?oc=5>)
 - 2026-10-31T21:22:00+09:00: [\[오늘의 운세\] 11월 1일 띠별 재물운…자금 유지와 지출 재배분의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16264757>)
 - 2026-10-31T20:00:00+00:00: [중수청장·檢총장대행 '맞손' 잡았지만 풀어야 할 숙제 '한가득' - 노컷뉴스](<https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IN0g4ZzVKMXlpb3lXZzZpOURtbGxfVEw1dERmcEFUS1o1NDFmdFcxLW93dzM2WlVtX0VUbElLRXppeHBraTl0aXdfdkgyZHpOUEZIWQ?oc=5>)
@@ -65,7 +67,5 @@
 - 2026-10-30T11:22:00+09:00: [GS칼텍스, 11월 LPG가격 77원 인상](<https://www.energy-news.co.kr/news/articleView.html?idxno=229391>)
 - 2026-10-30T11:05:00+09:00: [트럼프 압박에 美중간선거까지...우크라, 러 정유소 공습 중단](<https://biz.sbs.co.kr/article_hub/20000343251?division=NAVER>)
 - 2026-10-30T10:57:00+09:00: ["우크라, 트럼프 압박에 러 정유소 공습 일시 중단"](<http://www.yonhapnewstv.co.kr/news/AKR20261030105642L5P>)
-- 2026-10-30T10:51:00+09:00: [우크라, 중간선거까지 러 정유소 공습 중단…“트럼프 압박에”](<https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699665&ref=A>)
-- 2026-10-30T10:46:00+09:00: [중동 원유 수출 늘었는데…유가는 왜 이란戰 정점 육박하나](<https://www.edaily.co.kr/News/Read?newsId=03732646645618168&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

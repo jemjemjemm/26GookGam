@@ -1,45 +1,54 @@
-# D-Issue 최신 수집 보고 | 2026-11-04T07:37:12.269215+09:00
+# D-Issue 최신 수집 보고 | 2026-11-04T11:45:36.621030+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1736건 / 네이버 누적: 1106건 / 이번 네이버 신규: 3건.
+수집 기사: 1745건 / 네이버 누적: 1112건 / 이번 네이버 신규: 6건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 62회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 521/1736건 (30.0%)
-- 현대오일뱅크: 423/1736건 (24.4%)
-- GS: 15/1736건 (0.9%)
-- S-OIL: 21/1736건 (1.2%)
+- SK: 521/1745건 (29.9%)
+- 현대오일뱅크: 423/1745건 (24.2%)
+- GS: 15/1745건 (0.9%)
+- S-OIL: 21/1745건 (1.2%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 251건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 365건, 상태 scope_boundary_reached
-- 정유 가격정보: 9페이지, 기준일 이후 663건, 상태 scope_boundary_reached
+- 정유 가격정보: 9페이지, 기준일 이후 665건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 410건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 395건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 7페이지, 기준일 이후 487건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 7페이지, 기준일 이후 490건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
 - 현대 오일뱅크 담합: 5페이지, 기준일 이후 395건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 17건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 30건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 226건, 상태 scope_boundary_reached
-- 유가 담합: 4페이지, 기준일 이후 312건, 상태 scope_boundary_reached
+- 유가 담합: 4페이지, 기준일 이후 313건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 144건, 상태 scope_boundary_reached
-- 휘발유 담합: 4페이지, 기준일 이후 295건, 상태 scope_boundary_reached
-- 경유 담합: 4페이지, 기준일 이후 300건, 상태 scope_boundary_reached
+- 휘발유 담합: 4페이지, 기준일 이후 296건, 상태 scope_boundary_reached
+- 경유 담합: 4페이지, 기준일 이후 301건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
 ## 온라인·공식 자료
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-04T11:39:00+09:00: [한진칼 경영권 확보, 장내 매집만으론 한계](<https://biz.heraldcorp.com/article/10925490?ref=naver>)
+- 2026-11-04T11:36:00+09:00: [정부, 김장철 물가 잡는다…640억원 투입해 최대 50% 할인](<https://www.fntimes.com/html/view.php?ud=202611031540523102dd55077bc2_18>)
+- 2026-11-04T11:15:00+09:00: [캐나다산 원유, WTI 대비 할인폭 2018년 이후 최대](<https://www.yna.co.kr/view/AKR20261104073300009?input=1195m>)
+- 2026-11-04T09:02:00+09:00: [\[美 중간선거\] 중간선거 날 휘발유 4.13달러…경유도 역대 선거일 최고](<https://www.g-enews.com/view.php?ud=202611040859148349a1f309431_1>)
+- 2026-11-04T08:55:00+09:00: [세계 정유업계 ‘고유가 횡재’ 지속… 한국 정유사는 ‘최고가격제’...](<https://www.dt.co.kr/article/12093031?ref=naver>)
+- 2026-11-04T07:58:00+09:00: [10월 착한주유소 104곳·착하디착한주유소는 8곳](<http://www.e-platform.net/news/articleView.html?idxno=106683>)
 - 2026-11-04T07:24:00+09:00: [미국 인플레 양극화…전체 물가 4.4% 상승에도 절사평균 2.2%...연준 금리...](<https://www.asiatoday.co.kr/kn/view.php?key=20261104010001307>)
 - 2026-11-04T06:00:00+09:00: [채솟값 급락, 최고가격제로 2%대 지켰지만…점점 커지는 물가 부담](<https://www.newsis.com/view/NISX20261103_0003853470>)
 - 2026-11-04T03:37:00+09:00: [美 휘발유 가격, 역대 중간선거일 중 최초로 갤런당 4달러 돌파](<https://www.bloter.net/news/articleView.html?idxno=677629>)
+- 2026-11-04T00:43:01+00:00: [정유업계, 중동발 공급 불안에 반사이익…호황 지속될까 - 대한데일리](<https://news.google.com/rss/articles/CBMiakFVX3lxTE9CSmFUWFpLT2hfbFlyeFU2eWhGRnptMDk3cmFUamVNM1A0cXE3YXNzT0lvcUR3ZVJxUmVOVmVVdWtMRG1FSEpDTWVBOE1fcFVIUlJ1Z2xrQU1NWVNQdFZ5TmZxbjBjSGw5M2c?oc=5>)
+- 2026-11-03T23:38:37+00:00: [국내 정유업계, 윤활기유 등 친환경 기술 박차 - 한국경제](<https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MM05RWGk1bzJ6dkY5UTRZQlZrdDZ1djRMRnBCcXVYS2lNV2duMGRNQnpSM01vdTgwdTAyVXpNZjdXUFhpVGZCbE51UVFTQk4taEdPdXQyNU1YQQ?oc=5>)
+- 2026-11-03T23:22:36+00:00: [10월 착한주유소 104곳·착하디착한주유소는 8곳 - 에너지플랫폼뉴스](<https://news.google.com/rss/articles/CBMicEFVX3lxTFBTbUFMM2Z5WEJNRjc1S2ViQTlibVV2cXJtZmJxXzFMR25aTlJoUGlBZVRVSVlIcVctajBSM3lMaV81TUtxcG5rSWUyX2x6cWNwTWlYSUxNaEcwaExKd3JPSjZuUTkwb0UwZlp5d1A0d1LSAXBBVV95cUxQU21BTDNmeVhCTUY3NUtlYkE5Ym1VdnFybWZicV8xTEduWk5SaFBpQWVUVUlZSHFXLWowUjN5TGlfNU1LcXBua0llMl9senFjcE1pWElMTWhHMGhMSndyT0o2blE5MG9FMGZaeXdQNHdS?oc=5>)
 - 2026-11-03T21:10:00+09:00: [\[오늘의 운세\] 11월 4일 띠별 재물운…돈을 움직이는 힘과 지키는 기준...](<https://www.topstarnews.net/news/articleView.html?idxno=16267440>)
 - 2026-11-03T20:06:00+09:00: [정부, 김장 물가 안정 640억 투입 ‘역대 최대’](<http://www.kjdaily.com/article.php?aid=1793703657691152004>)
 - 2026-11-03T16:36:00+09:00: [정유사 영업익 줄줄이 급증…전쟁 끝나도 호황 이어지나](<http://www.newstomato.com/ReadNews.aspx?no=1319071&inflow=N>)
@@ -58,14 +67,5 @@
 - 2026-11-03T11:28:00+09:00: ["김장철 최대 50% 깎아준다"... 정부, 역대 최대 640억 투입](<https://www.insight.co.kr/news/580377>)
 - 2026-11-03T11:12:00+09:00: [정부, 김장철 물가 안정에 640억 투입···최대 50% 할인](<https://www.seoulfn.com/news/articleView.html?idxno=641741>)
 - 2026-11-03T10:38:00+09:00: [정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”](<https://www.joongang.co.kr/article/25475267>)
-- 2026-11-03T10:26:00+09:00: [\[류준형의 시선전환\] 치킨 값만 정조준…다른 먹거리는 문제 없나](<https://www.news2day.co.kr/article/20261103500071>)
-- 2026-11-03T10:22:00+09:00: [정부 "체감 물가 여전히 높다"…'역대 최대' 김장 대책에 640억원 투입](<https://news.mtn.co.kr/article/2026110310102624324>)
-- 2026-11-03T10:12:00+09:00: [정부, 김장철 물가잡기 640억원 투입…재료 최대 50% 할인](<http://www.newsfc.co.kr/news/articleView.html?idxno=82178>)
-- 2026-11-03T10:03:00+09:00: [물가 '주범' 두고 엇갈린 재경부·한은…가공식품이 보여준 시각차](<http://www.inews24.com/view/2021890>)
-- 2026-11-03T10:00:00+09:00: ["체감 물가 잡는다"… 정부, 역대 최대 640억 김장 할인 투입](<https://www.fntoday.co.kr/news/articleView.html?idxno=396872>)
-- 2026-11-03T09:54:00+09:00: [농축수산물 3개월째 하락···정부, 김장 물가 잡기에 640억원 투입](<https://www.thereport.co.kr/news/articleView.html?idxno=92977>)
-- 2026-11-03T09:50:00+09:00: [정부 “체감 물가 여전히 높아”…김장철 640억원 투입해 장바구니 부담...](<https://www.mk.co.kr/article/12194408>)
-- 2026-11-03T09:42:00+09:00: [정부, ‘역대 최대’ 김장 물가 대책 발표…체감 물가 잡는다](<https://www.kyeonggi.com/article/20261103580022>)
-- 2026-11-03T09:32:00+09:00: [10월 소비자물가 2.8%↑…석유류 14.9% 급등·외식비 상승](<https://biz.heraldcorp.com/article/10923606?ref=naver>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

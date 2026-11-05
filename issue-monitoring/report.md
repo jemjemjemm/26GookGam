@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-11-05T08:36:28.551720+09:00
+# D-Issue 최신 수집 보고 | 2026-11-05T12:44:07.669619+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1766건 / 네이버 누적: 1126건 / 이번 네이버 신규: 5건.
+수집 기사: 1772건 / 네이버 누적: 1130건 / 이번 네이버 신규: 4건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 62회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 525/1766건 (29.7%)
-- 현대오일뱅크: 425/1766건 (24.1%)
-- GS: 15/1766건 (0.8%)
-- S-OIL: 21/1766건 (1.2%)
+- SK: 525/1772건 (29.6%)
+- 현대오일뱅크: 425/1772건 (24.0%)
+- GS: 15/1772건 (0.8%)
+- S-OIL: 21/1772건 (1.2%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 254건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 369건, 상태 scope_boundary_reached
-- 정유 가격정보: 9페이지, 기준일 이후 670건, 상태 scope_boundary_reached
+- 정유 가격정보: 9페이지, 기준일 이후 674건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 412건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 396건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 7페이지, 기준일 이후 496건, 상태 scope_boundary_reached
@@ -37,6 +37,10 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-05T11:47:00+09:00: [트럼프의 러시아산 경유 수입 '좌초 위기'…유조선 2척 방향 틀어](<https://www.newsis.com/view/NISX20261105_0003856098>)
+- 2026-11-05T11:16:00+09:00: [트럼프, 美 중간선거 참패에 '러시아산 경유 수입'도 좌초 위기](<https://www.hankookilbo.com/news/article/A2026110509360003145?did=NA>)
+- 2026-11-05T09:54:00+09:00: [\[美 중간선거\] 민주 압승에 이란戰 종식 기대↑…유가 8%대 급락하며 10...](<https://www.ajunews.com/view/20261105094127097>)
+- 2026-11-05T08:47:00+09:00: [트럼프 '러시아 경유 수입' 차질…"유조선 3척 중 2척 미국행 포기"](<https://www.news1.kr/world/usa-canada/6343594>)
 - 2026-11-05T08:07:00+09:00: ['블루쓰나미'에 美정유업계 '비상'…'초과이득세' 추진될까 '전전...](<https://www.edaily.co.kr/News/Read?newsId=03250486645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
 - 2026-11-05T08:02:00+09:00: ["용기면 가격 인상 여파"…농심, 공정위 라면 담합 조사에 '발목'](<https://www.youthdaily.co.kr/news/article.html?no=229342>)
 - 2026-11-05T07:48:00+09:00: [10월 소비자물가, 석유제품 가격 14.9% 상승](<https://www.todayenergy.kr/news/articleView.html?idxno=305124>)
@@ -63,9 +67,5 @@
 - 2026-11-04T06:15:47+00:00: [\[한진칼 지분 경쟁\] 현대차·SK·효성...'조원태 백기사' 다시 뭉치나 - 블로터](<https://news.google.com/rss/articles/CBMibEFVX3lxTE03RG84ZXliRFpFeGdVVWYxY2hxZTlGV1NUNUZHTUszUkVYVDNWZG5qSWpJUEM0Q3R1Vm1ZZERWQXNsM2lna1BIejI1bTBObGNaU1VCRlk1WGdNN0dmMUp0TGs3c0V3TjV2bE9TZ9IBbEFVX3lxTE03RG84ZXliRFpFeGdVVWYxY2hxZTlGV1NUNUZHTUszUkVYVDNWZG5qSWpJUEM0Q3R1Vm1ZZERWQXNsM2lna1BIejI1bTBObGNaU1VCRlk1WGdNN0dmMUp0TGs3c0V3TjV2bE9TZw?oc=5>)
 - 2026-11-04T06:12:38+00:00: [3분기 역대급 실적에도…정유업계 ‘전쟁 특수’ 내리막길? - 에너지경제신문](<https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mcHJyZFdfVktrSEhnY2Flcmw3aEczT2pNVVo0ZTVsbEF3N2plUmlYYWlFZzBCb1ZPUHZRT1FuUlhPalJkdklYMTMtYWhOUGpuUzFrQVZrdi1na21PQ3g3d09R?oc=5>)
 - 2026-11-04T06:00:00+09:00: [채솟값 급락, 최고가격제로 2%대 지켰지만…점점 커지는 물가 부담](<https://www.newsis.com/view/NISX20261103_0003853470>)
-- 2026-11-04T05:10:00+00:00: [휘발유 수출량 제자리인데 수출액 67%↑…고단가가 만든 호실적 - 아이뉴스24](<https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyWjN1Q0FDa0NQU1dWeU5iTXZacE5qUFlZc0VlVFkyZHlVVjdIcVdQVmE5NVMtX2RMeGMxellFWmZucnVhRWt3b051QQ?oc=5>)
-- 2026-11-04T03:37:00+09:00: [美 휘발유 가격, 역대 중간선거일 중 최초로 갤런당 4달러 돌파](<https://www.bloter.net/news/articleView.html?idxno=677629>)
-- 2026-11-04T02:56:10+00:00: [김민석 '신천지 사과'에도 여당 내홍···야당 "즉각 사퇴·수사 촉구" - 글로벌E](<https://news.google.com/rss/articles/CBMia0FVX3lxTE1CR0JEWjA4UGdncWpOVldldk56ekRqNURQOUhSSTJZRW5yY1VsdGtLUzR1WV9TUTBxcElWLVE2RE5neW84UEdkYWplQ2J3TUpQOXF5RW5kOTI2aTMxWExlYThiZG83RGZyQjQw?oc=5>)
-- 2026-11-04T02:52:46+00:00: [SK에너지 대표 교체, 강동수 사장 귀환 - 딜사이트](<https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VSXFSbko3WUlVM0tHUWJDd3djYXVMcy1rcVFHckJ5R1VldlBPblU5VTJ2SFlPenZiNThVZW92Vk42bk9VUXhMRDVzNEN0d2c?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

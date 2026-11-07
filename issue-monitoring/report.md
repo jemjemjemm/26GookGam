@@ -1,8 +1,8 @@
-# D-Issue 최신 수집 보고 | 2026-11-07T15:36:51.393545+09:00
+# D-Issue 최신 수집 보고 | 2026-11-07T22:34:11.990198+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1869건 / 네이버 누적: 1213건 / 이번 네이버 신규: 2건.
+수집 기사: 1869건 / 네이버 누적: 1213건 / 이번 네이버 신규: 0건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 63회 / 수집 범위 상태: ok.
@@ -39,8 +39,8 @@
 ## 최근 수집 기사 30건
 - 2026-11-07T14:00:00+09:00: [유가 내린다고 생존할까…K-석화, 설비 25% 감축 '분수령'](<https://www.newsworks.co.kr/news/articleView.html?idxno=902157>)
 - 2026-11-07T10:01:00+09:00: [‘미친 물가’ 튀르키예에서 4만% 대박 펀드가 폭파됐다\[딥다이브\]](<https://www.donga.com/news/Economy/article/all/20261106/134977985/1>)
-- 2026-11-07T09:00:00+09:00: [재고효과 약화에도 윤활유 고마진…정유 4사, 호실적 이어가나](<https://www.g-enews.com/view.php?ud=20261105181441264924debea800_1>)
 - 2026-11-07T09:00:00+09:00: [KB국민카드, 'KB NEED Oil 카드' 출시…주유비 최대 17% 할인](<https://www.newsis.com/view/NISX20261106_0003858315>)
+- 2026-11-07T09:00:00+09:00: [재고효과 약화에도 윤활유 고마진…정유 4사, 호실적 이어가나](<https://www.g-enews.com/view.php?ud=20261105181441264924debea800_1>)
 - 2026-11-07T05:31:00+09:00: [내릴 줄 모르는 기름값, 해외보다 비싼 유튜브…공정위 제재 대상으로 ...](<https://www.sedaily.com/article/20111377?ref=naver>)
 - 2026-11-07T03:08:00+09:00: [기름값 오르면 혜택 더 커진다…KB NEED Oil, 주유비 최대 17% 할인](<https://www.apnews.kr/news/articleView.html?idxno=3052906>)
 - 2026-11-06T21:36:00+09:00: [\[국제유가 전망\] 브렌트유 100달러 붕괴, 주간 16% 급락 위기…JP모건 "하...](<https://www.topstarnews.net/news/articleView.html?idxno=16270326>)
@@ -49,17 +49,17 @@
 - 2026-11-06T17:56:00+09:00: [최고가격제 시행에 주유소 기름값 25주째 내리막](<https://www.energy-news.co.kr/news/articleView.html?idxno=229591>)
 - 2026-11-06T17:00:00+09:00: [KB국민카드, 주유 최대 17% 할인 'KB NEED Oil 카드' 출시](<https://www.industrynews.co.kr/news/articleView.html?idxno=89059>)
 - 2026-11-06T16:56:00+09:00: [\[보험·여전사 풍향계\] KB국민카드, 주유 특화 카드 출시 外](<https://www.ekn.kr/web/view.php?key=20261106021346532>)
-- 2026-11-06T16:30:00+09:00: [KB국민카드, 자동차 생활비 겨냥한 'NEED Oil' 선보여](<https://www.datasom.co.kr/news/articleView.html?idxno=210703>)
 - 2026-11-06T16:30:00+09:00: [KB국민카드, 주유 특화 'KB NEED Oil 카드' 출시·'KB 봄 프로젝트' 참여...](<http://www.wsobi.com/news/articleView.html?idxno=321242>)
+- 2026-11-06T16:30:00+09:00: [KB국민카드, 자동차 생활비 겨냥한 'NEED Oil' 선보여](<https://www.datasom.co.kr/news/articleView.html?idxno=210703>)
 - 2026-11-06T16:18:00+09:00: [\[보험·카드24시\] KB국민카드, 주유 특화 ‘KB NEED Oil 카드’ 출시 外](<https://news.dealsitetv.com/articles/178208>)
 - 2026-11-06T16:16:00+09:00: [KB국민카드, 주유비 최대 17% 할인 'KB NEED Oil 카드' 출시](<https://www.cnbizm.com/news/articleView.html?idxno=320607>)
 - 2026-11-06T16:12:00+09:00: [KB국민카드, 유가 상승 시 주유비 추가 할인…'KB NEED Oil 카드' 출시](<https://www.e-science.co.kr/news/articleView.html?idxno=139135>)
 - 2026-11-06T15:50:00+09:00: [KB국민카드, 유가 연동형 추가 할인 'KB NEED Oil 카드' 선보여](<https://www.asiaa.co.kr/news/articleView.html?idxno=269871>)
 - 2026-11-06T15:38:00+09:00: [KB국민카드, 주유비 최대 17% 할인 카드 출시](<https://www.koreaittimes.com/news/articleView.html?idxno=158894>)
-- 2026-11-06T15:26:00+09:00: [기름값 오르면 할인도 오른다…주유소에서 붙은 카드사 삼국지 \[카드톡...](<https://www.m-i.kr/news/articleView.html?idxno=2015548>)
 - 2026-11-06T15:26:00+09:00: [하나금융, 창사 첫 개인주주 간담회…NH농협생명, 경기 김포 농가서 농...](<https://www.sisaon.co.kr/news/articleView.html?idxno=205845>)
-- 2026-11-06T15:16:00+09:00: [\[금융家 브리핑\] 금융권, 녹색금융·기업 지원 강화···상생 행보 확대](<https://www.smartbizn.com/news/articleView.html?idxno=158690>)
+- 2026-11-06T15:26:00+09:00: [기름값 오르면 할인도 오른다…주유소에서 붙은 카드사 삼국지 \[카드톡...](<https://www.m-i.kr/news/articleView.html?idxno=2015548>)
 - 2026-11-06T15:16:00+09:00: [\[금융권 이모저모\]이지스자산운용, 제주에 1247㎡ 공동정원 선보여 外](<https://www.businessplus.kr/news/articleView.html?idxno=119431>)
+- 2026-11-06T15:16:00+09:00: [\[금융家 브리핑\] 금융권, 녹색금융·기업 지원 강화···상생 행보 확대](<https://www.smartbizn.com/news/articleView.html?idxno=158690>)
 - 2026-11-06T15:12:00+09:00: [KB국민카드, 주유 특화 'KB NEED Oil 카드' 출시…조건 충족 시 최대 17% ...](<https://www.financialpost.co.kr/news/articleView.html?idxno=285296>)
 - 2026-11-06T15:00:00+09:00: [KB국민카드, 유가 연동 할인 더한 'KB NEED Oil 카드' 출시…최대 17% 주유...](<https://www.newstnt.com/news/articleView.html?idxno=727096>)
 - 2026-11-06T14:54:00+09:00: [KB국민카드, 'KB NEED Oil 카드' 선봬…4대 정유사 10% 할인](<http://www.newscape.co.kr/news/articleView.html?idxno=125638>)

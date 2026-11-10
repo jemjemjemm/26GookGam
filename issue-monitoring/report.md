@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-11-10T20:43:45.515133+09:00
+# D-Issue 최신 수집 보고 | 2026-11-11T03:55:52.716653+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1920건 / 네이버 누적: 1255건 / 이번 네이버 신규: 10건.
+수집 기사: 1921건 / 네이버 누적: 1256건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
-네이버 연결: 실제 응답 확인 / 검색 조회: 64회 / 수집 범위 상태: ok.
+네이버 연결: 실제 응답 확인 / 검색 조회: 65회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 528/1920건 (27.5%)
-- 현대오일뱅크: 426/1920건 (22.2%)
-- GS: 19/1920건 (1.0%)
-- S-OIL: 22/1920건 (1.1%)
+- SK: 528/1921건 (27.5%)
+- 현대오일뱅크: 426/1921건 (22.2%)
+- GS: 19/1921건 (1.0%)
+- S-OIL: 22/1921건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 254건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 371건, 상태 scope_boundary_reached
-- 정유 가격정보: 9페이지, 기준일 이후 699건, 상태 scope_boundary_reached
+- 정유 가격정보: 10페이지, 기준일 이후 700건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 411건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 396건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 8페이지, 기준일 이후 588건, 상태 scope_boundary_reached
@@ -37,6 +37,7 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-10T21:20:00+09:00: [\[오늘의 운세\] 11월 11일 띠별 재물운…자금의 흐름보다 쓰임과 회수 조...](<https://www.topstarnews.net/news/articleView.html?idxno=16273202>)
 - 2026-11-10T18:58:00+09:00: [최고가격제 정산 갈등 … 알뜰주유소 정유사 '소송'](<https://www.safetimes.co.kr/news/articleView.html?idxno=247372>)
 - 2026-11-10T18:37:00+09:00: [석유 최고가격제 이달 첫 계산서…'산정기준' 관건](<http://www.yonhapnewstv.co.kr/news/MYH202611101836313uC>)
 - 2026-11-10T17:37:00+09:00: [알뜰주유소, 최고가격제 손실보전 소외논란…정부 "사적계약"(종합)](<https://www.yna.co.kr/view/AKR20261110123251001?input=1195m>)
@@ -66,6 +67,5 @@
 - 2026-11-09T12:14:00+09:00: ['벌써 25주째' 기름값 내림세 지속…하락폭은 '찔끔'](<http://www.newsprime.co.kr/news/article.html?no=754133>)
 - 2026-11-09T12:05:00+09:00: [국제유가 급락에 최고가격제 출구전략 부상…정유사 부담·물가 딜레마](<https://www.munhwa.com/article/11629906?ref=naver>)
 - 2026-11-09T11:22:00+09:00: [정유 '영업익 4.7조', 석유화학 '적자 늪'…3Q 희비 엇갈린 이유는?](<https://www.newsis.com/view/NISX20261109_0003860196>)
-- 2026-11-09T10:12:31+00:00: [공정위, 배민·쿠팡이츠 '최혜대우' 지적, 6,319억 과징금 부과 - 글로벌E](<https://news.google.com/rss/articles/CBMiakFVX3lxTE51X0ZGVWowb2R6UW9nM3Q0U2RKbHQ2Tk44UnB5N0tQMVpEVmlheWY2cmtYNHhEUC1HOGtlQlM3ZVl2MVZFdnhVelJoN1ZpRWJaMjQ3ZklRUm9YMGc0NkIzNXZ3Q1NfX016M1HSAW9BVV95cUxNZFJDdjByYkppOXdIbzZudXk1alBnbHEyWWMyWTJ3TG5NamZ2akwxWHpRVzRyb25ubjRPYjZ6blpDaDlzcVJqZ2hlNXhaOEx1ZS1xS2R3SVF4MHkwT3g2ZHFadWJBWkxQdVBGMS15VXc?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

@@ -1,35 +1,35 @@
-# D-Issue 최신 수집 보고 | 2026-11-11T23:09:36.039876+09:00
+# D-Issue 최신 수집 보고 | 2026-11-12T06:28:05.977865+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 1947건 / 네이버 누적: 1281건 / 이번 네이버 신규: 13건.
+수집 기사: 1950건 / 네이버 누적: 1284건 / 이번 네이버 신규: 3건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 65회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 528/1947건 (27.1%)
-- 현대오일뱅크: 426/1947건 (21.9%)
-- GS: 19/1947건 (1.0%)
-- S-OIL: 22/1947건 (1.1%)
+- SK: 528/1950건 (27.1%)
+- 현대오일뱅크: 426/1950건 (21.8%)
+- GS: 19/1950건 (1.0%)
+- S-OIL: 22/1950건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
-- 정유 담합: 4페이지, 기준일 이후 254건, 상태 scope_boundary_reached
-- 정유사 담합: 5페이지, 기준일 이후 371건, 상태 scope_boundary_reached
-- 정유 가격정보: 10페이지, 기준일 이후 705건, 상태 scope_boundary_reached
-- SK에너지 담합: 6페이지, 기준일 이후 411건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 5페이지, 기준일 이후 396건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 8페이지, 기준일 이후 600건, 상태 scope_boundary_reached
+- 정유 담합: 4페이지, 기준일 이후 256건, 상태 scope_boundary_reached
+- 정유사 담합: 5페이지, 기준일 이후 373건, 상태 scope_boundary_reached
+- 정유 가격정보: 10페이지, 기준일 이후 706건, 상태 scope_boundary_reached
+- SK에너지 담합: 6페이지, 기준일 이후 412건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 5페이지, 기준일 이후 397건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 8페이지, 기준일 이후 602건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 5페이지, 기준일 이후 396건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 5페이지, 기준일 이후 397건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 19건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 31건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 227건, 상태 scope_boundary_reached
-- 유가 담합: 5페이지, 기준일 이후 333건, 상태 scope_boundary_reached
+- 유가 담합: 5페이지, 기준일 이후 334건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 149건, 상태 scope_boundary_reached
-- 휘발유 담합: 4페이지, 기준일 이후 300건, 상태 scope_boundary_reached
+- 휘발유 담합: 4페이지, 기준일 이후 301건, 상태 scope_boundary_reached
 - 경유 담합: 4페이지, 기준일 이후 304건, 상태 scope_boundary_reached
 판단 기준: 검색 결과 끝/기준일 이전 도달은 지정 범위 조회 완료. API·호출 예산 상한과 실패는 미완료입니다.
 
@@ -37,6 +37,9 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-12T05:20:00+09:00: [\[정유 피크아웃\] ①올 3분기 실적 정점 신호…4분기 시험대 ‘역래깅 리...](<https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111233083770575>)
+- 2026-11-12T05:20:00+09:00: [\[정유 피크아웃\] ②최고가격제 손실보전 첫정산 앞두고 기준 산정ㆍ국회...](<https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111308035910581>)
+- 2026-11-12T05:20:00+09:00: [\[정유 피크아웃\] ③역대급 성적 찍은 정유사…가격 투명성ㆍ상생 행보ㆍ...](<https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111232255640574>)
 - 2026-11-11T22:30:00+09:00: [석유관리원 주최 '제19회 한중일 석유 기술회' 진행](<https://www.todayenergy.kr/news/articleView.html?idxno=305432>)
 - 2026-11-11T22:26:00+09:00: [\[미리보는 이데일리 신문\]알바인 줄 알았더니, 2030 사장님](<https://www.edaily.co.kr/News/Read?newsId=06369766645644736&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
 - 2026-11-11T21:34:00+09:00: [\[오늘의 운세\] 11월 12일 띠별 재물운…자금 이동보다 쓰임새 선별할 때](<https://www.topstarnews.net/news/articleView.html?idxno=16274198>)
@@ -64,8 +67,5 @@
 - 2026-11-11T08:04:00+09:00: [알뜰주유소 vs 정유사, 1,600억 원 정산 갈등 '법정 공방'으로 번지나](<https://www.gokorea.kr/news/articleView.html?idxno=885022>)
 - 2026-11-11T07:00:00+09:00: [\[Who Is ?\] 한경록 한솔제지 대표이사](<https://www.businesspost.co.kr/BP?command=article_view&num=451675>)
 - 2026-11-10T21:20:00+09:00: [\[오늘의 운세\] 11월 11일 띠별 재물운…자금의 흐름보다 쓰임과 회수 조...](<https://www.topstarnews.net/news/articleView.html?idxno=16273202>)
-- 2026-11-10T18:58:00+09:00: [최고가격제 정산 갈등 … 알뜰주유소 정유사 '소송'](<https://www.safetimes.co.kr/news/articleView.html?idxno=247372>)
-- 2026-11-10T18:37:00+09:00: [석유 최고가격제 이달 첫 계산서…'산정기준' 관건](<http://www.yonhapnewstv.co.kr/news/MYH202611101836313uC>)
-- 2026-11-10T17:37:00+09:00: [알뜰주유소, 최고가격제 손실보전 소외논란…정부 "사적계약"(종합)](<https://www.yna.co.kr/view/AKR20261110123251001?input=1195m>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

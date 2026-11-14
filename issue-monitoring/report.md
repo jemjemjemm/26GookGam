@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-11-14T10:00:17.616710+09:00
+# D-Issue 최신 수집 보고 | 2026-11-14T16:34:02.590687+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2018건 / 네이버 누적: 1334건 / 이번 네이버 신규: 5건.
+수집 기사: 2022건 / 네이버 누적: 1337건 / 이번 네이버 신규: 3건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 65회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 529/2018건 (26.2%)
-- 현대오일뱅크: 431/2018건 (21.4%)
-- GS: 20/2018건 (1.0%)
-- S-OIL: 22/2018건 (1.1%)
+- SK: 529/2022건 (26.2%)
+- 현대오일뱅크: 431/2022건 (21.3%)
+- GS: 20/2022건 (1.0%)
+- S-OIL: 22/2022건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 261건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 378건, 상태 scope_boundary_reached
-- 정유 가격정보: 10페이지, 기준일 이후 722건, 상태 scope_boundary_reached
+- 정유 가격정보: 10페이지, 기준일 이후 725건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 412건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 397건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 8페이지, 기준일 이후 606건, 상태 scope_boundary_reached
@@ -37,6 +37,9 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-14T12:24:00+09:00: [전국 휘발유 가격 26주째 내렸지만…두 달간 사실상 제자리](<https://www.busan.com/view/busan/view.php?code=2026111411402942119>)
+- 2026-11-14T11:40:00+09:00: [백악관, 트럼프-시진핑-푸틴, APEC 기간 중 공동 회담](<http://www.newstown.co.kr/news/articleView.html?idxno=721930>)
+- 2026-11-14T11:38:00+09:00: [석유 공급, 수요 초월 전망 나왔지만… 석유 가격 통제 "4주 더"](<https://www.mediapen.com/news/view/1137499>)
 - 2026-11-14T09:38:00+09:00: [상반기 호황 무색…대형 증권사 3분기 순이익 85% 급감](<https://www.mediapen.com/news/view/1137368>)
 - 2026-11-14T08:28:00+09:00: [\[저PBR 점검\] 삼양사·삼양홀딩스, 보유 지분가치 밑돈 시총…과징금·지...](<http://www.ftoday.co.kr/news/articleView.html?idxno=369664>)
 - 2026-11-14T07:28:00+09:00: [4년 만에 가장 뜨거운 미국 물가…한국 증시 외국인 수급 흔드나](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=504024>)
@@ -50,10 +53,10 @@
 - 2026-11-13T19:22:00+09:00: [삼성증권, 시장 변동성에도 이익 방어력…배당 매력 유효](<https://www.consumuch.com/news/articleView.html?idxno=79561>)
 - 2026-11-13T18:54:00+09:00: ["삼성증권, 3분기 순이익 3528억…브로커리지 부진 속 '전통 IB'가 살렸다...](<https://www.newsquest.co.kr/news/articleView.html?idxno=305025>)
 - 2026-11-13T18:10:00+09:00: [증권사 3분기 순익 반토막…과징금∙교육세 '뇌관'](<https://weekly.hankooki.com/news/articleView.html?idxno=7193666>)
-- 2026-11-13T18:02:00+09:00: [산업부 "최고가격제, 민생의 방파제…내년 유지는 미정"(종합)](<https://news.einfomax.co.kr/news/articleView.html?idxno=4444722>)
 - 2026-11-13T18:02:00+09:00: [석유 최고가격 '동결' 휘발유 1784원… "4조 2천억 예비비 내 정산 충분...](<http://www.metroseoul.co.kr/article/20261113500138>)
-- 2026-11-13T18:00:00+09:00: [정부, 정유사 손실 12월 초 첫 정산…"원가기준 적용 변함 없다"](<https://www.newspim.com/news/view/20261113001357>)
+- 2026-11-13T18:02:00+09:00: [산업부 "최고가격제, 민생의 방파제…내년 유지는 미정"(종합)](<https://news.einfomax.co.kr/news/articleView.html?idxno=4444722>)
 - 2026-11-13T18:00:00+09:00: [정부, 최고가격 첫 정산액 12월초 발표…"예비비 4.2조로 감당 가능"](<https://www.newsis.com/view/NISX20261113_0003867323>)
+- 2026-11-13T18:00:00+09:00: [정부, 정유사 손실 12월 초 첫 정산…"원가기준 적용 변함 없다"](<https://www.newspim.com/news/view/20261113001357>)
 - 2026-11-13T17:40:00+09:00: [호르무즈 해협서 가스운반선 기뢰 충돌 폭발](<https://www.gokorea.kr/news/articleView.html?idxno=885534>)
 - 2026-11-13T17:16:00+09:00: [\[채권마감\] 10년 금리 10일만 4%대 재진입, 유가·미 금리 급등](<https://www.etoday.co.kr/news/view/2648070>)
 - 2026-11-13T17:11:00+09:00: [국고채 금리 상승…유가 상승·美국채 약세](<https://biz.sbs.co.kr/article_hub/20000346332?division=NAVER>)
@@ -64,8 +67,5 @@
 - 2026-11-13T15:41:00+09:00: [트럼프 제재 완화에 러 경유 수출 두 배로…미국행 물량은 없어](<https://www.yna.co.kr/view/AKR20261113123400009?input=1195m>)
 - 2026-11-13T14:34:00+09:00: [\[Q4 전망\] "초저연체율 0.16%·WM 57%↑" 삼성증권, Q3 순익 3528억 방어…...](<http://www.economytalk.kr/news/articleView.html?idxno=425311>)
 - 2026-11-13T14:23:00+09:00: [을지키는민생실천위원장 연임한 민병덕…“억울함이 생기지 않는 구조...](<https://www.seoul.co.kr/news/plan/congressperson/2026/11/13/20261113500188?wlog_tag3=naver>)
-- 2026-11-13T09:00:00+00:00: [정부, 최고가격 첫 정산액 12월초 발표…"예비비 4.2조로 감당 가능" - 뉴시스](<https://news.google.com/rss/articles/CBMieEFVX3lxTFBGUUhUeTZ6cUpzNWxHVURzSVJVbnhhMWEzM2lmUG8ySS1LdGJPMXhacnNDamJ3cFF2UzFoMThiQ2lfQ2dyNUhrSDZQZkFCSkJIWFEyRERRelgtYXMzVzczbVozWlZfV1dBNVcyZmo0a0ZZa2hvSFhZbdIBeEFVX3lxTFBGUUhUeTZ6cUpzNWxHVURzSVJVbnhhMWEzM2lmUG8ySS1LdGJPMXhacnNDamJ3cFF2UzFoMThiQ2lfQ2dyNUhrSDZQZkFCSkJIWFEyRERRelgtYXMzVzczbVozWlZfV1dBNVcyZmo0a0ZZa2hvSFhZbQ?oc=5>)
-- 2026-11-13T08:56:32+00:00: [\[담합망국\] HD현대오일뱅크① "전쟁으로 먹고사는 회사" "올해 2조 벌듯"···정기선 회장은 침묵 | - 글로벌E](<https://news.google.com/rss/articles/CBMib0FVX3lxTFB4VExQczMzMURGYVFGT3liX2JUMW82UzBHdXhybnZtMkg0R2lpSlhwODN2M21MNkpKQ1BQSV9Ea3A5Zy1QekpxZzZJVUtLRFVpZjNTMXVnNUJaRUFIMnpHWlE4UGkzOVdmcjlPcHh1OA?oc=5>)
-- 2026-11-13T08:42:25+00:00: [\[담합망국\] HD현대오일뱅크① "전쟁으로 먹고사는 회사" "올해 2조 벌듯"···정기선 회장은 침묵 - 글로벌E](<https://news.google.com/rss/articles/CBMia0FVX3lxTFBad21UUDd5YlU0dGNPTE5NOHdTbFRFazFGdmxWSUhqOG8xNkRtVFA1ZnRjR3pSVjdZVXRaTU1vVXhmWjB6TmdRazNiU0I0b3V2SERRMERBcmFDQUFkX0lOWk5lZzRVaEJNQTRB?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

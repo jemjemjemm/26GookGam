@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-11-15T19:43:35.251778+09:00
+# D-Issue 최신 수집 보고 | 2026-11-16T02:27:54.172677+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2037건 / 네이버 누적: 1346건 / 이번 네이버 신규: 2건.
+수집 기사: 2039건 / 네이버 누적: 1347건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 65회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 530/2037건 (26.0%)
-- 현대오일뱅크: 431/2037건 (21.2%)
-- GS: 20/2037건 (1.0%)
-- S-OIL: 22/2037건 (1.1%)
+- SK: 530/2039건 (26.0%)
+- 현대오일뱅크: 431/2039건 (21.1%)
+- GS: 20/2039건 (1.0%)
+- S-OIL: 22/2039건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 262건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 378건, 상태 scope_boundary_reached
-- 정유 가격정보: 10페이지, 기준일 이후 729건, 상태 scope_boundary_reached
+- 정유 가격정보: 10페이지, 기준일 이후 730건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 412건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 5페이지, 기준일 이후 397건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 8페이지, 기준일 이후 610건, 상태 scope_boundary_reached
@@ -37,11 +37,13 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-15T21:38:00+09:00: [\[오늘의 운세\] 11월 16일 띠별 재물운…실행 의욕에 맞춘 자금 배분](<https://www.topstarnews.net/news/articleView.html?idxno=16277280>)
 - 2026-11-15T14:00:00+09:00: [한진칼 최대주주 자리 뺏고 뺏기고…8000억 쥔 산은의 선택은](<http://weekly.chosun.com/news/articleView.html?idxno=57091>)
 - 2026-11-15T12:10:00+09:00: [정부, 12차 석유최고가격 동결... 기름값 잡았지만 커지는 재정부담](<https://www.joongdo.co.kr/web/view.php?key=20261115010004981>)
 - 2026-11-15T08:02:00+09:00: [\[청년 가격표\] 첫 차 마련 청년, 기름값 43%는 세금…주유소 남는 돈은 ...](<https://www.youthdaily.co.kr/news/article.html?no=229770>)
 - 2026-11-15T07:58:00+09:00: [트럼프 리스크·엔비디아 쇼크...코스피 5300선 후퇴](<http://www.breaknews.com/1251056>)
 - 2026-11-15T07:44:00+09:00: [\[오늘의 운세\] 11월 15일 띠별 재물운…자금 이동과 집행 속도 차이](<https://www.topstarnews.net/news/articleView.html?idxno=16276870>)
+- 2026-11-15T07:00:00+00:00: [미뤄둔 정기보수 내년 집중…K정유 호황 더 길어지나 - 아시아투데이](<https://news.google.com/rss/articles/CBMibkFVX3lxTE9QREo2enpPZjZwWE41bzNaMXhNNkxiQUJpZ05qOHJJR2FBTE1obU5QNERmd0NvdWNQWnJ0QXR4a0hmNnR5SXhNc2FZLVJtcHoxd2F4R0haNEFTQUlndnhYRFJfQmpUMTRRUmRLRGt3?oc=5>)
 - 2026-11-15T07:00:00+00:00: [미뤄둔 정기보수 내년 집중…K정유 호황 더 길어지나 - 아시아투데이](<https://news.google.com/rss/articles/CBMibEFVX3lxTFB3ZVJFeVFlR1NUdFpGUDZYWWhPNlpHZDg2U3lzZDNEQ1lzOUppNXFYbjJMX0pZRUNsamlFWUFyamJxb0xsRlhxTnc0ZnNSUkpLd29BZVRuaUJFTEtveXhlaTJrWjVhakhXOTJQNw?oc=5>)
 - 2026-11-15T06:30:00+09:00: [주유비 최대 17% 할인… 카드사, 생활비 특화카드 잇따라](<https://it.chosun.com/news/articleView.html?idxno=3000000000983>)
 - 2026-11-15T06:00:00+09:00: [SK이노 '정유 피크아웃' 앞두고 계열사 CEO 겸직 구조 리셋, 강동수 '수...](<https://www.businesspost.co.kr/BP?command=article_view&num=451724>)
@@ -65,7 +67,5 @@
 - 2026-11-13T19:22:00+09:00: [삼성증권, 시장 변동성에도 이익 방어력…배당 매력 유효](<https://www.consumuch.com/news/articleView.html?idxno=79561>)
 - 2026-11-13T18:54:00+09:00: ["삼성증권, 3분기 순이익 3528억…브로커리지 부진 속 '전통 IB'가 살렸다...](<https://www.newsquest.co.kr/news/articleView.html?idxno=305025>)
 - 2026-11-13T18:10:00+09:00: [증권사 3분기 순익 반토막…과징금∙교육세 '뇌관'](<https://weekly.hankooki.com/news/articleView.html?idxno=7193666>)
-- 2026-11-13T18:02:00+09:00: [산업부 "최고가격제, 민생의 방파제…내년 유지는 미정"(종합)](<https://news.einfomax.co.kr/news/articleView.html?idxno=4444722>)
-- 2026-11-13T18:02:00+09:00: [석유 최고가격 '동결' 휘발유 1784원… "4조 2천억 예비비 내 정산 충분...](<http://www.metroseoul.co.kr/article/20261113500138>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

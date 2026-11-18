@@ -1,27 +1,27 @@
-# D-Issue 최신 수집 보고 | 2026-11-18T19:41:05.068222+09:00
+# D-Issue 최신 수집 보고 | 2026-11-19T04:09:22.266232+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2171건 / 네이버 누적: 1458건 / 이번 네이버 신규: 7건.
+수집 기사: 2176건 / 네이버 누적: 1463건 / 이번 네이버 신규: 5건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 69회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 550/2171건 (25.3%)
-- 현대오일뱅크: 442/2171건 (20.4%)
-- GS: 21/2171건 (1.0%)
-- S-OIL: 23/2171건 (1.1%)
+- SK: 550/2176건 (25.3%)
+- 현대오일뱅크: 442/2176건 (20.3%)
+- GS: 21/2176건 (1.0%)
+- S-OIL: 23/2176건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 266건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 385건, 상태 scope_boundary_reached
-- 정유 가격정보: 10페이지, 기준일 이후 747건, 상태 scope_boundary_reached
+- 정유 가격정보: 10페이지, 기준일 이후 751건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 417건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 6페이지, 기준일 이후 403건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 9페이지, 기준일 이후 635건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 9페이지, 기준일 이후 636건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
 - 현대 오일뱅크 담합: 6페이지, 기준일 이후 403건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 19건, 상태 scope_boundary_reached
@@ -37,6 +37,11 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-18T21:44:00+09:00: [\[오늘의 운세\] 11월 19일 띠별 재물운…자금 운용은 선별, 지출은 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16280177>)
+- 2026-11-18T21:44:00+09:00: [\[대구논단\] AI 시대 국민 기본권의 재정립](<https://www.idaegu.co.kr/news/articleView.html?idxno=565835>)
+- 2026-11-18T21:32:00+09:00: [\[오늘의 사주 일진 운세\] 11월 19일 정유일…세밀한 판단은 살리고 지나...](<https://www.topstarnews.net/news/articleView.html?idxno=16280167>)
+- 2026-11-18T21:20:00+09:00: [\[공기업레이더\] "'비상장' 석유공사와 통합 시너지 불명"…"'대왕고래' ...](<https://weekly.hankooki.com/news/articleView.html?idxno=7194639>)
+- 2026-11-18T19:47:00+09:00: [KB국민카드, ‘KB 니드 오일 카드’ 출시](<https://sports.donga.com/economy/article/all/20261118/135042108/1>)
 - 2026-11-18T17:20:00+09:00: [\[DQN\] 종투사 10개사 평균 NCR 2400%대 달해…유동성 관리 강화 깃발 \[202...](<https://www.fntimes.com/html/view.php?ud=202611181653542726179ad43907_18>)
 - 2026-11-18T17:02:00+09:00: [고유가 뒤 유가 하락세…정유업계, 4분기 수익성 변수](<https://www.g-enews.com/view.php?ud=20261118143045466024debea800_1>)
 - 2026-11-18T16:45:00+09:00: [사후정산 폐지 약속 7개월…정유사 "최고가격제 끝나야 시행"](<http://www.inews24.com/view/2027703>)
@@ -62,10 +67,5 @@
 - 2026-11-18T02:24:58+00:00: [정유 4사, 1~3분기 합산 영업익 '16조' 육박…"高유가·高마진·윤활유 호조 효과" - 뉴시스](<https://news.google.com/rss/articles/CBMieEFVX3lxTE9WZW5iRGpySHowZWk3bUZzMk1uVnFwclFyenlqcm03LUpYdUNyWWlSQVFfcHhoNk1pcmV5ajAtTkl2WFB0dTZTS2UtM05ad1RFQUpVeWlYUVNnQS1wSTRPMlM4ZTloS3F4cFVET29zNF9ZSmYtLXE2ZtIBeEFVX3lxTE9WZW5iRGpySHowZWk3bUZzMk1uVnFwclFyenlqcm03LUpYdUNyWWlSQVFfcHhoNk1pcmV5ajAtTkl2WFB0dTZTS2UtM05ad1RFQUpVeWlYUVNnQS1wSTRPMlM4ZTloS3F4cFVET29zNF9ZSmYtLXE2Zg?oc=5>)
 - 2026-11-17T22:32:00+09:00: [\[오늘의 운세\] 11월 18일 띠별 재물운…자금 활용과 위험 관리의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16279299>)
 - 2026-11-17T21:42:00+09:00: [해상풍력과 그린수소, 울산의 미래를 설계하라](<https://www.ulsanpress.net/news/articleView.html?idxno=587038>)
-- 2026-11-17T21:04:00+09:00: [원유는 8월 이후 최저인데 주유소 가격표는 왜 안 움직일까?](<https://www.gukjenews.com/news/articleView.html?idxno=3755096>)
-- 2026-11-17T19:56:00+09:00: [11월 3주 주요 제조업 전망](<https://www.laborplus.co.kr/news/articleView.html?idxno=41817>)
-- 2026-11-17T18:36:00+09:00: [\[대중문화칼럼\] 도서정가제 개혁에서 다시 생각해야 할 점들](<https://www.newscj.com/news/articleView.html?idxno=3449563>)
-- 2026-11-17T17:17:00+09:00: [담합 제재 기업이 공정거래 제도는 잘 갖췄다](<https://www.khan.co.kr/article/202611171717001>)
-- 2026-11-17T16:56:00+09:00: [\[롯데케미칼 리스크\] 재무약정 준수 유예… 대산 자금보충·美 실리카 소...](<https://www.newsclaim.co.kr/news/articleView.html?idxno=3083079>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

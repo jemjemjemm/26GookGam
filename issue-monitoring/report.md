@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-11-22T08:35:06.574159+09:00
+# D-Issue 최신 수집 보고 | 2026-11-22T12:28:50.976053+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2235건 / 네이버 누적: 1508건 / 이번 네이버 신규: 0건.
+수집 기사: 2237건 / 네이버 누적: 1509건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 69회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 553/2235건 (24.7%)
-- 현대오일뱅크: 450/2235건 (20.1%)
-- GS: 22/2235건 (1.0%)
-- S-OIL: 24/2235건 (1.1%)
+- SK: 553/2237건 (24.7%)
+- 현대오일뱅크: 450/2237건 (20.1%)
+- GS: 22/2237건 (1.0%)
+- S-OIL: 24/2237건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -27,7 +27,7 @@
 - 정유 리니언시: 1페이지, 기준일 이후 22건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 34건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 236건, 상태 scope_boundary_reached
-- 유가 담합: 6페이지, 기준일 이후 446건, 상태 scope_boundary_reached
+- 유가 담합: 6페이지, 기준일 이후 447건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 155건, 상태 scope_boundary_reached
 - 휘발유 담합: 4페이지, 기준일 이후 317건, 상태 scope_boundary_reached
 - 경유 담합: 4페이지, 기준일 이후 323건, 상태 scope_boundary_reached
@@ -37,6 +37,8 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-22T10:00:00+09:00: [신한·KB·JB금융, ESG등급 'A+' 최우수](<https://www.m-i.kr/news/articleView.html?idxno=2021344>)
+- 2026-11-22T02:31:19+00:00: [中 태양광 수출 급등…美 관세 부과 막판 사재기 - 지디넷코리아](<https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUTllaVjllNTZqZDdFNU54QWNBUFItMExkc3dfZFdVRUMwUFBJMUxCWWo0eDZnNllqMnB6TE1fYTdsNzd4d2NIc1FrTG5WZVhzMF9VOTZB?oc=5>)
 - 2026-11-22T00:10:00+09:00: [주유소 기름값 27주째 하락…휘발유-1854.7원, 경유-1841.5원](<https://www.energy-news.co.kr/news/articleView.html?idxno=229969>)
 - 2026-11-21T22:12:00+09:00: [\[오늘의 운세\] 11월 22일 띠별 재물운…지출과 정산의 순서 가릴 때](<https://www.topstarnews.net/news/articleView.html?idxno=16282561>)
 - 2026-11-21T13:08:00+09:00: [전국 기름값 뚝… 한 달 새 28센트 하락](<https://www.koreadaily.com/article/20261120200749286>)
@@ -65,7 +67,5 @@
 - 2026-11-20T05:30:48+00:00: [공판서 유가 담합 의혹 맞선 정유 4사…거래 관행 개선은 ‘진행중’ - 투데이신문](<https://news.google.com/rss/articles/CBMib0FVX3lxTE15OUJJQ05wWUxwOVpYM1NTc1p2UHFaV2hGemRzVTJxRWdGUzRaNFVReWRqbTZMTVcxNU9FTGgzYjY0MzlQTmpQeEZXbVRfQ3hUX2pTb3g3bmdMd1NlWlNva2NmYkdiUkhXWEo4SkdtRdIBb0FVX3lxTE15OUJJQ05wWUxwOVpYM1NTc1p2UHFaV2hGemRzVTJxRWdGUzRaNFVReWRqbTZMTVcxNU9FTGgzYjY0MzlQTmpQeEZXbVRfQ3hUX2pTb3g3bmdMd1NlWlNva2NmYkdiUkhXWEo4SkdtRQ?oc=5>)
 - 2026-11-20T02:18:00+00:00: [석유 한 방울 안 나는데 … 수출 금자탑 견인하고도 웃지 못하는 K정유사 - 뉴데일리 경제](<https://news.google.com/rss/articles/CBMigAFBVV95cUxOZi1zaHJzNkMzV2ZoZV9FNzN2UUVieFlBUnFTV1ZGdDV2eERlVW80UWFYMFN3YzdTRy1KQTRVSWxXdmgwVFBXQXlZSFluR091Ui1IdmZiNjlZU3Mzb1l2cTJta1U3T2R6aUVNSVZmT3N4T3h4RmhGQUNodWxNS3hqX9IBgAFBVV95cUxOZi1zaHJzNkMzV2ZoZV9FNzN2UUVieFlBUnFTV1ZGdDV2eERlVW80UWFYMFN3YzdTRy1KQTRVSWxXdmgwVFBXQXlZSFluR091Ui1IdmZiNjlZU3Mzb1l2cTJta1U3T2R6aUVNSVZmT3N4T3h4RmhGQUNodWxNS3hqXw?oc=5>)
 - 2026-11-19T21:48:00+09:00: [\[오늘의 운세\] 11월 20일 띠별 재물운…자금 투입보다 회수·배분의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16280988>)
-- 2026-11-19T18:40:00+09:00: [\[이슈\] 석유 최고가격제 첫 정산 임박…정유사 '정당한 보상' 요구](<http://www.sisafocus.co.kr/news/articleView.html?idxno=367828>)
-- 2026-11-19T18:02:00+09:00: [춘투가 동투로...중후장대 노사·노노갈등 위험수위](<https://www.ajunews.com/view/20261119135907993>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

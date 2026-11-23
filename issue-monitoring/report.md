@@ -1,33 +1,33 @@
-# D-Issue 최신 수집 보고 | 2026-11-23T09:28:00.706118+09:00
+# D-Issue 최신 수집 보고 | 2026-11-23T17:10:11.973819+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2253건 / 네이버 누적: 1511건 / 이번 네이버 신규: 1건.
+수집 기사: 2281건 / 네이버 누적: 1537건 / 이번 네이버 신규: 26건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
-네이버 연결: 실제 응답 확인 / 검색 조회: 69회 / 수집 범위 상태: ok.
+네이버 연결: 실제 응답 확인 / 검색 조회: 70회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 553/2253건 (24.5%)
-- 현대오일뱅크: 450/2253건 (20.0%)
-- GS: 22/2253건 (1.0%)
-- S-OIL: 24/2253건 (1.1%)
+- SK: 554/2281건 (24.3%)
+- 현대오일뱅크: 450/2281건 (19.7%)
+- GS: 22/2281건 (1.0%)
+- S-OIL: 24/2281건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 276건, 상태 scope_boundary_reached
-- 정유사 담합: 5페이지, 기준일 이후 394건, 상태 scope_boundary_reached
-- 정유 가격정보: 10페이지, 기준일 이후 773건, 상태 scope_boundary_reached
-- SK에너지 담합: 6페이지, 기준일 이후 426건, 상태 scope_boundary_reached
-- 현대오일뱅크 담합: 6페이지, 기준일 이후 411건, 상태 scope_boundary_reached
-- SK에너지 현대오일뱅크: 9페이지, 기준일 이후 658건, 상태 scope_boundary_reached
+- 정유사 담합: 5페이지, 기준일 이후 395건, 상태 scope_boundary_reached
+- 정유 가격정보: 11페이지, 기준일 이후 796건, 상태 scope_boundary_reached
+- SK에너지 담합: 6페이지, 기준일 이후 428건, 상태 scope_boundary_reached
+- 현대오일뱅크 담합: 6페이지, 기준일 이후 412건, 상태 scope_boundary_reached
+- SK에너지 현대오일뱅크: 9페이지, 기준일 이후 659건, 상태 scope_boundary_reached
 - 에스케이 에너지 담합: 1페이지, 기준일 이후 1건, 상태 scope_boundary_reached
-- 현대 오일뱅크 담합: 6페이지, 기준일 이후 411건, 상태 scope_boundary_reached
+- 현대 오일뱅크 담합: 6페이지, 기준일 이후 412건, 상태 scope_boundary_reached
 - 정유 리니언시: 1페이지, 기준일 이후 22건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 34건, 상태 scope_boundary_reached
 - 정유 공정위: 3페이지, 기준일 이후 236건, 상태 scope_boundary_reached
-- 유가 담합: 6페이지, 기준일 이후 447건, 상태 scope_boundary_reached
+- 유가 담합: 6페이지, 기준일 이후 449건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 155건, 상태 scope_boundary_reached
 - 휘발유 담합: 4페이지, 기준일 이후 317건, 상태 scope_boundary_reached
 - 경유 담합: 4페이지, 기준일 이후 323건, 상태 scope_boundary_reached
@@ -37,35 +37,35 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-23T17:04:00+09:00: [내년 수출도 반도체 독주…非 반도체 증가율 1.5% 그치며 'K자 양극' 고착](<https://www.ajunews.com/view/20261123162504874>)
+- 2026-11-23T17:03:00+09:00: [내년에도 수출 1조 달러 전망…반도체가 절반, 산업도 ‘K자 양극화’ ...](<https://www.khan.co.kr/article/202611231703001>)
+- 2026-11-23T16:59:00+09:00: [중국이 클수록 한국 수출은 흔들…13대 주력산업 중 10곳 '비상'](<https://www.news1.kr/economy/idustry-trade/6363185>)
+- 2026-11-23T16:26:00+09:00: [산업연구원 "내년 수출 1조3천억달러…반도체 51% 양극화 지적"](<https://www.livebiz.today/news/articleView.html?idxno=206805>)
+- 2026-11-23T16:21:00+09:00: [“2027년 수출액은 1조3000억 달러”… 정말 현실화될까](<http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.99099007197>)
+- 2026-11-23T16:04:00+09:00: [\[SK지오센트릭 리스크\] 사망사고 2건 사법절차… 담합 조사에 울산 NCC 재...](<https://www.newsclaim.co.kr/news/articleView.html?idxno=3083796>)
+- 2026-11-23T15:50:00+09:00: ["내년 수출 1조3202억 달러 전망…절반은 반도체"](<https://www.g-enews.com/view.php?ud=2026112315433473523084322ec9_1>)
+- 2026-11-23T15:45:00+09:00: [산업연 “내년 수출 1조3000억달러…반도체, 전체의 절반 이상 51% 전망”](<https://biz.heraldcorp.com/article/10946373?ref=naver>)
+- 2026-11-23T15:40:00+09:00: [내년 수출 1.32조달러 '사상 최대' 질주…'반도체 편식' 50.7% 경고등](<https://www.pointdaily.co.kr/news/articleView.html?idxno=327038>)
+- 2026-11-23T15:28:00+09:00: [산업硏 "내년 수출 1조3천억 달러…반도체 비중 50.7% 전망"](<https://www.jasm.co.kr/news/view/326193/?sc=Naver>)
+- 2026-11-23T15:28:00+09:00: [산업연구원 “내년 수출 1조 3천억 달러…반도체 비중 51% 전망”](<https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720061&ref=A>)
+- 2026-11-23T15:18:00+09:00: [내년 수출 1조 3202억 달러 전망…올해보다 14.1% 증가](<https://www.nocutnews.co.kr/news/6611156?utm_source=naver&utm_medium=article&utm_campaign=20261123151750>)
+- 2026-11-23T15:12:00+09:00: [내년 13대 주력산업 수출만 1조달러 돌파 전망… 3.5% 성장 속 ‘반도체...](<http://www.metroseoul.co.kr/article/20261123500407>)
+- 2026-11-23T15:02:00+09:00: [“내년 韓수출 1.3조달러 전망”…산업연, 경제성장률 3.5% 제시](<https://www.edaily.co.kr/News/Read?newsId=02663366645648672&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
+- 2026-11-23T15:02:00+09:00: [산업연 "내년 수출 14.1% 증가한 1조3202억弗 전망"…성장률 전망치 3.5%](<https://www.ajunews.com/view/20261123143009267>)
+- 2026-11-23T15:01:00+09:00: [내년 수출 14.1% 증가 전망…반도체 제외하면 1.5% 그쳐](<https://www.fnnews.com/news/202611231404428050>)
+- 2026-11-23T15:00:00+09:00: [반도체 수출 30% 뛸 때 자동차는 뒷걸음…내년에도 산업별 희비](<https://www.newsis.com/view/NISX20261123_0003879340>)
+- 2026-11-23T15:00:00+09:00: [반도체 호황에 내년 경제 3.5% 성장…수출 1조3000억 달러 전망](<https://view.asiae.co.kr/article/2026112314431528007>)
+- 2026-11-23T15:00:00+09:00: [산업연구원 "내년 연간성장률 3.5% 전망…AI 인프라 투자 지속"](<http://www.yonhapnewstv.co.kr/news/AKR202611231055287T7>)
+- 2026-11-23T15:00:00+09:00: [내년 韓 경제 3.5%, 수출 14% 성장 전망…반도체 호조 지속](<https://www.m-i.kr/news/articleView.html?idxno=2022123>)
+- 2026-11-23T15:00:00+09:00: [산업연 "내년에도 2년 연속 '수출 1조달러' 상회…하반기엔 역성장 우려...](<https://www.mt.co.kr/economy/2026/11/23/2026112314271826550>)
+- 2026-11-23T15:00:00+09:00: [산업연구원 "내년 수출 1조3천억달러…반도체 비중 51% 전망"](<https://www.yna.co.kr/view/AKR20261123111400003?input=1195m>)
+- 2026-11-23T15:00:00+09:00: [산업硏 “내년 3.5% 성장…반도체 의존 더 커진다”](<https://www.dt.co.kr/article/12096653?ref=naver>)
+- 2026-11-23T14:26:00+09:00: ["이익보다 고객 신뢰" 못 박은 이재근…KB 4대 계열사 CEO 연임 전선 '이...](<https://www.newsquest.co.kr/news/articleView.html?idxno=305614>)
+- 2026-11-23T11:52:00+09:00: [\[단독\]공정위, 연말까지 매주 회의… 李에 발맞춰 민생현안 ‘속전속결...](<https://www.munhwa.com/article/11633299?ref=naver>)
+- 2026-11-23T11:44:00+09:00: [\[아시아라운드업 20261123\] "중국 기술주 시총, 6월말 이후 2천300조 증발...](<http://kor.theasian.asia/archives/422784>)
 - 2026-11-23T07:02:00+09:00: [\[Who Is ?\] 이영준 롯데케미칼 대표이사 겸 롯데 화학군 총괄대표 사장](<https://www.businesspost.co.kr/BP?command=article_view&num=450773>)
+- 2026-11-23T05:15:17+00:00: [”안 그래도 민생 팍팍한데” 11월 셋째주 기름값 ↑, '26조 파급' 유가 담합 의혹 24일 증인신문 - 뉴스워커](<https://news.google.com/rss/articles/CBMidEFVX3lxTFA1aDRFUXhscmpqRk5icmRSOXlUZjVmTVRNTmx1dmtoaDlDN0YyRTc0MTZHQmplTjBiWjliZXRUYkRhRmtZbEVEUHNvbFZnbWdwcHBYWDM1cDBUQWZEd2l0SEkzVHFRdUU5djF3UlVxdWUxZ0hN0gF0QVVfeXFMUDVoNEVReGxyampGTmJyZFI5eVRmNWZNVE1ObHV2a2hoOUM3RjJFNzQxNkdCamVOMGJaOWJldFRiRGFGa1lsRURQc29sVmdtZ3BwcFhYMzVwMFRBZkR3aXRISTNUcVF1RTl2MXdSVXF1ZTFnSE0?oc=5>)
 - 2026-11-22T22:06:00+09:00: [\[오늘의 운세\] 11월 23일 띠별 재물운…지출 기준·거래 조건 살필 때](<https://www.topstarnews.net/news/articleView.html?idxno=16283050>)
 - 2026-11-22T10:00:00+09:00: [신한·KB·JB금융, ESG등급 'A+' 최우수](<https://www.m-i.kr/news/articleView.html?idxno=2021344>)
-- 2026-11-22T02:31:19+00:00: [中 태양광 수출 급등…美 관세 부과 막판 사재기 - 지디넷코리아](<https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUTllaVjllNTZqZDdFNU54QWNBUFItMExkc3dfZFdVRUMwUFBJMUxCWWo0eDZnNllqMnB6TE1fYTdsNzd4d2NIc1FrTG5WZVhzMF9VOTZB?oc=5>)
-- 2026-11-22T00:10:00+09:00: [주유소 기름값 27주째 하락…휘발유-1854.7원, 경유-1841.5원](<https://www.energy-news.co.kr/news/articleView.html?idxno=229969>)
-- 2026-11-21T23:00:03+00:00: [\[오늘의 유가\] 11월 22일(일) 휘발유 1,854원 보합 · 경유 1,841원 보합 - 코리안투데이](<https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KajZSMXpVd2J6ODZIXzhpV1hUTGJQdllBcFFSUlpnbGFVbGRLdW5IUnFTeTI2c08weWJ5YjVRLVRmaDk3NVh3Qg?oc=5>)
-- 2026-11-21T22:12:00+09:00: [\[오늘의 운세\] 11월 22일 띠별 재물운…지출과 정산의 순서 가릴 때](<https://www.topstarnews.net/news/articleView.html?idxno=16282561>)
-- 2026-11-21T15:08:46+00:00: [주유소 기름값 27주째 하락…휘발유-1854.7원, 경유-1841.5원 - 에너지신문](<https://news.google.com/rss/articles/CBMickFVX3lxTE1VLTIzQVc4dVpDVmllaXFlOThxa21pTHlrM0F0U0RsTFZMOUk0Z3VnbFFFRzJKQkZmdjh3MFMzeHRlUG5PTE5ZQ2Z0QlB0ZlFuSzRibmFaOGFqVjNUdlp3Q1FQWTN5TzYwZnJOd0R4YllDQQ?oc=5>)
-- 2026-11-21T13:08:00+09:00: [전국 기름값 뚝… 한 달 새 28센트 하락](<https://www.koreadaily.com/article/20261120200749286>)
-- 2026-11-21T12:00:00+09:00: [증권사 4분기 실적도 '흐림'···거래대금 감소·과징금 변수](<https://www.seoulfn.com/news/articleView.html?idxno=643511>)
-- 2026-11-21T10:20:00+09:00: [기름값 27주 연속 하락, 휘발유 1855원…국제유가 하락에도 낙폭 0.4원](<https://www.newsworks.co.kr/news/articleView.html?idxno=903916>)
-- 2026-11-21T01:39:00+09:00: [앤트로픽도 쓸어간 AI 퍼펙트 스톰…애플 참전에 AI 경쟁 격화 \[박신영의...](<https://www.hankyung.com/article/202611211028i>)
-- 2026-11-20T23:04:00+09:00: [\[오늘의 운세\] 11월 21일 띠별 재물운…자금 이동과 관리의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16281794>)
-- 2026-11-20T18:06:00+09:00: [\[이슈플러스\] 석유 최고가격제 정산 임박…4조 간극에 셈법 복잡](<https://www.sentv.co.kr/article/view/sentv202611200146>)
-- 2026-11-20T17:14:00+09:00: [\[코오롱인더스트리 리스크\] 아라미드 공급 경쟁·원재료값 상승… 합병...](<https://www.newsclaim.co.kr/news/articleView.html?idxno=3083582>)
-- 2026-11-20T16:58:00+09:00: [\[특징주\] 한화솔루션·현대에너지솔루션·한솔테크닉스, 태양광 패널 담...](<http://www.biztribune.co.kr/news/articleView.html?idxno=362920>)
-- 2026-11-20T15:29:00+09:00: [중국, 스티렌 생산능력 확대에 따라 순수출국 전환하며 한국 시장에 영...](<http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245180>)
-- 2026-11-20T15:06:00+09:00: [식품사 원가 부담 5년 새 가중…10곳 중 8곳 원가율↑](<http://www.hansbiz.co.kr/news/articleView.html?idxno=885581>)
-- 2026-11-20T15:02:00+09:00: [대형 3곳 다 밀리고 iM만 영업익 늘었다···증권사 12곳 비교해 보니](<https://www.womaneconomy.co.kr/news/articleView.html?idxno=261421>)
-- 2026-11-20T14:56:00+09:00: [중소형 증권사 순익 1년 새 67% '뚝'…상품운용 부진에 내년 유동성 규제...](<https://www.etoday.co.kr/news/view/2650988>)
-- 2026-11-20T14:44:00+09:00: [정유업계, 중동 전쟁 반사이익에 3분기 '호실적' 달성](<http://www.the-biz.co.kr/news/articleView.html?idxno=731565>)
-- 2026-11-20T14:40:00+09:00: [공판서 유가 담합 의혹 맞선 정유 4사…거래 관행 개선은 '진행중'](<https://www.ntoday.co.kr/news/articleView.html?idxno=130984>)
-- 2026-11-20T14:10:00+09:00: [트럼프, 이란 핵시설 공격과 미·중·러 담판 사이에서 승부수 노려](<https://www.m-joongang.com/news/articleView.html?idxno=403320>)
-- 2026-11-20T13:18:00+09:00: [고유가에 마르는 현금…정유업계, 최고가격제 정산 촉각](<https://www.ebn.co.kr/news/articleView.html?idxno=1732473>)
-- 2026-11-20T13:02:00+09:00: [HD현대오일뱅크·SK에너지·에쓰오일·GS칼텍스 ‘입금가 정보교환’ 놓...](<https://www.naeil.com/news/read/609523?ref=naver>)
-- 2026-11-20T12:50:00+09:00: [정기선 준법경영 시험대…HD현대오일뱅크 담합 재판 어디까지?(2부)](<https://www.the-today.com/news/articleView.html?idxno=93822>)
-- 2026-11-20T11:46:00+09:00: [\[H&L어드밴스드 리스크\] 비축유 긴급임차·NCC 감축… 제품공급·환경규...](<https://www.newsclaim.co.kr/news/articleView.html?idxno=3083498>)
-- 2026-11-20T11:20:00+09:00: [석유 한 방울 안 나는데 … 수출 금자탑 견인하고도 웃지 못하는 K정유...](<https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050104.html>)
-- 2026-11-20T11:08:00+09:00: [미중러 정제유 증산 선언에 韓 경유 수출 단가 하락 압력](<http://www.smedaily.co.kr/news/articleView.html?idxno=366395>)
-- 2026-11-20T09:05:49+00:00: [\[이슈플러스\] 석유 최고가격제 정산 임박…4조 간극에 셈법 복잡 - 서울경제TV](<https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zX2RLejBwZmhya01XUTd2dEpmcGJvTHdIbnpYd29iT0tjTXFJZEJGYWJXQkVFNEpQLWk5S0c3V295ZUlPTnIwUF94a2xHR3h3X0ZkdXZ3MlFldnJXR2dIZktBbFQ?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

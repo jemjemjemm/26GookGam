@@ -1,24 +1,24 @@
-# D-Issue 최신 수집 보고 | 2026-11-23T04:29:59.666673+09:00
+# D-Issue 최신 수집 보고 | 2026-11-23T09:28:00.706118+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2252건 / 네이버 누적: 1510건 / 이번 네이버 신규: 1건.
+수집 기사: 2253건 / 네이버 누적: 1511건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 69회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 553/2252건 (24.6%)
-- 현대오일뱅크: 450/2252건 (20.0%)
-- GS: 22/2252건 (1.0%)
-- S-OIL: 24/2252건 (1.1%)
+- SK: 553/2253건 (24.5%)
+- 현대오일뱅크: 450/2253건 (20.0%)
+- GS: 22/2253건 (1.0%)
+- S-OIL: 24/2253건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
 - 정유 담합: 4페이지, 기준일 이후 276건, 상태 scope_boundary_reached
 - 정유사 담합: 5페이지, 기준일 이후 394건, 상태 scope_boundary_reached
-- 정유 가격정보: 10페이지, 기준일 이후 772건, 상태 scope_boundary_reached
+- 정유 가격정보: 10페이지, 기준일 이후 773건, 상태 scope_boundary_reached
 - SK에너지 담합: 6페이지, 기준일 이후 426건, 상태 scope_boundary_reached
 - 현대오일뱅크 담합: 6페이지, 기준일 이후 411건, 상태 scope_boundary_reached
 - SK에너지 현대오일뱅크: 9페이지, 기준일 이후 658건, 상태 scope_boundary_reached
@@ -37,6 +37,7 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-23T07:02:00+09:00: [\[Who Is ?\] 이영준 롯데케미칼 대표이사 겸 롯데 화학군 총괄대표 사장](<https://www.businesspost.co.kr/BP?command=article_view&num=450773>)
 - 2026-11-22T22:06:00+09:00: [\[오늘의 운세\] 11월 23일 띠별 재물운…지출 기준·거래 조건 살필 때](<https://www.topstarnews.net/news/articleView.html?idxno=16283050>)
 - 2026-11-22T10:00:00+09:00: [신한·KB·JB금융, ESG등급 'A+' 최우수](<https://www.m-i.kr/news/articleView.html?idxno=2021344>)
 - 2026-11-22T02:31:19+00:00: [中 태양광 수출 급등…美 관세 부과 막판 사재기 - 지디넷코리아](<https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUTllaVjllNTZqZDdFNU54QWNBUFItMExkc3dfZFdVRUMwUFBJMUxCWWo0eDZnNllqMnB6TE1fYTdsNzd4d2NIc1FrTG5WZVhzMF9VOTZB?oc=5>)
@@ -66,6 +67,5 @@
 - 2026-11-20T11:20:00+09:00: [석유 한 방울 안 나는데 … 수출 금자탑 견인하고도 웃지 못하는 K정유...](<https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050104.html>)
 - 2026-11-20T11:08:00+09:00: [미중러 정제유 증산 선언에 韓 경유 수출 단가 하락 압력](<http://www.smedaily.co.kr/news/articleView.html?idxno=366395>)
 - 2026-11-20T09:05:49+00:00: [\[이슈플러스\] 석유 최고가격제 정산 임박…4조 간극에 셈법 복잡 - 서울경제TV](<https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zX2RLejBwZmhya01XUTd2dEpmcGJvTHdIbnpYd29iT0tjTXFJZEJGYWJXQkVFNEpQLWk5S0c3V295ZUlPTnIwUF94a2xHR3h3X0ZkdXZ3MlFldnJXR2dIZktBbFQ?oc=5>)
-- 2026-11-20T07:45:27+00:00: [석화·정유 이어 태양광까지…공정위, 담합 조사 범위 확대 - 지디넷코리아](<https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tNmRmNVhnZjNoVExYdFBzRnNOVThmNTlKeWs2ZXNVOWZFd3lHT3lWckhKNWZmaE5nS0pmeVAteHB5N0YyX3ZHVE5RT2xVNnZfeFJ2UkFR?oc=5>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.

@@ -1,18 +1,18 @@
-# D-Issue 최신 수집 보고 | 2026-11-28T12:22:41.356337+09:00
+# D-Issue 최신 수집 보고 | 2026-11-28T21:17:45.404088+09:00
 
 검토 대기 초안 · 제목·링크 관측 기준 · 사건의 확정 사실이나 본문 AI 분석이 아닙니다.
 
-수집 기사: 2413건 / 네이버 누적: 1632건 / 이번 네이버 신규: 3건.
+수집 기사: 2414건 / 네이버 누적: 1633건 / 이번 네이버 신규: 1건.
 판단 기준: 보관 장부의 기사 URL 단위 집계. RSS와 네이버의 전재·중복 보도가 포함될 수 있습니다.
 
 네이버 연결: 실제 응답 확인 / 검색 조회: 74회 / 수집 범위 상태: ok.
 판단 기준: 페이지 응답 성공으로 연결을 확인합니다. 검색 상한·오류가 있으면 전체 수집 완료로 해석하지 않습니다.
 
 ## 회사별 제목 노출
-- SK: 564/2413건 (23.4%)
-- 현대오일뱅크: 456/2413건 (18.9%)
-- GS: 25/2413건 (1.0%)
-- S-OIL: 26/2413건 (1.1%)
+- SK: 564/2414건 (23.4%)
+- 현대오일뱅크: 456/2414건 (18.9%)
+- GS: 25/2414건 (1.0%)
+- S-OIL: 26/2414건 (1.1%)
 판단 기준: 회사명 제목 언급 기사 ÷ 수집 기사 ×100. 복수 회사 언급 가능. 책임·부정·실제 도달률이 아닙니다.
 
 ## 검색별 수집 범위
@@ -27,7 +27,7 @@
 - 정유 리니언시: 1페이지, 기준일 이후 23건, 상태 scope_boundary_reached
 - 정유 자진신고: 1페이지, 기준일 이후 35건, 상태 scope_boundary_reached
 - 정유 공정위: 4페이지, 기준일 이후 250건, 상태 scope_boundary_reached
-- 유가 담합: 6페이지, 기준일 이후 466건, 상태 scope_boundary_reached
+- 유가 담합: 6페이지, 기준일 이후 467건, 상태 scope_boundary_reached
 - 기름값 담합: 2페이지, 기준일 이후 157건, 상태 scope_boundary_reached
 - 휘발유 담합: 4페이지, 기준일 이후 322건, 상태 scope_boundary_reached
 - 경유 담합: 5페이지, 기준일 이후 329건, 상태 scope_boundary_reached
@@ -37,6 +37,7 @@
 댓글·SNS·방송 실제 수집 및 공식 브리핑 원문 연결 대기. 미관측을 무반응으로 해석하지 않습니다. 법 위반·대상·수치의 확정 서술은 보류합니다.
 
 ## 최근 수집 기사 30건
+- 2026-11-28T21:08:00+09:00: [이주완 "삼성전자 4만원까지 내려갈 수도" 4만전자 전망 …이유 주시해...](<https://www.cbci.co.kr/news/articleView.html?idxno=631635>)
 - 2026-11-28T10:16:00+09:00: [월마트·코스트코 질주에 필수소비재 20% 상승…CJ제일제당·오리온도 주...](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=509111>)
 - 2026-11-28T09:20:00+09:00: [금시세·금값 28일](<https://www.bntnews.co.kr/article/view/bnt202611280067>)
 - 2026-11-28T06:26:00+09:00: [세계 석유 공급 과잉 우려에 유가 내리막… 항공·해운주에 볕 들까](<https://www.pinpointnews.co.kr/news/articleView.html?idxno=509069>)
@@ -50,8 +51,8 @@
 - 2026-11-27T16:18:00+09:00: [주병기 "대기업 수출 최대인데 공급망 파급효과 미미"](<https://www.newscj.com/news/articleView.html?idxno=3452729>)
 - 2026-11-27T15:49:00+09:00: [공정위원장 “대기업 수출 사상 최대에도…공급망 통한 파급효과 미미”](<https://biz.heraldcorp.com/article/10952045?ref=naver>)
 - 2026-11-27T15:28:00+09:00: [주병기 "반도체 수출 호황에도 파급효과 미미…상생협력 필요"](<https://www.edaily.co.kr/News/Read?newsId=02686326645649984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article>)
-- 2026-11-27T15:24:00+09:00: [주병기 "사상 최대 수출, 공급망 파급효과 미미" 협력사 상생 강조](<https://www.busan.com/view/busan/view.php?code=2026112715234560592>)
 - 2026-11-27T15:24:00+09:00: [주병기 공정위원장 “대기업 수출 최대지만 낙수효과 미미…상생협력 ...](<https://www.etoday.co.kr/news/view/2654006>)
+- 2026-11-27T15:24:00+09:00: [주병기 "사상 최대 수출, 공급망 파급효과 미미" 협력사 상생 강조](<https://www.busan.com/view/busan/view.php?code=2026112715234560592>)
 - 2026-11-27T15:17:00+09:00: [주병기 "사상 최대 수출에도 공급망 파급효과 미미"…상생 강조](<https://www.yna.co.kr/view/AKR20261127105000002?input=1195m>)
 - 2026-11-27T13:00:00+09:00: [\[산업연구원\] 황경인 전략산업분설실장 "美 후판·강관 수급난이 철강 ...](<http://www.snmnews.com/news/articleView.html?idxno=578019>)
 - 2026-11-27T11:34:00+09:00: [\[N2 증시 풍향계\] 로봇주·방산주 줄줄이 급등세…안랩 52주 신고가·윙...](<https://www.news2day.co.kr/article/20261127500141>)
@@ -66,6 +67,5 @@
 - 2026-11-27T08:00:02+00:00: [유가 담합 의혹 2차 증인신문…가격 반영 인정, 쟁점은 ‘합의 여부’ - 투데이신문](<https://news.google.com/rss/articles/CBMia0FVX3lxTE4weXFGMjF1ZkdEN3FlejhiSDRiUXMyUlhybUc2d0RLRkszN2RpRFdpYW96S01hM2VNbnJLY1BZMWtzSFFFMXRpLUVOS29ldXJ3RGExVUdzTVd3RUU2bE1TVW5PVzlqMlROaTUw0gFvQVVfeXFMTktBZDE3d05yYy1aNEtSeUJTU0JiSkhUQ0JqZVpVYnlCYlIzclp1dGhrQy0xOXB5dmpqT2x4RjZMcVJ2bTZnUlJsQ0w1eEhsQjQwaFpJUTJzeGJIWWZTdXpzS0VFTGtKVVFoeURITThv?oc=5>)
 - 2026-11-26T23:00:05+00:00: [\[오늘의 유가\] 11월 27일(금) 휘발유 1,854원 보합 · 경유 1,841원 보합 - 코리안투데이](<https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JVGlvUzZaMW5GOHZQN0doaUVYeW9yQnhSTHhwMFBwSUU0RjVnSUhFTzRIWEs1WFVnelVGTV9Xc0xzM0paM2RfSA?oc=5>)
 - 2026-11-26T23:00:02+00:00: [HD현대오일뱅크, 상고심 진행 중 전 임원 자문역 위촉…상반기 보수 1·2위 - 청년일보](<https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51TEdLT3hqTThiMGRFc3RoQzJESTVRejZzN0dVNkNDWkxucS1DNVpRdHhfWmhpWjBlOXkyOUZMc0NqYWF6NE9QU2kya2Rrc1RRanFDU0JJSHRJNzJxcHNNcGltUzctTUU?oc=5>)
-- 2026-11-26T21:28:00+09:00: [\[오늘의 운세\] 11월 27일 띠별 재물운…자금 투입과 회수의 균형](<https://www.topstarnews.net/news/articleView.html?idxno=16287351>)
 
 기사 제목은 언론의 표현입니다. 분류·판단의 확정 근거로 사용하기 전 원문과 담당자 검토가 필요합니다.
